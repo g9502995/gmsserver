@@ -1,0 +1,80 @@
+/*
+	This file is part of the OdinMS Maple Story Server
+    Copyright (C) 2008 Patrick Huy <patrick.huy@frz.cc>
+		       Matthias Butz <matze@odinms.de>
+		       Jan Christian Meyer <vimes@odinms.de>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation version 3 as published by
+    the Free Software Foundation. You may not use, modify or distribute
+    this program under any other version of the GNU Affero General Public
+    License.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+/*
+@	Author : Ronan
+@
+@	NPC = Nuris (9040001)
+@	Map = Sharenian - Returning Path
+@	NPC MapId = 990001100
+@	NPC Exit-MapId = 101030104
+@
+ */
+
+var status;
+
+function start() {
+    status = -1;
+    action(1, 0, 0);
+}
+
+function action(mode, type, selection) {
+    if (mode == 1) {
+        status++;
+    } else {
+        cm.dispose();
+        return;
+    }
+
+    if (status == 0) {
+        var outText = "看来你已经探索完圣瑞尼亚堡垒了，对吗？现在要返回招募地图吗？";
+        cm.sendYesNo(outText);
+    } else if (mode == 1) {
+        var eim = cm.getEventInstance();
+
+        if (eim != null && eim.isEventCleared()) {
+            if (!eim.giveEventReward(cm.getPlayer())) {
+                cm.sendNext("看起来你的#r装备#k、#r消耗#k或#r其他#k背包中都没有空位。请先腾出一些空间。");
+            } else {
+
+                var items = [4000601,4033006];
+                var count = [1,100];
+                for(let i=0;i < items.length; i++){
+                    if(cm.canHold(items[i],count[i])){
+                        cm.gainItem(items[i], count[i]);
+                    }else{
+                        cm.message("背包空间已满");
+                    }
+                }
+
+                cm.warp(101030104);
+
+                cm.getPlayer().serverMessage("完成了【家族对抗赛】获得了大量奖励！");
+            }
+
+            cm.dispose();
+        } else {
+            cm.warp(101030104);
+            cm.dispose();
+        }
+    }
+}
+

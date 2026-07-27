@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01149977.img" indent="2" media="BASE64">
+  <imgdir name="info">
+    <string name="islot" value="Me"/>
+    <string name="vslot" value="Me"/>
+    <int name="incPAD" value="0"/>
+    <int name="tuc" value="0"/>
+    <int name="notSale" value="1"/>
+    <int name="cash" value="0"/>
+    <int name="medalTag" value="962"/>
+    <canvas name="icon" format="2" scale="0" basedata="iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAEVUlEQVR4Xr2XC5HjMAyGi6UUSiEUSiEUQsEUQsEUQiEUQqEUevps/ansuru9mZvTjNaP6PFZdpzu5RJkmvPzf2vM/yYYrMf+PB6PJ0Kr/kjiM9lGVSzavo/+CoTM9+0pvU3rP9cYv889FAz3ra5aTqxkWQ9b4bNppUgc93aAKDZC/L8CWuajgQIobY8nG5T3qhpHYcy8bDRWZRDiEv9rIERQOb1WE6EQJWZMFdQyF+EEQxzifQVjpUWvpjdUAUZQEUxbwlhbJBDZ9jCKpVye9w2IydV0lyoQbexTAVYdz0yvPMcu+nUwZx7Pe+2BIPVit6LVCYyE3wh28lGVR+JQt49A1j63ox5KRHtu8w2JDu5IJb6thyokP+KTB/kKSEHpSyUx6W6BuRtj29sgfRyefQ0EvZzc4RzHJHH8tzaI8vwK5EZF5KyWaSVJ+SiK7Ht10JxsVNg+juJ7fwgU37IDhxGU+skO7JqrIjghmhNg9IkwruT5+JYJajJNh99/MVhTEQ79RsT6XECMmddZihVDAtTD85Dv/R6S+MPs8ZtA87KVykgEgwion8cevwEQSp62MhIIHWY+/PWOQbhT7nxg094kl6gi7dyj2JcPcxpWiS0jX1shh6F0EJfzEx1p77ZKVooWKD8jiLYvQhUYqmO2+E73PAISFHnJfwIx2AQSnerZqcFJqCSC0v0DkO4h5ssnxM4OQUt1Wcj6XiXEwTCdbFiATpjeQdul1VMYEgFV37TqGFvml/W1tbRUdrrX7xvSt8Q15eMyAXQ+lEro9+eDsYD0C1Y2jNNaq0JlVdX7XH995vA96/N5jHwpf/mAdqr5nyokiT+7ASqV8mrNy17OUATqcwXQ/XJ+f/JLJRhq/7HTeSIJb05KlQSI0iYg6nlacz1PI6ASu8u31Urli3U2H5wP40rYe0rOQS6rBspgloUbudqlxc/LXqHWtQIBthgQ/lNXodKGfKbMTgBNEUoGpc2cl+OE0jYJCOEipK8LcTE4oARLCxRz/YLVB8a0vmXWQSfTbHq8rWKrvxApu7aKBALatgpBi0QYSXm1dTRCXM9HXvK/LkeHuprOGBUHrYYqLfVnKVD3omboP7hqhV7fNUDjdqpCMV5pgcklH3lfMFH8IcStc6ZKybX+wwecfgWqOoyBLWdu4T/VjzDWf2R7G8ffsrNCuZQumZZT2lfpekunTlNuqoQwZp4DDFje6pv4BpQfD4NJppP13yvklVlN91LKur9dkBas/L811315Ae1nBcsH1X2aOB7bxmwZ+cjbVsombsBUlzHM+SyAUYVtq688bTlbSwsin6b1+N4Hqv3FGIE+3kmDJNw3KdUxLePeZhQHOfP8BlR+9YUgUklMwsW3KUF+fULe4Ls4PAvXwM9AkKMdFOfqvKPKvCflRpZ+AGl8ea4cbvMzUC8ejPvinuuN2lRsJLJxe/zO+62XT0DxLeu1vAW5vdF7m5GeN7D7/xhfLH8Aamkm4G0GKAsAAAAASUVORK5CYII=">
+      <vector name="origin" x="1" y="32"/>
+      <string name="_hash" value="50236cb57edbe38b05553e164272abde7277aa85dd0d5599baa73825f36b922f"/>
+    </canvas>
+    <canvas name="iconRaw" format="2" scale="0" basedata="iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAESUlEQVR4Xr2XDbHrIBBGq6UWaiEWaiEWYgELsYCFWIiFWKiFPg67X7pQem/fzJu3M1sC2Z/DQkh6uQSZ5vz83xrzvwkG67E/j8fjidDqeiTxnmyjKhZtf43+CoTM9+0pvU3rP9cYv889FAz3zWYtJ2ayrEeZ4bNppUjs93aAKDZC/L8CWuajgQIobY8nC5R3U/Wj0GdcNuqrMghxif81ECKonF6ziVCIEtOnCmoZi3CCIQ7xvoIppUWvRW+oAoygIpiWhL6WSCCy7WEUS7k87xsQg2vRXapAtPGaCjDruGd65T520a+DOfN43msPBKkXuxXNTmAk/Eawk4+qPBKHun0EKu1zO2xTIlrzMt6QaOOOVOLLeqhC8iM+eZCvgBSUa6kkJt1LYM7G2PY2SB+He18DQS8ndzj7MUns/60Nojy/ArlRFTmrZVhJUj6qIvtuDhqTjQrbx1F8vx4CxafswGEEpetUNuyaTRGcEI0JMPpEGFfyfHzKBDUVTYeffzFYUxE2/UZEuy8g+oxrL8WKIQHq4XnI934OSfxm9vhNoHnZamUkgkEE1I9jj98ACCVPWxkJhA4zH/54xyCcKXdesGlvkktUkXbsUe3rizkNq8SSka+tkMNQOojr/omOtPcyS2aKVijfI4iWL0JVGKpTbPGd7nkEJCjykv8EorMJJDrZ3rHgJFQSQen8AUjnEOP1FVL2DkFrdZnI+l4lxMEwnUq3Ap0wvYOWS7OnMCQCyp40c4wt48v6WlpaKjvd7f2G9C1xi/JymQA6b0olXPf7g76A9AUrG/pptapQWVX1PtvXZw7vsz6fx8iX+ssLtFON/1QhSfzsBqhWyqs1L3vdQxGozxVA98v5/skvlWCo9cdO+4kkPDkpGQkQtU1A2H5as+2nEVCN3eXbrFL5Ui4275w340xYe0rORq6zBqrALAsnstmlxffLblDrakCALQUI/6mrUG1DvqKMTgBNEUoGtc3sl+OE0jIJCOEg5FoH4lLggBIsLVCM9RPWNTBF7SkrF+hUNBc93max2RciZddSkUBA22YQtEiEkdRHW1sjxPV85CX/63B0qGvRGaPqoNlQpcU+S4G6Vy2G/sFlFXq91wCNy6kKxXi1NRjykfcFE8VvQtw6Z6qUXO0PH3D6ClR16ANb99zCP9WPMCh5xu+yUCFKl4rWXdpX6XpLp05TbqqE0GecDQxY3uxJHAA9PA/53ivkg2vRPfs+QpsguQWr/7dmW5cX0H5WsL5Q3aeJ47E9D/nI21aqDNy4aS5jmPNeAKMK22aPPG3dW0sLIp+m9fh+DVT7xRiBPp5JgyScNylZn5Z+bzOKg5x5fgOqX30hiFQSk3DwbUqQX6+QN/guDvfCMfAzEORoB8V6n2dUHfeknMjSDyCNL/eVw21+BurFg3Fe3LOdqE3FRiIbt8fvPN96+QQUn7Je61OQ2xO9txnpeQK7/4/xxfIHvNQoI9uruiQAAAAASUVORK5CYII=">
+      <vector name="origin" x="1" y="32"/>
+      <string name="_hash" value="4b624630fdd09430b1edadffd159d4d6c892dce1fd2d69aa46fcddba968876b8"/>
+    </canvas>
+    <int name="tradeBlock" value="1"/>
+    <int name="only" value="0"/>
+    <int name="price" value="1"/>
+    <int name="reqDEX" value="0"/>
+    <int name="reqINT" value="0"/>
+    <int name="reqJob" value="0"/>
+    <int name="reqLevel" value="0"/>
+    <int name="reqLUK" value="0"/>
+    <int name="reqSTR" value="0"/>
+    <int name="timeLimited" value="0"/>
+  </imgdir>
+</imgdir>

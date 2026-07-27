@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9310216.img" indent="2" media="BASE64">
+  <imgdir name="info">
+    <string name="link" value="2082014"/>
+    <imgdir name="script">
+      <imgdir name="0">
+        <string name="script" value="9310216"/>
+      </imgdir>
+    </imgdir>
+  </imgdir>
+</imgdir>

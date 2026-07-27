@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01149981.img" indent="2" media="BASE64">
+  <imgdir name="info">
+    <canvas name="icon" format="2" scale="0" basedata="iVBORw0KGgoAAAANSUhEUgAAACIAAAAhCAYAAAC803lsAAADwUlEQVR4Xq2XDbGsMAyFsYCFWqgFLNQCFmphLWABC1jAAhaw0JeT9uwN4Wf3zrudyVBomnw9/dvtuoeyziMe5a+txf1VQadS9qlowfMLQx/2Y90a4vpEn0oZh76EEP/L+j68DfEQ1yd6KjqiOQ8lpZcaCuu0GEc1+LL+1IZ4eEd8n/CuaGJ0ZBAfFGanjtI/+SPer6ZH4uoDnSgxgnrZ9btZP77N9yPEVwu2lKzP5mxXu47IzjkToc6Ett0p8BkCye+sBVI3GN65iKnYkOqT72i3AEhu4nQCyOqx+OQEgHEbYnR0hw2h13lP40tBYHjHd/oQwMc5gfjkJ8POeWnHgnd02ZaXJlOAYVRD3b6jHX6E4Q5sU3VW5JS45N5YWF4JAD1gDhBtizIxRnoAQ5uBadsWAGc1UG4gZOVlWYVbrs8c+r5BxAoRhyQJUwXyyihgqj5HGM35LUiD0CGseEZJXva5JIXIshZwuK3v3cLE+s1a29Lw+ZmmuiNP5QKkQWwzjod5xmE1lTFJwjHrKJGECxBJ8A0w3Kp2cRIEygiEwsigPMYBpKmxvaoSP2Xb1jLNs4IQgjuAIFDJnh88V3juDENWGCiraT2MU+Q9LVUJSbtMJecsI8aaGCQhpiYfQPAOmAp00S4QIQ5qtzDnqdmnKIeR6KBKAGIcEVzuHIBgZMMFSExqqFMxqwbqAIlta59gPEiAU9l1TUzTJEpABdzAvNBqwMPUYKQNEHXbBl+uHYUJ1bD7CHMF0mGbIlAasBtGVaEqUbcnJfbJCOLVoD/eoUYFiQoC31uQKlf9vUAp0YEB8U4IJotmDXhA+CuA6Q9D/EcQwtCJI1QYGck1SE1kfT0IpkzNQaz2JvYgVzD8YcNr34JA7jtAAujU6g0d1AeH40GRm6JOdkFZECb7AYnadgeiiQUiZ5nmZdT1h7uLS8Ant+W94CwMEyIJzQLa7/qLrCkBCN2N+6a7US/SBtHUvy7ipA+O7k4Zgtl3+NL0bpLRQwlAoOx6aC9Fd+dxKVyXtogOynBOCYB3D+AvPPhABdi6rnL5VXX2eqV8BukaBGS2yuCJNirhAeBL4zp4mygBiGVJQaxf1tTNc/oOBElQJwzqVn4PUBP+qFKnp04RD0s8UwpBrJefGD7vZXnDHJKbZB6AytHYjlh96DIU5kIVoK8o4BS6BmMNyQ4ADpaJ2Y662EtMQdjecnwscIpi+F3XRlCDvKFEASanzw1EgnEA7dtXECxUhRbtWQHrjGImiTX2RSza3xQBOFhnEq9P/+Ieyj/oan1ue4PXZQAAAABJRU5ErkJggg==">
+      <vector name="origin" x="2" y="32"/>
+      <string name="_hash" value="2131394d5a4f83def3a9f24b0809a5b330328e3d9ea7afddcc0f83d339f840e8"/>
+    </canvas>
+    <canvas name="iconRaw" format="2" scale="0" basedata="iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAADn0lEQVR4Xq2WjZGrMAyEaYEWaIEWaIEWaMEtpAVaoIW0QAu0kBZ82rWXCAW4zL3nGQ04FtrPkn/SNDdtXSY88v+2Gvfrhg9yfs2ZDc8vDN/oO717Q9wodNfyNLS56/p/srbtdkM8xI1CV40zWdKQx/FBQ9O7rO8nGnz1fjeGeOgjfhQ8axTFRwoQA8J8uZTuO3/E+7okFpMPfKC0ImBMNX936yWOxe8E8OvizDnxWR39quZMfI0lgneJ+fEw83sACF9ZDUI3GPpasMrUMJan+hj34hB2cRqD0+u7RWGJw7TVMCu5w4auZZ3H6UEIGPr4XT4Sj3EOEFH4w7BDHvwoo49PtueDQhQfJhrefR/j8BOIdlotzzETH6I5tc6652OEeAuQA0DdhhLFDA9QGHMgdWtC/JiFE4hd3MxW3JbKM3VtWwH6AtAPo4mNBSZmhHBj8TmCUPMbiApA9BXP3oTza8kjAZLVHgfXuu8KifI3b3XbwuddmrLzDu0EogJsC7b/suAgmvM0mtiUODsIaLFBAL8BRNvRL0RBICMGQBCb0CVEzcL2KBl4t21b87wshBCAVrogkB1/Pujc0LkyDIkgyOgHSMjEXoqSAZN8zjmlZDPFGhhMDOVIBwj0AVJgTsYNoOsH2inIZzlec28Hjc2fGQDANCGw3SGAwIyGE4h+pOFdmfJZwDsg+rp9DyARooNDfnENzPNsGcDscZPqcirBDuXADCsc3v0YfLVWCNIVwy4TSIRosBURZByw6ifOvmSgbEGlNQoJImZB/ugjCwWiJwR8TyFKisp9r/TBWcHQF4CEelfzCAd/irvvYYh/CSEQOWhmBLEZnEMUEe8bIVAmWgBYdaNGiDMQ/SnR1e0hkOIrOImznLxpO/rg4NszcdHo4BePh5DQG6Ln2BUERQ0gJSvtc+J6w12kskdxtX1xeRCJQUDm4fzv/CdVMwAA7rrXxl3HS7EC1Kx/NnPgQ7O6yoigfB++Mt41NmtkAABoLx7Gz8xd+C79easL5pAR1VDi6EfxeHnBB7OHretqF1nNSrkm7iGaCoDU+ozgiTFlIIrDV6a672YZcADfQ0AA7wLBu095FC9i72yUkpSy6CD0pbiF0LoQyEHYCUVxZUymccbKOJHL7ar+LQSaB/EGoYN4AJWoxhmjCqq8/rdfm0BgCrAD2cwlLJ9TAIsBMcHX8RL/G4jY/FkAa1ymJOCtToL/KyuIdt7fmomeWuNE/yLwA7GTpZv6Kxj2AAAAAElFTkSuQmCC">
+      <vector name="origin" x="2" y="32"/>
+      <string name="_hash" value="15bbcc583f9646f621824a6772613b4e2cc671dfe3be60dc2a729245f95e32f8"/>
+    </canvas>
+    <string name="islot" value="Me"/>
+    <string name="vslot" value="Me"/>
+    <int name="incSTR" value="0"/>
+    <int name="incDEX" value="0"/>
+    <int name="incINT" value="0"/>
+    <int name="incLUK" value="0"/>
+    <int name="tuc" value="0"/>
+    <int name="cash" value="0"/>
+    <int name="notSale" value="1"/>
+    <int name="incMHP" value="0"/>
+    <int name="incMMP" value="0"/>
+    <int name="incPAD" value="0"/>
+    <int name="incMAD" value="0"/>
+    <int name="medalTag" value="969"/>
+    <int name="tradeBlock" value="1"/>
+    <int name="only" value="0"/>
+    <int name="price" value="1"/>
+    <int name="reqDEX" value="0"/>
+    <int name="reqINT" value="0"/>
+    <int name="reqJob" value="0"/>
+    <int name="reqLevel" value="0"/>
+    <int name="reqLUK" value="0"/>
+    <int name="reqSTR" value="0"/>
+    <int name="timeLimited" value="0"/>
+  </imgdir>
+</imgdir>

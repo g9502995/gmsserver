@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir indent="2" media="NONE" name="01802100.img">
+  <imgdir name="info">
+    <canvas format="1" height="31" name="icon" scale="0" width="31">
+      <vector name="origin" x="-1" y="31"/>
+    </canvas>
+    <canvas format="1" height="29" name="iconRaw" scale="0" width="31">
+      <vector name="origin" x="-1" y="31"/>
+    </canvas>
+    <int name="reqLevel" value="0"/>
+    <int name="cash" value="1"/>
+  </imgdir>
+</imgdir>

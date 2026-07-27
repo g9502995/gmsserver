@@ -1,0 +1,2786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="OXQuiz.img">
+  <imgdir name="1">
+    <imgdir name="1">
+      <string name="q" value="《冒险岛》中最弱的怪物是蓝蜗牛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="最弱的怪物是绿蜗牛（等级1）。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="《冒险岛》中最强的怪物是小巴洛古（JR. BALROG）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="目前最强的怪物是深红巴洛古（CRIMSON BALROG）。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="红蜗牛仅出现在新手游玩的枫叶岛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="在维多利亚岛也有大量红蜗牛分布。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="击败猪猪后，偶尔能获得【猪尾巴】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你偶尔会获得【猪头】。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="击败带丝带的猪猪（RIBBONED PIG）可获得【蓝丝带】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你会获得【红丝带】。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="蘑菇类怪物中最弱的是橙色蘑菇。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="蘑菇类怪物中最弱的是孢子怪（等级2）。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="击败名为卢品（LUPIN）的可爱猴子怪物，可获得【卢品玩偶】。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="你会获得卢品玩偶、香蕉等物品。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="德雷克（DRAKE）是栖息在地下城深处的怪物，击败它偶尔能获得【德雷克的脚趾甲】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你会获得【德雷克的皮肤】。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="击败猪猪、野猪或独角蘑菇，均可获得【皮革】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="独角蘑菇不会掉落【皮革】。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="新手地图或艾琳尼亚周边常见的史莱姆是蓝色史莱姆。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="新手地图里能见到的是绿色史莱姆。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="野外、森林或工地周边常见的绿色蘑菇，菌盖上有一根灰色的角。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="绿色蘑菇没有角。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="栖息在地下城深处的野蛮卡戈（WILD CARGO）擅长近距离和远距离攻击。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="野蛮卡戈仅会近距离攻击。"/>
+    </imgdir>
+    <imgdir name="13">
+      <string name="q" value="邪眼（EVIL EYE）、诅咒之眼（CURSE EYE）和冰眼（COLD EYE）外形相似，但只有邪眼有两只眼睛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它们都只有一只眼睛。"/>
+    </imgdir>
+    <imgdir name="14">
+      <string name="q" value="沼泽周边的鳄鱼怪（LIGATORS）长得很像蜘蛛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它们外形类似短吻鳄。"/>
+    </imgdir>
+    <imgdir name="15">
+      <string name="q" value="地下城深处的野蛮卡戈是变异的猫形怪物，头顶正中有一只角。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="野蛮卡戈有两只巨大的角。"/>
+    </imgdir>
+    <imgdir name="16">
+      <string name="q" value="栖息在被诅咒的祭坛中的小巴洛古（JR. BALROG）是80级怪物。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="小巴洛古是80级怪物。"/>
+    </imgdir>
+    <imgdir name="17">
+      <string name="q" value="《冒险岛》中速度最快的怪物是石头魔像（STONE GOLLEM）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="石头魔像和暗黑石头魔像被认为是游戏中最慢的怪物。"/>
+    </imgdir>
+    <imgdir name="18">
+      <string name="q" value="邪恶的僵尸卢品（ZOMBIE LUPIN）是由极老的格伦德尔（Grendel the Really Old）通过黑魔法和被诅咒的玩偶创造的。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="这是一种由极老的格伦德尔用黑魔法制造的怪物。"/>
+    </imgdir>
+    <imgdir name="19">
+      <string name="q" value="巨型蘑菇怪物蘑菇王（MUSHMOM）本质上是橙色蘑菇的巨型版本。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="蘑菇王是橙色蘑菇的巨型版本。"/>
+    </imgdir>
+    <imgdir name="20">
+      <string name="q" value="栖息在地铁中的泡泡怪（BUBBLINGS）会通过远程发射泡泡进行攻击。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="泡泡怪仅会近距离攻击。"/>
+    </imgdir>
+    <imgdir name="21">
+      <string name="q" value="飞行怪物吸血蝙蝠（STIRGE）通常会长时间飞行，然后挂在天花板上休息。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它们从不停止飞行。"/>
+    </imgdir>
+    <imgdir name="22">
+      <string name="q" value="击败小颈鹿（JR. NECKI）可获得【小颈鹿的皮】，食用后能恢复一定量的魔力值（MP）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="【小颈鹿的皮】不可食用。"/>
+    </imgdir>
+    <imgdir name="23">
+      <string name="q" value="外形像鬼魂的小幽灵（JR. WRAITH）偶尔会掉落【蓝色桌布】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它们仅掉落【白色桌布】。"/>
+    </imgdir>
+    <imgdir name="24">
+      <string name="q" value="弗洛里娜海滩周边外形像螃蟹的洛朗（LORANG）偶尔会跳跃攻击。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="它们确实像螃蟹，而且也会跳跃攻击。"/>
+    </imgdir>
+    <imgdir name="25">
+      <string name="q" value="外形像螃蟹的洛朗（LORANG）在濒死时会挖沙子躲进去。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它们会战斗至死（真勇敢……）。"/>
+    </imgdir>
+    <imgdir name="26">
+      <string name="q" value="外形像海龟的乌姆提（UMTI）通常会远程强力攻击。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="乌姆提会进行远程攻击。"/>
+    </imgdir>
+    <imgdir name="27">
+      <string name="q" value="【铁猪的金属蹄】可从身披金属盔甲、外形像马的铁猪（IRON HOG）身上获得。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="铁猪是猪（不是马）。"/>
+    </imgdir>
+    <imgdir name="28">
+      <string name="q" value="幽灵（Wraith）掉落的【诡异气息的药】，服用后会让你感觉非常怪异。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="【诡异气息的药】不可服用。"/>
+    </imgdir>
+    <imgdir name="29">
+      <string name="q" value="骑着扫帚飞行的玛拉迪（MALADY）会从远处发射激光束。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="玛拉迪仅会近距离攻击。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="红色德雷克（RED DRAKE）是唯一会远程攻击的德雷克类怪物。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="红色德雷克会远程强力攻击。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="栖息在沼泽周边的克罗科（CROKO）等级高于铜色德雷克（COPPER DRAKE）。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="克罗科是52级，铜色德雷克是45级。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="铜色德雷克（COPPER DRAKE）出现在佩里昂附近，以远程攻击著称。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它仅会近距离攻击。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="冰封雪域（El Nath）的所有怪物都弱于火系攻击。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="暗黑雪人（DARK YETI）和暗黑皮皮（DARK PEPE）弱于圣属性攻击。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="小雪人（JR. YETI）和变形小雪人等级与生命值（HP）相同。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="它们都是50级，生命值3700。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="100级的深红巴洛古（CRIMSON BALROG）不会被毒系攻击中毒。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="它能抵消毒系攻击，但弱于圣属性攻击。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="骑着扫帚飞行的玛拉迪（MALADY）是不死系怪物。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它弱于圣属性攻击，但并非不死系怪物。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="掉落【硬羽毛】的怪物有赫克托（HECTOR）、暗黑雪人（DARK YETI）和狼人（LYCANTHROPE）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="赫克托、暗黑雪人和狼人会掉落【硬羽毛】。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="掉落【软羽毛】的怪物有雪人（YETI）、小雪人（JR. YETI）、白牙（WHITE FANG）、狼人（LYCANTHROPE）和卢品（LUPIN）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="卢品掉落的是【硬羽毛】。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="斧头树桩（AXE STUMP）是因伐木工忘记从树上取下斧头，树木被愤怒催生的怪物。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="有传说称，斧头树桩是因伐木工忘记取下斧头，树木因愤怒变成的怪物。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="狼人（WEREWOLF）会召唤分身协助攻击。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="狼人没有分身。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="食人花（NEPENDEATH）和暗黑食人花（DARK NEPENDEATH）是唯一不会移动的怪物。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="食人花不会移动，只会原地攻击。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="出现在乡下的王鬼怪中，蓝色王鬼怪可通过猪肉山贼召唤。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="蓝色王鬼怪——需用酒盅召唤。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="出现在乡下的王鬼怪中，黄色王鬼怪可通过酒盅召唤。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="黄色王鬼怪——需用猪肉山贼召唤。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="《冒险岛》中最弱的怪物是「孢子怪」。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="不是孢子怪，蜗牛才是最弱的怪物。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="动物之森的狐狸和浣熊额头上都贴着树叶。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="这两种怪物的额头上都贴着树叶。"/>
+    </imgdir>
+    <imgdir name="116">
+      <string name="q" value="击败中国上海郊外的鸭子可获得鸭掌。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="无法获得鸭掌，可获得鸭蛋。"/>
+    </imgdir>
+    <imgdir name="117">
+      <string name="q" value="击败中国上海郊外的羊可获得羊毛。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="击败羊可以获得羊毛。"/>
+    </imgdir>
+    <imgdir name="118">
+      <string name="q" value="中国上海郊外的鸡全都是公鸡。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="全都是长着鸡冠的公鸡。"/>
+    </imgdir>
+    <imgdir name="119">
+      <string name="q" value="击败中国苏州分岔路的山羊可获得山羊胡须。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="击败山羊可获得白色角。"/>
+    </imgdir>
+    <imgdir name="120">
+      <string name="q" value="台湾西门町Ⅳ的小丑猴子转的球有绿色、蓝色、黄色。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="小丑猴子转的球是绿色、蓝色、红色。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="2">
+    <imgdir name="1">
+      <string name="q" value="制作1个加工木材需要15个树枝。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="10个树枝就足够了。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="使用1个青铜板和1个钢板可以制作一套螺丝钉，总共15个。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="螺丝钉可用于制作或升级装备。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="融合锤（单手钝器）仅对战士和魔法师开放使用权限。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="该武器仅战士和魔法师可使用。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="锤（单手钝器）仅对战士和魔法师开放使用权限。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="锤仅战士和魔法师可使用。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="长剑（单手剑）所有人都可以使用，但新手除外。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="新手也可以使用。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="射手村出售的弓箭手武器“雪崩”，附带的装备属性为力量+2。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="雪崩的附带装备属性为力量+1。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="单边耳环可在商店购买，但紫水晶耳环不行。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="紫水晶耳环可在射手村百货商店购买。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="26级可穿戴的蓝白低帮鞋，所有人（包括新手）都可以使用。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="该装备所有人均可使用。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="盔甲卷轴分为两种类型——防御型和生命值型。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可在勇士部落百货商店核实。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="在商店购买100%成功率的卷轴时，双手武器卷轴比单手武器卷轴更贵。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="双手武器卷轴和单手武器卷轴的价格相同。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="魔法密林的武器店只出售法杖和魔杖卷轴。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="也出售耳环卷轴。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="明珠港的武器店是唯一没有出售飞侠SUBI飞镖的地方。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="明珠港也有出售SUBI飞镖。"/>
+    </imgdir>
+    <imgdir name="13">
+      <string name="q" value="被盗的围栏仅在明珠港有售。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="方形木盾在明珠港有售。"/>
+    </imgdir>
+    <imgdir name="14">
+      <string name="q" value="黑白款韩式胶鞋的装备属性不同。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="仅颜色不同，属性一致。"/>
+    </imgdir>
+    <imgdir name="15">
+      <string name="q" value="使用100%成功率的拳套攻击力卷轴后，攻击力+1，命中率也会+1。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="仅攻击力+1，命中率保持不变。"/>
+    </imgdir>
+    <imgdir name="16">
+      <string name="q" value="单个道具栏格子可同时存放最多100个同类型矿石。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="每个格子最多可存放100个矿石。"/>
+    </imgdir>
+    <imgdir name="17">
+      <string name="q" value="掉落在地面上的道具，即使过了很长时间也不会消失。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="道具会在一定时间后消失。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="制作秘银塔盾需要钢铁塔盾、10个秘银板和50,000金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="所需金币不是50,000，而是100,000。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="制作月岩需要在精灵阿雯处各提交1个秘银板、钢板、青铜板、精金板、银板、奥利哈康板和金板。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="除上述材料外，还需要10,000金币。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="制作秘银鬃毛需要钢铁鬃毛、5个秘银板和55,000金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="由勇士部落的史密斯先生制作。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="魔法师帽子“钢铁荣耀”的装备属性为智力+1、运气+1。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="仅提供智力+1的属性。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="制作战士30级可穿戴的钢铁扳机，需要30个飞龙的皮。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需要30个皮革和20个飞龙的皮。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="弓箭手25级以上可穿戴的绿杰克靴，装备属性为敏捷+2。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="附带的属性为敏捷+1。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="飞侠35级以上可穿戴的蓝白纹靴，装备属性为运气+1、敏捷+1。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可在林中之城的克里斯马处获得。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="制作战士头盔“金属科伊夫”，需要青铜科伊夫、1个钢板和500金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="由勇士部落的桑德先生制作。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="制作弓箭手手套“绿迪罗斯”，需要红迪罗斯作为材料之一。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="所需材料不是红迪罗斯，而是蓝迪罗斯。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="制作基础弓箭手手套需要20个皮革。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="制作基础弓箭手手套需要15个皮革。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="制作飞侠手套“工作手套”，需要20个皮革和1,000金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需要15个皮革和1,000金币。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="制作飞侠手套“黑暗狼皮手套”，需要钢铁狼皮作为材料之一。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="所需材料不是钢铁狼皮，而是青铜狼皮。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="制作飞侠拳套“钢铁泰坦”，需要5个螺丝钉作为材料之一。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="由废弃都市街头的JM制作。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="制作飞侠拳套“钢铁伊戈尔”，需要青铜伊戈尔、2个钢板和3,000金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="由废弃都市街头的JM制作。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="制作魔法师手套“红卢提亚”，需要60个皮革。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="由魔法密林的弗朗索瓦制作。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="魔法师手套“黑暗阿尔滕”的装备属性为智力+2、运气+1。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="仅附带智力+3的属性。"/>
+    </imgdir>
+    <imgdir name="116">
+      <string name="q" value="战士手套“朱诺”的等级限制为15级。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="等级限制为10级。"/>
+    </imgdir>
+    <imgdir name="117">
+      <string name="q" value="制作战士手套“黄布里根”，需要2个黄玉。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="所需黄玉数量不是2个，而是3个。"/>
+    </imgdir>
+    <imgdir name="118">
+      <string name="q" value="所有全民可用的武器仅受等级限制，不受属性限制。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="部分武器会受属性影响。"/>
+    </imgdir>
+    <imgdir name="119">
+      <string name="q" value="制作战士手套“青铜外壳”，需要2个力量水晶作为材料之一。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="附带力量+2的属性。"/>
+    </imgdir>
+    <imgdir name="120">
+      <string name="q" value="雪地靴（可防止在雪地滑倒）所有人均可使用，等级限制为30级。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="不同职业的雪地靴有所不同。"/>
+    </imgdir>
+    <imgdir name="121">
+      <string name="q" value="制作名为“罗威尔”的十字弓需要45个螺丝钉。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需要40个螺丝钉。"/>
+    </imgdir>
+    <imgdir name="122">
+      <string name="q" value="提炼成本最高的是星岩。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="提炼成本最高的是黑暗水晶，需要花费50,000金币。"/>
+    </imgdir>
+    <imgdir name="123">
+      <string name="q" value="在修理店，可使用100个铁猪的金属蹄和1,000金币兑换1个钢板。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="修理店位于废弃都市。"/>
+    </imgdir>
+    <imgdir name="124">
+      <string name="q" value="青铜箭和钢铁箭均可在射手村的维希奥斯处购买。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="维希奥斯仅制作青铜箭。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="3">
+    <imgdir name="1">
+      <string name="q" value="出售1个蘑菇孢子可以获得5金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="出售1个蘑菇孢子可以获得3金币。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="史莱姆泡泡比软乎乎的液体贵。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="史莱姆泡泡确实比软乎乎的液体贵。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="出售1个青铜矿石可以获得100金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="出售1个青铜矿石可以获得100金币。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="红飞龙掉落的飞龙头骨比其他飞龙的飞龙头骨贵。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它们的售价都一样。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="提炼1个黑水晶需要花费3000金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="提炼1个黑水晶需要花费3000金币。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="出售1个橙色蘑菇盖可以获得8金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="出售1个橙色蘑菇盖可以获得4金币。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="出售10个树枝可以获得50金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="出售1个树枝可以获得4金币。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="出售3个皮革可以获得300金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="出售1个皮革可以获得100金币。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="10个金矿矿石和1个金板的售价相同。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="出售10个金矿矿石可获得3000金币，出售1个金板可获得1200金币。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="最贵的回城卷轴是去睡神之林的卷轴。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="睡神之林回城卷轴售价600金币。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="出售5个马拉迪的实验青蛙，买弓用箭矢，再把箭矢卖回商店，你能赚300金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="把箭矢卖给商店是一分钱都得不到的。是不是很坑？"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="购买【老式威斯康星】需要花费3000金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="【老式威斯康星】可在射手村的武器店购买。"/>
+    </imgdir>
+    <imgdir name="13">
+      <string name="q" value="在商店购买弓用箭矢时，每支箭花费1金币，但你无法将箭矢卖出换钱。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="弓用箭矢和弩用箭矢卖给商店都换不到任何钱。"/>
+    </imgdir>
+    <imgdir name="14">
+      <string name="q" value="冒险岛里的西瓜售价3100金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它的售价是3200金币。"/>
+    </imgdir>
+    <imgdir name="15">
+      <string name="q" value="冒险岛里的红豆圣代售价4000金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="你可以从NPC处花费4000金币购买它。"/>
+    </imgdir>
+    <imgdir name="16">
+      <string name="q" value="冒险岛里的冰棒售价2100金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它的售价是2300金币。"/>
+    </imgdir>
+    <imgdir name="17">
+      <string name="q" value="150个泡泡怪的巨型泡泡售价比200个史莱姆泡泡低。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="200个史莱姆泡泡：10000金币。150个泡泡怪的巨型泡泡：1500金币。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="小颈鹿的皮和吸血蝙蝠翅膀的售价相同。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="它们的售价都是12金币。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="2个小颈鹿皮的售价比1个鳄鱼皮低。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="2个小颈鹿皮=24金币。1个鳄鱼皮=25金币。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="出售10个幽灵掉的桌布，你就能买得起一个柠檬。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="柠檬售价305金币，所以你还差5金币。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="1个洛朗爪和1个冰独眼兽尾巴的售价相同。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="洛朗爪=32金币。冰独眼兽尾巴=35金币。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="1个克兰爪和5个蓝蘑菇盖的售价相同。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="克兰爪=60金币。蓝蘑菇盖=12金币。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="乌姆提贝壳和史莱姆泡泡的售价相同。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="它们的售价都是50金币。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="如果你出售100个铁甲猪的金属蹄，就能买得起一顶暗月斗笠。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="100个铁甲猪的金属蹄=3800金币。没错，你可以用这笔钱买暗月斗笠。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="幽灵掉落的诡异药剂和1个加工木材的售价相同。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="诡异药剂=50金币。加工木材=20金币。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="128个鳄鱼皮的售价是6500金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="128×50=6400金币，不是6500金币。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="如果你把10个猪头带卖给商店，就能用这些金币买一瓶红色药水。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="10个猪头带=50金币。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="蘑菇王孢子和牛头怪角的售价相同。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="它们的售价都是100金币。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="如果你把星石卖给商店，每个能获得10000金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="每个星石能让你获得10000金币。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="如果你把2个红蜗牛壳、2个猪头、1个史莱姆泡泡卖给商店，能获得140金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="你会得到30+60+50=140金币。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="黄雨伞和天蓝色雨伞卖给商店都只能得到1金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="天蓝色雨伞能卖1金币，但黄雨伞能卖50000金币。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="在冒险岛的任何地方提炼矿石的花费都是一样的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="在废弃都市提炼会稍微便宜一点。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="如果你把螺丝钉卖给商店，每个能卖100金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="它只能卖50金币。"/>
+    </imgdir>
+    <imgdir name="18">
+      <string name="q" value="日本脑炎疫苗必须在夏季接种。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="日本脑炎疫苗并非只能在夏季接种。"/>
+    </imgdir>
+    <imgdir name="19">
+      <string name="q" value="制造龟船击败倭寇的李舜臣将军的谥号是‘忠武公’。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="李舜臣将军的谥号是忠武公。"/>
+    </imgdir>
+    <imgdir name="20">
+      <string name="q" value="衣食住指的是人们生活必需的衣服、食物、娱乐。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="衣食住指的是衣服、食物、住房。"/>
+    </imgdir>
+    <imgdir name="21">
+      <string name="q" value="加热空气的话，空气的体积会缩小。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="加热空气的话，空气的体积会膨胀。空气的体积会随温度变化。"/>
+    </imgdir>
+    <imgdir name="22">
+      <string name="q" value="色彩三要素中的‘明度’指的是颜色的清澈与浑浊程度。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="颜色的明亮与昏暗程度称为明度，而清澈与浑浊程度称为饱和度。"/>
+    </imgdir>
+    <imgdir name="23">
+      <string name="q" value="吸血的蚊子是雄性的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="吸血的蚊子是雌性的，雄性通常以植物的汁液为食。"/>
+    </imgdir>
+    <imgdir name="116">
+      <string name="q" value="韩国的场外股票交易市场被称为科斯达克（KOSDAQ）。而美国的场外股票交易市场被称为美斯达克（MISDAQ）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="美国的场外股票交易市场被称为纳斯达克（NASDAQ）。"/>
+    </imgdir>
+    <imgdir name="117">
+      <string name="q" value="因为山上气压低，所以水会在比平地高得多的温度下沸腾。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="山顶上水会在较低的温度下沸腾，所以煮饭会夹生。"/>
+    </imgdir>
+    <imgdir name="118">
+      <string name="q" value="[鹧鸪]指的是成年的公鸡。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="鹧鸪指的是雌性野鸡。雄性野鸡被称为雉鸡。"/>
+    </imgdir>
+    <imgdir name="119">
+      <string name="q" value="京釜高速公路是韩国最早修建的高速公路。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="韩国最早修建的高速公路是京仁高速公路。"/>
+    </imgdir>
+    <imgdir name="120">
+      <string name="q" value="中秋与中元节、春节并称为韩国三大传统节日。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="中秋的另一个名字是中元节。三大传统节日是端午、春节、中秋。"/>
+    </imgdir>
+    <imgdir name="121">
+      <string name="q" value="1876年出生于黄海道海州，以独立运动家身份走完一生的金九先生的号是‘白衣’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="金九先生的号是‘白凡’。"/>
+    </imgdir>
+    <imgdir name="122">
+      <string name="q" value="位于韩国最东端的岛屿是独岛。独岛的行政区域属于江原道。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="独岛的行政管辖地属于庆尚北道。"/>
+    </imgdir>
+    <imgdir name="123">
+      <string name="q" value="韩国首位诺贝尔奖得主是前总统金大中，获奖领域是经济学奖。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="前总统金大中获得的是诺贝尔和平奖。"/>
+    </imgdir>
+    <imgdir name="124">
+      <string name="q" value="生活在海里的虾和其他水产贝类不同，大脑长在尾巴上。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="虾的大脑长在头上。"/>
+    </imgdir>
+    <imgdir name="125">
+      <string name="q" value="红茶的种类中有‘锡兰茶’。这里的锡兰是印度一个盛产红茶的村庄名。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="锡兰是斯里兰卡的地名。"/>
+    </imgdir>
+    <imgdir name="126">
+      <string name="q" value="作为登上珠穆朗玛峰最高龄者的日本三浦雄一郎先生，据说靠吃寿司抵御了严寒。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="据说他是靠吃泡菜汤抵御了严寒。"/>
+    </imgdir>
+    <imgdir name="127">
+      <string name="q" value="太极旗的四卦[乾坤坎离]中，代表夏季的卦是[乾]。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="代表夏季（夏）的卦是[坤]。乾代表春季（春）。"/>
+    </imgdir>
+    <imgdir name="128">
+      <string name="q" value="夏季代表性的花卉有向日葵、木兰、牵牛花。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="木兰被称为春天的化身。"/>
+    </imgdir>
+    <imgdir name="129">
+      <string name="q" value="河马的汗水是红色的。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因为河马的汗腺会分泌出带有红色的粘稠分泌物。"/>
+    </imgdir>
+    <imgdir name="130">
+      <string name="q" value="汗水比眼泪更咸。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="眼泪更咸。汗水99%是水，而眼泪的成分中98%是水。"/>
+    </imgdir>
+    <imgdir name="131">
+      <string name="q" value="被蚊子咬后感到瘙痒的原因是【念珠菌】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="被蚊子咬后感到瘙痒的原因是【组胺菌】。"/>
+    </imgdir>
+    <imgdir name="132">
+      <string name="q" value="用黑白棋子决胜负的围棋在棋盘上进行。此时棋盘的交叉点数是361个。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="19×19=361。"/>
+    </imgdir>
+    <imgdir name="133">
+      <string name="q" value="立夏是太阳黄经达到45°的时候。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="当太阳黄经达到45°时，夏季将至，这个节气被称为立夏。"/>
+    </imgdir>
+    <imgdir name="134">
+      <string name="q" value="韩国首个公认的游泳池是1936年7月开设的首尔运动场（现东大门运动场）游泳池。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="足球场（1926年）、网球场（1934年）、游泳池（1936年）、棒球场（1959年）依次开设。"/>
+    </imgdir>
+    <imgdir name="135">
+      <string name="q" value="高血压在冬季比夏季更容易发病。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因为寒冷天气会使血管收缩，导致血压升高。"/>
+    </imgdir>
+    <imgdir name="136">
+      <string name="q" value="美国代表性的股价指数是‘道琼斯指数’。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="道琼斯公司每天计算并公布4种股价平均值。"/>
+    </imgdir>
+    <imgdir name="137">
+      <string name="q" value="英国因鸦片战争胜利而获得的香港，于1997年归还给中国。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="1997年7月1日，结束了155年的殖民统治，香港归还给中国。"/>
+    </imgdir>
+    <imgdir name="138">
+      <string name="q" value="冰淇淋最早诞生于中国。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="5世纪时，冰淇淋最早作为中国皇帝的甜点被制作出来。"/>
+    </imgdir>
+    <imgdir name="139">
+      <string name="q" value="印刷术发明后，最早被印刷出来的报纸是德国的‘福尔克布拉特（Flugblatt）’。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="德国报纸福尔克布拉特是最早的印刷报纸。"/>
+    </imgdir>
+    <imgdir name="140">
+      <string name="q" value="韩国首位女性新闻记者是已故的‘崔恩姬’女士。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="1922年入职朝鲜日报的已故崔恩姬女士是韩国首位女性记者。"/>
+    </imgdir>
+    <imgdir name="141">
+      <string name="q" value="被奉为世界级大师的梵高、高更等人都是后印象派画家。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="梵高、高更都是代表性的后印象派画家。"/>
+    </imgdir>
+    <imgdir name="142">
+      <string name="q" value="德国魏格纳提出的大陆漂移说中，指代一个巨大大陆的词是‘泛大陆（Pangaea）’。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="泛大陆指的是一个巨大的大陆。"/>
+    </imgdir>
+    <imgdir name="143">
+      <string name="q" value="世界上第一台计算机是美国宾夕法尼亚大学制造的埃尼阿克（Eniac）。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="埃尼阿克是1946年最早被制造出来的计算机。"/>
+    </imgdir>
+    <imgdir name="144">
+      <string name="q" value="도투락（doturak）是纯韩语，意思是‘彩色发带’。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="도투락（doturak）在纯韩语中是彩色发带的意思。"/>
+    </imgdir>
+    <imgdir name="145">
+      <string name="q" value="动画（animation）一词的词源来自拉丁语中表示‘活着’的anima。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="将一幅幅图画连续展示，让人产生动起来的感觉。"/>
+    </imgdir>
+    <imgdir name="146">
+      <string name="q" value="韩国首个泳衣市场的开创品牌是海豚牌泳衣。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="1961年，韩国鲨线株式会社的前身百货社创立了【鲨鱼牌泳衣】品牌。"/>
+    </imgdir>
+    <imgdir name="147">
+      <string name="q" value="影响韩国夏季的气团是【长江气团】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="影响夏季的气团是【北太平洋气团】。"/>
+    </imgdir>
+    <imgdir name="148">
+      <string name="q" value="夏季容易患上的空调病的致病菌是】白喉杆菌>。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="引发空调病的细菌是【军团菌>。"/>
+    </imgdir>
+    <imgdir name="149">
+      <string name="q" value="雌性蝉因为拥有特殊的发音器官，所以能发出高分贝的声音。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="众所周知，雄性蝉因拥有特殊的发音器官而能发出高分贝的声音。"/>
+    </imgdir>
+    <imgdir name="150">
+      <string name="q" value="在夏季形成韩国梅雨锋的气团是鄂霍次克海气团和长江气团。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="形成梅雨锋的气团是鄂霍次克海气团和北太平洋气团。"/>
+    </imgdir>
+    <imgdir name="151">
+      <string name="q" value="属于夏季的节气是‘立夏、小满、白露、夏至、小暑、大暑’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="'白露'是属于秋季的节气。"/>
+    </imgdir>
+    <imgdir name="152">
+      <string name="q" value="朝鲜的第6代王是‘太祖’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="朝鲜的第6代王是‘端宗’。1452~1455年在位。"/>
+    </imgdir>
+    <imgdir name="153">
+      <string name="q" value="我们使用的韩文（训民正音）被创制的时间是1446年。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="1446年是颁布之年，创制时间是1443年。"/>
+    </imgdir>
+    <imgdir name="154">
+      <string name="q" value="朝鲜末期，韩国最早签订通商条约的国家是美国。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="最早的通商条约是江华条约，是被日本强制签订的。"/>
+    </imgdir>
+    <imgdir name="155">
+      <string name="q" value="朝鲜时代风俗画大师檀园金弘道先生的著名作品有《五伦行实图》《仁王霁色图》等。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="《仁王霁色图》是郑敾的作品。"/>
+    </imgdir>
+    <imgdir name="156">
+      <string name="q" value="朝鲜时代的第20代王是‘肃宗’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="朝鲜时代的第20代王是景宗。"/>
+    </imgdir>
+    <imgdir name="157">
+      <string name="q" value="世界七大奇迹之一的胡夫金字塔，其侧面和底面都是正三角形。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="侧面是三角形，底面是正方形。"/>
+    </imgdir>
+    <imgdir name="158">
+      <string name="q" value="看恐龙的名字会发现很多都带有sauros（사우루스），这个词在拉丁语中是‘恐怖’‘可怕’的意思。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="sauros（사우루스）在拉丁语中是大蜥蜴的意思。"/>
+    </imgdir>
+    <imgdir name="159">
+      <string name="q" value="描绘巨大的白鲸与亚哈船长故事的小说《白鲸记》被誉为法国小说的巅峰之作。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="《白鲸记》是美国作家赫尔曼·梅尔维尔的作品，被誉为美国小说的巅峰之作。"/>
+    </imgdir>
+    <imgdir name="160">
+      <string name="q" value="已故的朴正熙总统是大韩民国第1任总统。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="大韩民国第1任总统是李承晚总统。"/>
+    </imgdir>
+    <imgdir name="161">
+      <string name="q" value="法国著名小说《小王子》的作者是圣埃克苏佩里。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="本名：Antoine Marie Roger De Saint Exupery（安托万·玛丽·罗杰·德·圣-埃克苏佩里）"/>
+    </imgdir>
+    <imgdir name="162">
+      <string name="q" value="1993年，法国发行了印有《小王子》图案的纸币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="正面印有圣埃克苏佩里的肖像，背面印有《小王子》可爱的角色形象。"/>
+    </imgdir>
+    <imgdir name="163">
+      <string name="q" value="研发DOS、Windows等系统的微软（MS）创始人是史蒂芬·霍金博士。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="微软公司的创始人是比尔·盖茨。"/>
+    </imgdir>
+    <imgdir name="164">
+      <string name="q" value="韩国5000韩元纸币上的人物是退溪李滉先生。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="5000韩元纸币上的人物是栗谷李珥先生。"/>
+    </imgdir>
+    <imgdir name="165">
+      <string name="q" value="因‘我来切糕，你来写字’这句话闻名的韩石奉的母亲是申师任堂。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="申师任堂是栗谷李珥先生的母亲。"/>
+    </imgdir>
+    <imgdir name="166">
+      <string name="q" value="选举时，根据心情或局势变化而更换政党或候选人的不确定选票被称为‘ 불투표（不投票）’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="被称为‘부동표（浮动票）’。"/>
+    </imgdir>
+    <imgdir name="167">
+      <string name="q" value="在韩国的鬼神中，没能结婚就去世的光棍鬼被称为[梦月鬼]。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="光棍鬼也被称为梦月鬼或道令鬼。"/>
+    </imgdir>
+    <imgdir name="168">
+      <string name="q" value="马是站着睡觉的动物之一，长颈鹿也和马一样站着睡觉。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="长颈鹿和马都是站着睡觉的。"/>
+    </imgdir>
+    <imgdir name="169">
+      <string name="q" value="南大门的原名是小仪门。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="南大门的原名是崇礼门。"/>
+    </imgdir>
+    <imgdir name="170">
+      <string name="q" value="太阳系中最大的行星是金星。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="最大的行星是木星。"/>
+    </imgdir>
+    <imgdir name="171">
+      <string name="q" value="变色龙如果遮住眼睛就无法改变身体颜色。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="变色龙是通过眼睛观察周围环境的颜色来改变自身颜色的。"/>
+    </imgdir>
+    <imgdir name="172">
+      <string name="q" value="鲨鱼的牙齿即使脱落或折断也能重新长出来。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="鲨鱼会不断长出新的牙齿。"/>
+    </imgdir>
+    <imgdir name="173">
+      <string name="q" value="猫既没有眉毛也没有睫毛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="眉毛和睫毛都有。"/>
+    </imgdir>
+    <imgdir name="174">
+      <string name="q" value="人的一生，掌纹会变化但指纹不会变。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="指纹是不会改变的。"/>
+    </imgdir>
+    <imgdir name="175">
+      <string name="q" value="63大厦的高度比南山塔高。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="63大厦高249米，南山塔高236.7米。"/>
+    </imgdir>
+    <imgdir name="176">
+      <string name="q" value="蜗牛没有牙齿。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="蜗牛也是有牙齿的。"/>
+    </imgdir>
+    <imgdir name="177">
+      <string name="q" value="金鱼能倒着游。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="因鱼鳍结构原因，无法倒着游。"/>
+    </imgdir>
+    <imgdir name="178">
+      <string name="q" value="公鸡也能下蛋。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因激素异常而绝育的公鸡，有时会产下未成熟的蛋。"/>
+    </imgdir>
+    <imgdir name="179">
+      <string name="q" value="蜉蝣有嘴巴。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="因为生命周期极短，消化器官退化，所以没有嘴巴。"/>
+    </imgdir>
+    <imgdir name="180">
+      <string name="q" value="有衡量辣味的单位。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="衡量辣椒辣味的国际标准单位是SHU（史高维尔辣度单位）。"/>
+    </imgdir>
+    <imgdir name="181">
+      <string name="q" value="感到恐惧时，体温会下降。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="感到恐惧时，交感神经兴奋分泌激素，导致体温上升。"/>
+    </imgdir>
+    <imgdir name="182">
+      <string name="q" value="公用电话也有重拨功能。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="按下重拨键后，再按#键即可重拨。"/>
+    </imgdir>
+    <imgdir name="183">
+      <string name="q" value="长颈鹿和人类的颈椎数量相同。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="两者的颈椎数量都是7个。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="4">
+    <imgdir name="1">
+      <string name="q" value="红色药水可增加100点生命值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际仅增加50点生命值。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="柠檬可增加150点魔力值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="确实增加150点魔力值。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="战士药水可在3分钟内提升10点武器攻击力。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际仅在3分钟内提升5点武器攻击力。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="蓝色药水在艾琳尼亚百货商店购买，比其他地方便宜8金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="蓝色药水在艾琳尼亚百货商店确实更便宜。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="服用橙色药水可恢复150点生命值，且商店售价为150金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际售价为160金币。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="速度药水可提升移动速度，持续5分钟。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际仅持续3分钟。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="巫师药水可在5分钟内提升10点魔法攻击力。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际仅在3分钟内提升5点魔法攻击力。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="古树汁液可在5分钟内提升10点魔法攻击力。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="确实在5分钟内提升10点魔法攻击力。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="飞龙肉可在3分钟内提升10点武器防御力。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="确实在3分钟内提升10点武器防御力。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="飞龙血可在5分钟内提升10点武器攻击力。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际仅在5分钟内提升8点武器攻击力。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="服用1瓶超级药水，可将生命值和魔力值恢复至100%。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="超级药水可恢复全部生命值和魔力值。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="肉可在商店以106金币购买，使用后恢复100点生命值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="确实增加100点生命值。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="狙击手药水可在5分钟内提升5点命中值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="确实在5分钟内提升5点命中值。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="披萨售价420金币，1片可恢复400点生命值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="披萨实际售价为450金币。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="蛋糕售价320金币，1块可恢复100点生命值和100点魔力值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可查看24小时移动商店确认。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="24小时移动商店售卖的纯净水，售价1600金币，使用后恢复800点魔力值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="24小时移动商店售卖的纯净水实际售价为1650金币。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="热狗售价320金币，1个可恢复300点生命值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可查看24小时移动商店确认。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="汉堡售价430金币，1个可恢复400点生命值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="汉堡实际售价为450金币。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="将超级药水卖给商店，可获得2750金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际仅能卖2500金币。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="敏捷药水可在3分钟内提升5点回避值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="确实在3分钟内提升5点回避值。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="夕阳露水可恢复5000点魔力值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="确实恢复5000点魔力值。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="朝阳露水可恢复4000点生命值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际恢复的是4000点魔力值。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="将朝阳露水卖给商店，可获得4050金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="实际可卖4050金币。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="将夕阳露水卖给商店，可获得5050金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="实际可卖5100金币。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="可在24小时移动商店、简、瓦伦、哈娜或斯韦特巴姆先生处购买纯净水。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="艾尔纳特的哈娜并不售卖纯净水。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="5">
+    <imgdir name="1">
+      <string name="q" value="完成枫叶岛的「塞拉与她的镜子」任务后，你将获得少量经验值和金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="只有经验值，没有金币。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="在枫叶岛的「妮娜与森的晚餐」任务中，森需要蘑菇汤。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="森想要蘑菇汤。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="完成枫叶岛的「罗杰与苹果」任务后，你会从他那里得到一个西瓜。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="他会赠送一个苹果。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="完成枫叶岛的「给村长送信」任务后，你将获得木盾。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="会赠送一条头巾。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="完成枫叶岛的「比格斯的物品收集」任务后，你将获得一把木剑。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你会得到一把水果刀或剃刀。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="勇士部落的「修缮布莱克布尔的房子」任务只有完成一转的玩家才能通关。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="即使没有完成一转也能完成这个任务。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="要完成魔法密林的「皮娅与蓝蘑菇」任务，你需要60个独角蘑菇盖和60个蓝蘑菇盖。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="不是独角蘑菇盖，而是绿蘑菇盖。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="完成明珠港的「简与野猪」任务后，你将获得一张防具防御力卷轴。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="不是防具卷轴，而是武器卷轴。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="要完成废弃都市的「离家出走的孩子亚历克斯」任务，你需要从斯坦村长那里拿到一块金表并交还给亚历克斯。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="斯坦村长在魔法密林，亚历克斯在废弃都市。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="艾琳森林的「阿尔文与水晶鞋」任务只能完成一次。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="「水晶鞋」任务可以反复完成。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="要完成「修缮布莱克布尔的房子」任务，你需要50个树枝和30个柴火。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你需要30个树枝和50个柴火。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="废弃都市组队任务的时间限制为30分钟。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="必须在30分钟的时间限制内通关。"/>
+    </imgdir>
+    <imgdir name="13">
+      <string name="q" value="如果你等级超过40级，即使没有完成二转，也能接取「炼金术士简」任务"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你必须完成二转才能接取这个任务。"/>
+    </imgdir>
+    <imgdir name="14">
+      <string name="q" value="如果已有其他队伍在进行废弃都市组队任务，你将无法进入。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="同一时间只能有一支队伍进入地图进行废弃都市组队任务。"/>
+    </imgdir>
+    <imgdir name="15">
+      <string name="q" value="废弃都市离家出走的孩子亚历克斯的父亲是林中之城VIP桑拿房的韦特博顿先生。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="亚历克斯的父亲是魔法密林的斯坦村长。"/>
+    </imgdir>
+    <imgdir name="16">
+      <string name="q" value="完成「约翰的粉色花篮」任务后，你会从他那里获得30个螺丝钉作为奖励。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="你会从约翰那里得到30个螺丝钉。"/>
+    </imgdir>
+    <imgdir name="17">
+      <string name="q" value="韦特博顿先生的秘密手册是蓝色的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="是红色的。"/>
+    </imgdir>
+    <imgdir name="18">
+      <string name="q" value="地铁工地售卖的B1、B2、B3区域的门票价格均为2000金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="B1 - 500金币，B2 - 1200金币，B3 - 2000金币。"/>
+    </imgdir>
+    <imgdir name="19">
+      <string name="q" value="废弃都市组队任务的等级限制为20至30级。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="等级限制为21至30级。"/>
+    </imgdir>
+    <imgdir name="20">
+      <string name="q" value="要接取「为布莱克布尔建造新房」任务，你的名声等级至少需要达到5级。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="名声等级必须至少达到10级。"/>
+    </imgdir>
+    <imgdir name="21">
+      <string name="q" value="每次完成舒米的任务，你的名声等级都会提升1级，三次任务总共提升3级。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="通过她的任务你总共能获得3点名声值加成。"/>
+    </imgdir>
+    <imgdir name="22">
+      <string name="q" value="完成「萨比特拉玛与抗衰老药」任务后，你将随机获得一块星石或月石。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="如果你交付的物品不是萨比特拉玛要求的，就会得到一块月石。"/>
+    </imgdir>
+    <imgdir name="23">
+      <string name="q" value="在「萨比特拉玛与减肥药」任务中，他每次要求的花朵颜色都是相同的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="每次向他接取任务时，要求的花朵颜色都不同。"/>
+    </imgdir>
+    <imgdir name="24">
+      <string name="q" value="废弃都市组队任务共有5个阶段。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="你需要通关5个阶段，此外还有一个奖励阶段。"/>
+    </imgdir>
+    <imgdir name="25">
+      <string name="q" value="「炼金术士简」任务需要分3次收集材料。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="你需要收集3次材料才能完成这个任务。"/>
+    </imgdir>
+    <imgdir name="26">
+      <string name="q" value="在「萨比特拉玛与减肥药」任务中，若交付的药草不符合要求，你只会获得500点经验值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="完成任务时你会获得500点经验值。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="完成「简与野猪」任务后，你将随机获得一张100%、60%或10%的武器攻击力卷轴。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你会获得500点经验值和一张60%的武器攻击力卷轴。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="耐心之林共有5个关卡。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="减肥药任务（1、2关），抗衰老药任务（3、4、5关）"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="舒米的任务顺序为【丢失的硬币 - 大量金钱 - 钱袋】"/>
+      <int name="a" value="0"/>
+      <string name="d" value="第二个任务是「舒米与丢失的钱捆」"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="韦特博顿先生的任务所需的鳗鱼特餐包含鲁宾香蕉、邪眼尾巴和猪头。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="鳗鱼特餐中不包含鲁宾香蕉。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="深层耐心之林共有7个关卡。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="深层耐心之林包含7个关卡。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="要完成「保安卢克」任务，你需要100个幼独角狮的皮、10个蝙蝠翅膀和1瓶纯净水。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需要1份沙拉，而非纯净水。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="要完成「罗文与诅咒娃娃」任务，你总共需要2300个诅咒娃娃。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="每个阶段任务分别需要100、200、400、600和1000个诅咒娃娃。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="要唤醒「万次的破旧阔剑」任务中的破旧阔剑，你需要用到月石。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你需要用到星石。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="完成「为布莱克布尔建造新房」任务后，你将随机获得一张10%的武器攻击力卷轴。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="可根据自身职业选择对应的卷轴。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="完成「为布莱克布尔建造新房」任务所需的土地契约书可从冰独眼兽处获得。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="土地契约书可从邪眼怪处获得。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="完成「罗尼与精灵们的新房建造」任务后，你将获得4000点经验值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你会获得3900点经验值。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="完成「萨比特拉玛与抗衰老药」任务后，你的名声等级会提升2级。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="你的名声等级会提升，同时还能获得一些经验值和物品。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="完成「皮娅给朋友的礼物」任务后，你将获得一件等级限制为60级的飞侠整体防具。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你会获得一套60级的上衣和下装。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="「与查理中士交易」任务无等级限制，任何等级都可接取。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="即便是新手也能接取这个任务。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="完成「阿尔法小队的通讯网络」任务需要找的NPC有福克斯军士长、布拉沃上士、查理中士和伊齐下士。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="正确的NPC是福克斯军士长、布拉沃上士、查理中士和伊齐下士。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="「寻找古代之书」任务，所有50级以上的玩家无论职业均可参与。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="仅限55级及以上且非新手职业的玩家参与。"/>
+    </imgdir>
+    <imgdir name="116">
+      <string name="q" value="任务战利品之一的魔女草的叶子，可通过击败魔女怪物[旋律]获得。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="魔女草的叶子需要攻击魔女草才能获得。"/>
+    </imgdir>
+    <imgdir name="117">
+      <string name="q" value="完成NPC沙莫斯发布的[复活的准备]任务后，名声值会下降2点。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="会获得鞋子相关卷轴，同时名声值下降。"/>
+    </imgdir>
+    <imgdir name="118">
+      <string name="q" value="[封印深层危险的仪式1]任务所需物品为冰独眼兽掉落的寒气33个。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="冰独眼兽掉落的物品是冷气。"/>
+    </imgdir>
+    <imgdir name="119">
+      <string name="q" value="[海上遇难者]任务需要持有SES救援请求信才能进行。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需要持有怪物掉落的SOS救援请求信。"/>
+    </imgdir>
+    <imgdir name="120">
+      <string name="q" value="[转职的指引]任务中，昆提出的问题共有5道。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="答对3道题即可进入下一阶段。"/>
+    </imgdir>
+    <imgdir name="121">
+      <string name="q" value="北极熊普奇制作「秘密的可口可乐原液」需要可可果、焦糖和纯净水。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需要可可果、焦糖和碳酸水。"/>
+    </imgdir>
+    <imgdir name="122">
+      <string name="q" value="完成【美味的可口可乐】任务可获得可乐-play披风。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="可获得可乐-play盾牌。"/>
+    </imgdir>
+    <imgdir name="123">
+      <string name="q" value="可通过村庄内的运营员NPC移动至可乐村。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需通过可乐熊运营员进行移动。"/>
+    </imgdir>
+    <imgdir name="124">
+      <string name="q" value="可乐村的北极熊洛洛正在收集制作雪橇的材料。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="洛洛想要近距离看星星。"/>
+    </imgdir>
+    <imgdir name="125">
+      <string name="q" value="完成休斯的爱好任务可获得氧气瓶作为奖励。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="休斯的爱好任务奖励为经验值和气泡。"/>
+    </imgdir>
+    <imgdir name="126">
+      <string name="q" value="可乐村的北极熊波奇和普奇是挚友。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="他们是关系和睦的兄弟。"/>
+    </imgdir>
+    <imgdir name="127">
+      <string name="q" value="组队任务「月妙的年糕」需要等级达到10级及以上才能参与。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="月妙的年糕任务的等级限制为10级及以上。"/>
+    </imgdir>
+    <imgdir name="128">
+      <string name="q" value="「扎昆任务」的等级限制为70级。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="扎昆任务的等级限制为50级。"/>
+    </imgdir>
+    <imgdir name="129">
+      <string name="q" value="组队任务「月妙的年糕」可通过魔法密林公园的NPC汤米进入。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="对应的NPC是托里。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="6">
+    <imgdir name="1">
+      <string name="q" value="想要转职成为弓箭手，新手需要前往弓箭手训练所。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="新手可在弓箭手指导所转职成为弓箭手。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="想要转职成为战士，新手需要前往战士圣殿。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="新手可在战士圣殿转职成为战士。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="想要转职成为魔法师，新手需要前往魔法图书馆。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="新手可在魔法图书馆转职成为魔法师。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="二转任务需要收集的道具共30个，名为褐色水晶。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你需要收集30个黑色水晶。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="当你为二转收集齐30个黑色水晶后，将会获得“英雄的证明”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="当你为二转收集齐30个黑色水晶后，将会获得“英雄的证明”。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="战士二转时，可选择转职为斗士、骑士或斧战士。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="战士二转可选择的职业为斗士、骑士或枪战士。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="弓箭手二转时，可选择转职为猎人或狙击手。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="弓箭手可转职为猎人，弩弓手可转职为狙击手。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="飞侠二转时，可选择转职为刺客或侠客。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="使用飞镖的飞侠可转职为刺客，使用短剑的飞侠可转职为侠客。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="魔法师二转时，可选择转职为巫师或祭司。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你可选择转职为巫师或牧师。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="新手达到10级时，可选择转职为战士、魔法师、飞侠或弓箭手。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你可在8级时转职为魔法师。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="新手想要转职为飞侠，运气(LUK)需至少达到25点或以上。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你需要敏捷(DEX)达到25点或以上。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="想要进行三转，角色等级需至少达到70级或以上。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="角色等级达到70级或以上时可进行三转。"/>
+    </imgdir>
+    <imgdir name="13">
+      <string name="q" value="新手完成一转后，将获得1点技能点。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="新手完成转职后，将获得1点技能点。"/>
+    </imgdir>
+    <imgdir name="14">
+      <string name="q" value="二转时，你可以选择完全不同的职业（例如：战士→弓箭手）"/>
+      <int name="a" value="0"/>
+      <string name="d" value="无法转职为完全不同的职业。"/>
+    </imgdir>
+    <imgdir name="15">
+      <string name="q" value="想要进行四转，角色等级需至少达到120级，且已完成三转。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="等级达到120级及以上的角色可进行四转。"/>
+    </imgdir>
+    <imgdir name="16">
+      <string name="q" value="魔法师一转技能“魔力恢复提升”最高可升至15级。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="该技能最高可升至16级。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="枪战士的“极限体能”技能满级后，你的最大生命值(MaxHP)和最大魔力值(MaxMP)将提升60%。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="若该技能达到满级，你的最大生命值和最大魔力值将提升60%。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="狙击手的“钢铁箭”技能满级后，伤害将提升180%。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="当“钢铁箭”达到满级后，伤害将提升180%。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="飞侠拥有名为“幸运七星”的技能，该技能可让你在空中投掷飞镖。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="飞侠可在空中使用技能。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="所有职业的二转技能均包含6个技能组。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="战士拥有8个不同的技能组。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="想要转职成为弓箭手，新手需要前往弓箭手训练所。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="新手可在飞侠隐藏处转职成为飞侠。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="魔法师四转时有3种不同的职业可选。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="只有战士四转时会分为3种职业。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="使用普通弓的弓箭手职业进阶顺序为[弓箭手→猎人→游侠→弓神]"/>
+      <int name="a" value="0"/>
+      <string name="d" value="正确的职业进阶顺序为：[猎人→游侠→箭神]。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="使用短剑的飞侠职业进阶顺序为[盗贼→侠客→侠盗→夜使者]"/>
+      <int name="a" value="0"/>
+      <string name="d" value="正确的职业进阶顺序为：[盗贼→侠客→侠盗→暗影双刀]。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="牧师的职业进阶顺序为[法师→牧师→祭司→主教]"/>
+      <int name="a" value="1"/>
+      <string name="d" value="正确的职业进阶顺序为：[魔法师→牧师→祭司→主教]。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="将所有四转职业数量相加，总计为9个。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="战士3个 + 魔法师2个 + 弓箭手2个 + 飞侠2个 = 9个"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="想要学习游侠的“箭雨”技能，需将“精准箭”技能升至3级以上。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需将“致命一击”技能升至5级以上。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="祭司的“圣光”技能可攻击多个敌人。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="最多可攻击6只怪物。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="即便祭司的“黑暗”技能生效，怪物的基础属性也不会改变。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="基础属性不会发生变化。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="使用游侠的“召唤兽”技能，需要消耗1个召唤石。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="无需召唤石即可使用。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="受到法师的“冰咆哮”技能攻击后，会被冰冻一段时间。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="命中时，非冰属性的怪物会被冰冻，且单次最多无法攻击6只以上怪物。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="新手技能“恢复”的冷却时间为15分钟。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="10分钟后即可再次使用。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="7">
+    <imgdir name="1">
+      <string name="q" value="创建新角色后，你首先前往的地方是[枫叶岛]。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="[枫叶岛]是你在《冒险岛》中最初抵达的地方。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="创建角色时，你需要掷骰子来确定角色属性。把力量（STR）、敏捷（DEX）、智力（INT）、运气（LUK）的属性值相加，总和会是24。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="属性值总和其实是25点。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="你在《冒险岛》中遇到的第一个NPC是“莉娜（Rina）”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你在《冒险岛》中遇到的第一个NPC是“希娜（Heena）”。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="新手使用岛上每个城镇都有的出租车，只需支付100金币（mesos），这是很大的优惠。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="新手乘坐出租车只需支付50金币。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="要在废弃都市购买药水和卷轴，需前往“知名药店”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="要在废弃都市购买药水，需前往“知名药店”。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="在安全城镇中，即使你从高处掉落导致生命值（HP）耗尽，也不会死亡。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="即使在安全城镇，若生命值耗尽，角色也会死亡。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="要进入隐藏地图，你的角色至少需要达到10级，并完成一转职业进阶。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="任何人都可以进入隐藏地图。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="勇士部落酒店的VIP桑拿房进入费用为999金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="VIP桑拿房的进入费用为999金币。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="要联系《冒险岛》热线，可拨打1588-7703。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="要联系《冒险岛》热线，可拨打1588-7703。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="不同职业升级所需的经验值（EXP）各不相同。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="所有职业升级所需的经验值都是相同的。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="击杀同一只怪物获得的经验值每次都不一样。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="若击杀的是同一只怪物，获得的经验值始终相同。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="艾琳森林海滩售卖药水的NPC名叫“瓦伦（Valen）”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="那里售卖药水的NPC就是“瓦伦（Valen）”。"/>
+    </imgdir>
+    <imgdir name="13">
+      <string name="q" value="从1级升到2级需要15点经验值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="从1级升到2级需要15点经验值。"/>
+    </imgdir>
+    <imgdir name="14">
+      <string name="q" value="从2级升到3级需要34点经验值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="从2级升到3级需要34点经验值。"/>
+    </imgdir>
+    <imgdir name="15">
+      <string name="q" value="从3级升到4级需要67点经验值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="从3级升到4级需要57点经验值。"/>
+    </imgdir>
+    <imgdir name="16">
+      <string name="q" value="任何交易/买卖现金点数的行为都会受到严厉处罚。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="这违反了用户协议条款。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="从4级升到5级需要92点经验值。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="从4级升到5级需要92点经验值。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="从5级升到6级需要250点经验值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="从5级升到6级需要135点经验值。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="你只能通过《冒险岛》官网或游戏内的现金商店充值 NexonCash（纳克森现金）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="无法通过官网充值现金点数。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="若你删除现金道具，将通过枫叶点数（MaplePoints）返还该道具价值的35%。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="仅会返还该道具价值的30%。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="所有通过现金道具获得的礼物都无法删除。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="唯一无法删除的是“消耗型”现金道具。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="你最多可在现金商店的愿望清单中添加8件心仪的道具。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你最多可在愿望清单中添加10件道具。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="若你在31级或更高等级时完成二转职业进阶，将无法获得转职附带的1点技能点（SP）奖励。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="每次转职后你都能获得技能点奖励。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="你可以使用枫叶点数为好友购买礼物。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="你无法使用枫叶点数为他人购买礼物。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="勇士部落酒店的普通桑拿房费用为490金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="普通桑拿房的进入费用为499金币。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="创建首个角色时，你可选择剑、球棒或斧头作为武器。在这些武器中，斧头是攻击力最高但攻速最慢的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="创建初始角色时可选的基础武器虽然外观不同，但所有属性数值都是一致的。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="《冒险岛》是纳克森（Nexon）开发的2D横版卷轴式在线冒险游戏。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="《冒险岛》是 wizet 开发的2D横版卷轴式在线冒险游戏。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="公会的人数上限最多可提升至30人。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="公会人数上限为100人。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="将公会人数从10人提升至15人，需要花费50万金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="将公会人数从10人提升至15人时，需要花费50万金币。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="公会公告功能仅会长可使用。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="会长和副会长均可使用公会公告功能。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="解散公会需要花费20万金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="仅会长可解散公会，且需要花费20万金币。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="制作公会徽章需要花费500万金币。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可通过NPC蕾雅（레아）制作公会徽章。"/>
+    </imgdir>
+    <imgdir name="116">
+      <string name="q" value="负责创建公会和制作公会徽章的NPC是赫拉克勒斯（헤라클）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="负责制作公会徽章的NPC是蕾雅（레아）。"/>
+    </imgdir>
+    <imgdir name="117">
+      <string name="q" value="可在城镇的“荣誉殿堂”查看公会排名。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="可在“荣誉之石”查看公会排名。"/>
+    </imgdir>
+    <imgdir name="118">
+      <string name="q" value="任务提醒中最多可登记5个任务。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="最多可登记5个任务，并实时查看进度。"/>
+    </imgdir>
+    <imgdir name="119">
+      <string name="q" value="公会对战包含奖励阶段在内，共分为6个阶段。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="公会对战总共分为7个阶段。"/>
+    </imgdir>
+    <imgdir name="120">
+      <string name="q" value="公会对战的背景设定在古王国“鲁比安（루비안）”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="公会对战的背景是沙雷尼安（샤레니안）王国。"/>
+    </imgdir>
+    <imgdir name="121">
+      <string name="q" value="水下世界（아쿠아로드）是与天空之城塔地下相连的水下地图。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可通过奥西利亚（오시리아）→天空之城塔→天空之城塔B2前往。"/>
+    </imgdir>
+    <imgdir name="122">
+      <string name="q" value="在水下世界，每10秒生命值（HP）会减少一次。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="若无氧气瓶或空气泡道具，每10秒生命值（HP）会减少。"/>
+    </imgdir>
+    <imgdir name="123">
+      <string name="q" value="水下世界的“海上遇难者”NPC名叫“鲁滨逊克鲁索（로빈슨크루소）”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="该NPC就叫鲁滨逊（로빈슨）。"/>
+    </imgdir>
+    <imgdir name="124">
+      <string name="q" value="武陵的七男七星兄弟中，哥哥是七男（칠남）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="七星（칠성）是哥哥，七男（칠남）是弟弟。"/>
+    </imgdir>
+    <imgdir name="125">
+      <string name="q" value="使用非法程序，首次违规就可能被永久封禁。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="只要使用过一次非法程序，就可能被永久封禁。"/>
+    </imgdir>
+    <imgdir name="126">
+      <string name="q" value="可通过NPC“杜尔（듀어）”向其他玩家发送快递，费用为5万金币。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="负责快递的NPC是杜伊（듀이），费用为5000金币。"/>
+    </imgdir>
+    <imgdir name="127">
+      <string name="q" value="射手村的世界旅行向导名叫“苏菲内尔（수피넬）”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="世界旅行向导是“斯皮尔（스피넬）”。"/>
+    </imgdir>
+    <imgdir name="128">
+      <string name="q" value="射手村副本入口的卫兵“卢克（루크）”右手持矛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="卢克（루크）左手持矛。"/>
+    </imgdir>
+    <imgdir name="129">
+      <string name="q" value="勇士部落的NPC“伊彦（이얀）”的父亲是“布鲁斯（브루스）”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="NPC伊彦（이얀）的父亲确实是布鲁斯（브루스）。"/>
+    </imgdir>
+    <imgdir name="130">
+      <string name="q" value="东方神洲岩石山II的NPC名叫“战士转职教官”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="东方神洲岩石山II的NPC名叫温斯顿（윈스턴）。"/>
+    </imgdir>
+    <imgdir name="131">
+      <string name="q" value="皮亚努斯（피아누스）出现的地图名为“皮亚努斯的深海洞穴”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="该地图名为“皮亚努斯的洞穴”。"/>
+    </imgdir>
+    <imgdir name="132">
+      <string name="q" value="地球防御本部罗斯韦尔草原的元老格雷（그레이）拄着法杖。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="格雷（그레이）不在罗斯韦尔草原，而是在库兰草原（쿨란 초원）。"/>
+    </imgdir>
+    <imgdir name="133">
+      <string name="q" value="双色染发的庞巴度发型仅可在夜市的美发店制作。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="双色染发的庞巴度发型仅可在夜市的美发店制作。"/>
+    </imgdir>
+    <imgdir name="134">
+      <string name="q" value="NPC缪斯（뮤즈）位于水族馆动物园。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="NPC缪斯（뮤즈）确实在水族馆动物园。"/>
+    </imgdir>
+    <imgdir name="135">
+      <string name="q" value="快递寄出后，24小时会送达收件人手中。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="快递会在寄出12小时后送达收件人。"/>
+    </imgdir>
+    <imgdir name="136">
+      <string name="q" value="日本蘑菇神社的蘑菇小子（키노코노코）手持吸尘器。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="蘑菇小子（키노코노코）为了打扫，手持的是扫帚。"/>
+    </imgdir>
+    <imgdir name="137">
+      <string name="q" value="要前往夜市，需通过世界旅行向导前往日本。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="需通过世界旅行向导斯皮尔（스피넬）前往台湾。"/>
+    </imgdir>
+    <imgdir name="138">
+      <string name="q" value="中国上海临时飞机场的飞行员NPC姓林（임씨）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="上海临时飞机场的飞行员姓杨（양씨）。"/>
+    </imgdir>
+    <imgdir name="139">
+      <string name="q" value="中国上海外滩的防具商人插着腰。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="该商人双手都插在裤子口袋里。"/>
+    </imgdir>
+    <imgdir name="140">
+      <string name="q" value="上海外滩的周先生（주씨）的职业是警察。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="周先生（주씨）是警察局长。"/>
+    </imgdir>
+    <imgdir name="141">
+      <string name="q" value="中国上海外滩的叶女士（여씨）目前正在打工。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="她并非打工，而是路边摊摊主。"/>
+    </imgdir>
+    <imgdir name="142">
+      <string name="q" value="世界旅行向导斯皮尔（스피넬）所属的旅行社是MAPLE TOUR（枫叶旅行社）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="斯皮尔（스피넬）所属的旅行社是WORLD TOUR（环球旅行社）。"/>
+    </imgdir>
+    <imgdir name="143">
+      <string name="q" value="中国上海外滩的摄影师乔先生（조씨）留着二八分发型。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="摄影师乔先生（조씨）留着帅气的二八分发型。"/>
+    </imgdir>
+    <imgdir name="144">
+      <string name="q" value="中国西域平原Ⅲ的乔女士（조씨）穿着漂亮的连衣裙。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="她没穿连衣裙，而是穿着裤子。"/>
+    </imgdir>
+    <imgdir name="145">
+      <string name="q" value="台湾西门町有个名叫彩琳（채림）的NPC。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="不是彩琳（채림），而是蔡依林（채이림）。"/>
+    </imgdir>
+    <imgdir name="146">
+      <string name="q" value="台湾西门町的NPC孙燕姿（손연주）的宠物是小狗。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="孙燕姿（손연주）的宠物确实是小狗。"/>
+    </imgdir>
+    <imgdir name="147">
+      <string name="q" value="台湾西门町的防具商人名叫诸葛亮（제갈공명）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="该防具商人名叫诸葛云（제갈윤）。"/>
+    </imgdir>
+    <imgdir name="148">
+      <string name="q" value="台湾夜市最有名的厨师是阿中（아중）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="最有名的厨师是阿宗（아종）。"/>
+    </imgdir>
+    <imgdir name="149">
+      <string name="q" value="玛加提亚城镇的人造人机器人名叫人形机器人B（휴머노이드B）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="玛加提亚城镇的人造人机器人名叫人形机器人A（휴머노이드A）。"/>
+    </imgdir>
+    <imgdir name="150">
+      <string name="q" value="婚礼村的文月花（문월화）右手拿着手机。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="她平时拄着法杖，但偶尔会拿出手机查看。"/>
+    </imgdir>
+    <imgdir name="151">
+      <string name="q" value="未设置二级密码，不会被判定为账号被盗（黑客攻击）。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="账号被盗申诉处理的前提是已设置二级密码。"/>
+    </imgdir>
+    <imgdir name="152">
+      <string name="q" value="现金商店出售的装备道具可提升属性值。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="现金装备道具无法提升属性值。"/>
+    </imgdir>
+    <imgdir name="153">
+      <string name="q" value="杰纽米斯特（제뉴미스트）公会会长是卡森（카슨），阿尔卡德诺（알카드노）公会会长是麦德（매드）。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="卡森（카슨）和阿尔卡德诺（알카드노）分别担任杰纽米斯特（제뉴미스트）和阿尔卡德诺（알카드노）公会会长。"/>
+    </imgdir>
+    <imgdir name="154">
+      <string name="q" value="可在冒险岛信使中邀请最多2名好友进行聊天。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="通过冒险岛信使，包括自己在内最多3人可同时聊天。"/>
+    </imgdir>
+    <imgdir name="155">
+      <string name="q" value="被封印的道具每周可解封一次。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可通过联系客服中心，每周申请解封一次。"/>
+    </imgdir>
+    <imgdir name="156">
+      <string name="q" value="若未领取快递道具，100天后会消失。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="快递道具的保管期限为30天。"/>
+    </imgdir>
+    <imgdir name="157">
+      <string name="q" value="卡米拉（카밀라）害怕尤塔（유타）养猪场的铁猪（아이언 호그）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="卡米拉（카밀라）害怕的是丝带猪（리본 돼지）。"/>
+    </imgdir>
+    <imgdir name="158">
+      <string name="q" value="武陵的喜鹊是道士（도공）从小喂仙丹和神仙汤养大，所以特别聪明。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="正因喂食了仙丹和神仙汤，武陵的喜鹊才变得十分聪明。"/>
+    </imgdir>
+    <imgdir name="159">
+      <string name="q" value="玛加提亚的琪妮（키니）是精灵与人类的混血儿。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="玛加提亚的琪妮（키니）诞生于精灵与人类之间。"/>
+    </imgdir>
+    <imgdir name="160">
+      <string name="q" value="玛加提亚的杂货商杰瑞（제리）也售卖宠物粮食。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="可在玛加提亚的杂货商杰瑞（제리）处购买宠物粮食。"/>
+    </imgdir>
+    <imgdir name="161">
+      <string name="q" value="废弃都市所有的通缉令海报都被撕毁损坏了。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="在盗贼之都废弃都市，找不到完整的通缉令海报。"/>
+    </imgdir>
+    <imgdir name="162">
+      <string name="q" value="武陵的老财主（놀부）穿着露肚脐的衣服。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="在武陵能看到老财主（놀부）显眼的肚脐。"/>
+    </imgdir>
+    <imgdir name="163">
+      <string name="q" value="快递配送员杜伊（듀이）的鞋子是棕色的。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="快递配送员杜伊（듀이）穿着漂亮的棕色鞋子。"/>
+    </imgdir>
+    <imgdir name="164">
+      <string name="q" value="勇士部落的仓库管理员王书生（왕서방）是单眼皮。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="到勇士部落就能见到单眼皮的王书生（왕서방）。"/>
+    </imgdir>
+    <imgdir name="165">
+      <string name="q" value="射手村玛雅（마야）家旁边有个红色的邮筒。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="玛雅（마야）家门口有个可爱的红色邮筒。"/>
+    </imgdir>
+    <imgdir name="166">
+      <string name="q" value="NPC罗亚（로아）手中的3个气球里，最大的那个是红色的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="罗亚（로아）手中最大的气球是蓝色的。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="8">
+    <imgdir name="1">
+      <string name="q" value="第一届世界杯是在意大利举办的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="第一届世界杯举办地是乌拉圭，意大利举办的是第二届。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="在瑞士世界杯上，我们战平了世界最强的匈牙利队。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="对阵匈牙利、土耳其均告负。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="世界杯每2年举办一次。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="每4年举办一次。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="1986年墨西哥世界杯，韩国队三战全负止步小组赛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="负于阿根廷、意大利，与保加利亚战平。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="世界杯史上为韩国打入首粒进球的球员是朴昌善。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="1986年世界杯中朴昌善选手打入了韩国队的首粒进球。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="2002年世界杯是第17届世界杯。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="韩日世界杯是第17届世界杯。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="洪明甫选手参加了1990年世界杯。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="洪明甫选手在意大利世界杯上表现活跃。"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="巴西共夺得4次世界杯冠军，奥运会上获得过2次金牌。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="截至2000年悉尼奥运会，巴西从未获得过奥运会足球金牌。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="2006年世界杯将在德国举办。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="第18届世界杯在德国举办。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="足球是11人制比赛，篮球是6人制比赛。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="篮球是5人上场参赛的比赛。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="奥运会五环旗中代表亚洲的颜色是黄色。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="五环旗中黄色象征亚洲。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="在美国职业棒球大联盟（MLB）效力的崔熙燮选手是一名强力快速球投手。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="崔熙燮是一名强打者（击球手）。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="排球在1964年日本东京奥运会上被正式列为奥运会比赛项目。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="1964年日本东京奥运会上首次被列为正式比赛项目。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="摔跤是充满力量的韩国传统体育运动。截至2003年，获得“天下壮士”头衔次数最多的选手是李万基。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="截至2003年，天下壮士头衔获得次数：第1位 李万基（10次）、第2位 姜虎东（5次）。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="网球中的“大满贯”指的是包揽美网、法网、澳网、温网四项赛事冠军。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="包揽四大满贯赛事冠军被称为大满贯。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="高尔夫运动中，比标准杆少1杆进洞称为“小鸟球（Birdie）”，少2杆称为“老鹰球（Eagle）”，少3杆称为“三杆球（Triple）”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="比标准杆少3杆进洞的情况称为“信天翁球（Albatross）”。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="2000年韩国职业棒球韩国系列赛的冠军球队是斗山熊。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="2000年韩国系列赛的冠军球队是现代独角兽。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="2003年在韩国举办的和平杯足球赛参赛队伍共计8支。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="2003年和平杯共有8支球队参赛。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="足球（Soccer）每队11人，橄榄球（Rugby）每队15人，美式橄榄球（American Football）每队11人参赛。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="这里的Soccer指的是我们通常所说的足球。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="韩国固有武术跆拳被指定为重要无形文化财第76号。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="跆拳是重要无形文化财第76号。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="撑杆跳高所用撑杆的长度，仅认可国际标准4米这一种规格。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="撑杆可在3.98米 - 4.02米范围内使用。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="第一届奥运会在希腊雅典举办，第二届奥运会在法国巴黎举办。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="第一届奥运会希腊位列奖牌榜第二，第二届奥运会法国位列奖牌榜第一。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="足球比赛中单场打入3球的球员被称为“帽子戏法（Hat-trick）”，而冰球比赛中则称为“三球（Triple）”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="冰球比赛中也称为帽子戏法（Hat-trick）。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="韩国首位奥运会金牌得主梁正模是柔道选手。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="梁正模是获得摔跤金牌的摔跤选手。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="快速投球垒球比赛中，若启用指定打击手，参赛总人数为10人。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="常规9人 + 指定打击手1人，总计10人。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="跨栏跑无论男女，赛程均为110米。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="女子跨栏为100米，男子跨栏为110米。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="足球比赛中罚任意球时，对方球员需与主罚球员保持至少9.15米的距离。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="进入9.15米范围内将被警告。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="游泳在1896年第一届奥运会上被正式列为比赛项目。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="1900年第二届巴黎奥运会起才被列为正式比赛项目。"/>
+    </imgdir>
+  </imgdir>
+  <imgdir name="9">
+    <imgdir name="1">
+      <string name="q" value="23+△=32。△里应填的数字是9。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因为23+9=32。"/>
+    </imgdir>
+    <imgdir name="2">
+      <string name="q" value="糖的颗粒越小，越容易在水中溶解。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="水温越高、水量越多、糖的颗粒越小，就越容易溶解。"/>
+    </imgdir>
+    <imgdir name="3">
+      <string name="q" value="火盆是在寒冷的冬日里，为了让房间变暖和而装上火使用的。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="也会用火盆烤红薯或者加热食物。"/>
+    </imgdir>
+    <imgdir name="4">
+      <string name="q" value="植物的茎是输送根部吸收水分的通道。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="植物根部吸收的水分会沿着茎移动。"/>
+    </imgdir>
+    <imgdir name="5">
+      <string name="q" value="能够发光的物体被称为“光源”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="火、阳光、荧光灯、太阳光等都属于光源。"/>
+    </imgdir>
+    <imgdir name="6">
+      <string name="q" value="仅由夫妻和未结婚子女组成的家庭被称为核心家庭（小家庭）。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="例如，只有父母和子女一起生活的家庭就是核心家庭。"/>
+    </imgdir>
+    <imgdir name="7">
+      <string name="q" value="水被加热时体积会膨胀，水被冷却时体积会收缩。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="装有水银、酒精的温度计，是利用液体因热产生的体积变化制成的"/>
+    </imgdir>
+    <imgdir name="8">
+      <string name="q" value="火山喷发时喷出的液体是“熔岩”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="气体方面会喷出火山气体，固体则会喷出火山弹、火山灰、石块等。"/>
+    </imgdir>
+    <imgdir name="9">
+      <string name="q" value="在韩国的四季中，夏季太阳升起得最早，落下得最晚。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="冬季太阳升起得最晚，落下得最早。"/>
+    </imgdir>
+    <imgdir name="10">
+      <string name="q" value="光线照射到物体上时出现的明暗层次被称为“明暗（光影）”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="若能很好地表现明暗，就能让人感受到对象的立体感、量感，从而产生真实感。"/>
+    </imgdir>
+    <imgdir name="11">
+      <string name="q" value="夏季是将一年分为四季时的第三个季节。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="夏季是第二个季节。"/>
+    </imgdir>
+    <imgdir name="12">
+      <string name="q" value="一家之中三代以上同住的家庭被称为核心家庭。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="这被称为大家庭。"/>
+    </imgdir>
+    <imgdir name="13">
+      <string name="q" value="由夏季制冷引发的疾病被称为空调病。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="室内外的温差以5摄氏度为宜。"/>
+    </imgdir>
+    <imgdir name="14">
+      <string name="q" value="有谚语说“乌鸦打哈欠，船就沉”（比喻毫无关联的两件事同时发生）。这里的“这个东西”指的是乌鸦。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="用于形容两件毫无关联的事情同时发生。"/>
+    </imgdir>
+    <imgdir name="15">
+      <string name="q" value="梅雨季节的水果口感会变差。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因为梅雨季节降雨多，水果吸收大量水分，所以甜度会降低。"/>
+    </imgdir>
+    <imgdir name="16">
+      <string name="q" value="汗液有将体内废物排出体外、调节体温、保护皮肤的作用。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="适度出汗是有益的。"/>
+    </imgdir>
+    <imgdir name="17">
+      <string name="q" value="夏季室内外的温差以5度左右为宜。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="温差超过5度的话，容易患上空调病。"/>
+    </imgdir>
+    <imgdir name="18">
+      <string name="q" value="夏季大量食用生冷食物会导致消化能力下降。 "/>
+      <int name="a" value="1"/>
+      <string name="d" value="食用生冷食物容易导致身体内部的热气不足。"/>
+    </imgdir>
+    <imgdir name="19">
+      <string name="q" value="紧张时手心出汗，是因为血压上升导致体温升高。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="身体发热时，会通过出汗来降温。"/>
+    </imgdir>
+    <imgdir name="20">
+      <string name="q" value="用磁铁摩擦地铁票或电话卡，记录的信息会被清除。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="靠近利用磁铁特性制作的物品时，信息可能会被清除。"/>
+    </imgdir>
+    <imgdir name="21">
+      <string name="q" value="西瓜的意思是水分多的水果。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="西瓜的水分含量在90%以上。"/>
+    </imgdir>
+    <imgdir name="22">
+      <string name="q" value="代表夏季的汉字是“春”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="“春”是代表春天的汉字。"/>
+    </imgdir>
+    <imgdir name="23">
+      <string name="q" value="夏季的夜晚比冬季的夜晚长。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="夏季的夜晚比冬季的夜晚短。"/>
+    </imgdir>
+    <imgdir name="24">
+      <string name="q" value="夏季多吃生冷食物对消化能力有很大帮助。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="食用生冷食物容易导致身体内部的热气不足。"/>
+    </imgdir>
+    <imgdir name="25">
+      <string name="q" value="日本脑炎疫苗必须在夏季接种"/>
+      <int name="a" value="0"/>
+      <string name="d" value="日本脑炎疫苗并非只在夏季接种。"/>
+    </imgdir>
+    <imgdir name="26">
+      <string name="q" value="台风的名字只定为女性的名字。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="1978年之前只用女性名字，之后开始交替使用男性和女性的名字。"/>
+    </imgdir>
+    <imgdir name="27">
+      <string name="q" value="制造龟船击退倭寇的李舜臣将军的谥号是“忠武公”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="李舜臣将军的谥号是忠武公。"/>
+    </imgdir>
+    <imgdir name="28">
+      <string name="q" value="衣食住指的是人们生活必需的衣服、食物、娱乐。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="衣食住指的是衣服、食物、住所。"/>
+    </imgdir>
+    <imgdir name="29">
+      <string name="q" value="在定量的水中持续加盐，盐都会全部溶解。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="若想让盐持续溶解在水中，就必须持续加水。"/>
+    </imgdir>
+    <imgdir name="30">
+      <string name="q" value="溶解糖时，水温越低越容易溶解。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="水温越高，糖越容易溶解。"/>
+    </imgdir>
+    <imgdir name="31">
+      <string name="q" value="蝴蝶是经历卵→幼虫→成虫过程的昆虫。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="蝴蝶会经历卵→幼虫→[蛹]→成虫的过程。"/>
+    </imgdir>
+    <imgdir name="32">
+      <string name="q" value="加热空气时，空气的体积会收缩。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="加热空气时，空气的体积会膨胀。空气的体积会随温度变化。"/>
+    </imgdir>
+    <imgdir name="33">
+      <string name="q" value="色彩三要素中的“明度”指的是颜色的清澈与浑浊程度。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="颜色的明暗程度称为明度，清澈与浑浊程度称为彩度。"/>
+    </imgdir>
+    <imgdir name="34">
+      <string name="q" value="吸血的蚊子是雄性。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="吸血的蚊子是雌性，雄性通常吸食植物的汁液。"/>
+    </imgdir>
+    <imgdir name="35">
+      <string name="q" value="1只变形虫分裂成2只需要3分钟。那么2只分裂成4只需要12分钟。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="同样需要3分钟。"/>
+    </imgdir>
+    <imgdir name="36">
+      <string name="q" value="韩国国歌《爱国歌》第二段中，南山顶上如披铁甲般矗立的树是木槿花树。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="歌词：南山顶上那棵松树，如披铁甲般...."/>
+    </imgdir>
+    <imgdir name="37">
+      <string name="q" value="国家的三要素是国民、主权、国防"/>
+      <int name="a" value="0"/>
+      <string name="d" value="不是国防，而是领土。"/>
+    </imgdir>
+    <imgdir name="38">
+      <string name="q" value="消防员灭火后，次月会向纵火者收取人工费。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="消防工作是免费的。但纵火者会根据过失承担相应责任。"/>
+    </imgdir>
+    <imgdir name="39">
+      <string name="q" value="《星际争霸》中出现的种族是人类、兽人、亡灵、暗夜精灵。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="《星际争霸》中出现的种族是人族、虫族、神族。"/>
+    </imgdir>
+    <imgdir name="40">
+      <string name="q" value="《Teletobi》中登场的4个小不点是[紫豆豆、豆豆、娜娜、啵啵]。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="《Teletobi》是韩国KBS播出的儿童节目。"/>
+    </imgdir>
+    <imgdir name="41">
+      <string name="q" value="街道的信号灯一般由红、黄、绿三色组成。其中黄色表示“暂时等待”的信号。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="信号灯的黄灯是表示暂时等待的注意信号。"/>
+    </imgdir>
+    <imgdir name="42">
+      <string name="q" value="炎热的夏季喝滚烫的汤，是遵循“以热治热”的原理。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="以热治热的意思是用热来治理热。"/>
+    </imgdir>
+    <imgdir name="43">
+      <string name="q" value="童谣《瓮津泉》中，兔子去瓮津泉的目的是“喝水”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="歌词：...来洗脸，却只喝了水就走了.. 去瓮津泉的目的是洗脸。"/>
+    </imgdir>
+    <imgdir name="44">
+      <string name="q" value="动画《黑色橡胶鞋》的主角是“李基英”、“李基哲”兄弟。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="《黑色橡胶鞋》是以南弟李基英和北哥李基哲为主角的漫画。"/>
+    </imgdir>
+    <imgdir name="100">
+      <string name="q" value="韩国最早的邮局是“邮正局”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="邮正局是1884年3月首次设立的韩国最早的邮局。"/>
+    </imgdir>
+    <imgdir name="101">
+      <string name="q" value="青铜器时代是栉文土器，新石器时代是纹文土器。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="栉文土器属于新石器时代，纹文土器属于青铜器时代。"/>
+    </imgdir>
+    <imgdir name="102">
+      <string name="q" value="细形铜剑、缠纹镜、兵器、最早的国家形态出现于旧石器时代。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="青铜器时代出现了邑落国家等最早的国家形态。"/>
+    </imgdir>
+    <imgdir name="103">
+      <string name="q" value="韩国的新石器时代始于公元前8000年左右。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="族长代表部落，开始了农耕和畜牧。"/>
+    </imgdir>
+    <imgdir name="104">
+      <string name="q" value="由编青鱼、采蕨菜、玩南天竹等组成的韩国民俗游戏是“强强索来（绕圈舞）”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="强强索来在农历八月中秋节经常玩。"/>
+    </imgdir>
+    <imgdir name="105">
+      <string name="q" value="创作名侦探福尔摩斯和其朋友华生故事的作家是阿瑟·柯南·道尔。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="从1891年的短篇开始发表福尔摩斯系列。"/>
+    </imgdir>
+    <imgdir name="106">
+      <string name="q" value="藏传佛教（喇嘛教）最大教派格鲁派最高领袖的称号是达赖喇嘛。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="达赖喇嘛也是西藏地区政治、宗教的实际领袖。"/>
+    </imgdir>
+    <imgdir name="107">
+      <string name="q" value="“시나브로”这个纯韩语的意思是“不知不觉地、一点点地”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="시나브로的意思是不知不觉地、一点点地。"/>
+    </imgdir>
+    <imgdir name="108">
+      <string name="q" value="人气组合“神话”、“GOD”、“首尔姐妹”的人数总和是14人。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="神话6人、GOD5人、首尔姐妹3人。"/>
+    </imgdir>
+    <imgdir name="109">
+      <string name="q" value="韩国的货币单位是“元”，日本的货币单位是“日元”。另外，中国的货币单位是“元（人民币）”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="中国的货币单位是“元（人民币）”。"/>
+    </imgdir>
+    <imgdir name="110">
+      <string name="q" value="首尔地铁4号线的“奥伊岛”是一座岛屿。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="奥伊岛也曾被称为玉龟岛或奥基岛。"/>
+    </imgdir>
+    <imgdir name="111">
+      <string name="q" value="诺贝尔奖在物理学、化学、生理学·医学、文学、和平、经济学6个领域颁奖。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="诺贝尔奖于1901年首次颁发，设有7个获奖领域。"/>
+    </imgdir>
+    <imgdir name="112">
+      <string name="q" value="发行韩国最早民间报纸的人是徐载弼博士。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="1896年《独立新闻》首次创刊。"/>
+    </imgdir>
+    <imgdir name="113">
+      <string name="q" value="生活在海里的海星因外形像星星，英文被称为“Starfish”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="Starfish的意思是海星。"/>
+    </imgdir>
+    <imgdir name="114">
+      <string name="q" value="人参主要分为白参和红参，这并非不同种类的人参，而是同一种人参的不同加工方式。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="白参和红参是将同一种人参通过不同加工方式制成的。"/>
+    </imgdir>
+    <imgdir name="115">
+      <string name="q" value="玄仁老师的歌曲《新罗的月夜》中，传来钟声的地方是“佛国寺”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="歌词：啊~新罗的夜晚啊，佛国寺的钟声传来...."/>
+    </imgdir>
+    <imgdir name="116">
+      <string name="q" value="太阳系中，土星和海王星之间的行星是天王星。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="太阳-水星-金星-地球-火星-木星-土星-天王星-海王星-冥王星 "/>
+    </imgdir>
+    <imgdir name="117">
+      <string name="q" value="夏季下雨后会变冷，原因是固体→液体→气体（吸热反应）。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因为固体→液体→气体是吸热反应。"/>
+    </imgdir>
+    <imgdir name="118">
+      <string name="q" value="冬天睡的觉叫冬眠，夏天睡的觉叫夏眠。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="夏眠的动物有金丝雀、海参、瓢虫等。"/>
+    </imgdir>
+    <imgdir name="119">
+      <string name="q" value="台风的名字由各国各提交10个，共140个，分为5组，每组28个。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="台风的名字由各国提交后命名。"/>
+    </imgdir>
+    <imgdir name="120">
+      <string name="q" value="蚊子吸食人或动物的血，是为了获取动物性蛋白质。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="即将进入产卵期的雌蚊会为了获取动物性蛋白质而吸血。"/>
+    </imgdir>
+    <imgdir name="121">
+      <string name="q" value="中暑时喝绿豆汤有益。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="中暑时喝绿豆汤可以给身体降温。"/>
+    </imgdir>
+    <imgdir name="122">
+      <string name="q" value="印第安夏（Indian Summer）指晚秋短暂出现的像夏天一样温暖的日子。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="印第安夏在韩国并不常见"/>
+    </imgdir>
+    <imgdir name="123">
+      <string name="q" value="夏季下雨后会变冷，原因是气体→液体→固体（放热反应）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="原因是固体→液体→气体（吸热反应）。"/>
+    </imgdir>
+    <imgdir name="124">
+      <string name="q" value="12米 + 3千米 = 3,012,000厘米。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="计算结果是301,200厘米。"/>
+    </imgdir>
+    <imgdir name="125">
+      <string name="q" value="韩朝全境最高的山是雪岳山。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="韩朝全境最高的山是白头山（长白山）。"/>
+    </imgdir>
+    <imgdir name="126">
+      <string name="q" value="韩国的场外股票交易市场被称为KOSDAQ（科斯达克）。而美国的场外股票交易市场被称为美斯达克（MISDAQ）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="美国的场外股票交易市场被称为纳斯达克（NASDAQ）。"/>
+    </imgdir>
+    <imgdir name="127">
+      <string name="q" value="莎士比亚的四大悲剧是《哈姆雷特》、《麦克白》、《奥赛罗》、《亚瑟王》。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="莎士比亚的四大悲剧不是《亚瑟王》，而是《李尔王》。"/>
+    </imgdir>
+    <imgdir name="128">
+      <string name="q" value="从空中俯瞰因9/11恐怖袭击被摧毁的美国国防部五角大楼，呈正三角形。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="五角大楼（Pentagon）的意思是五边形。因此是五边形。"/>
+    </imgdir>
+    <imgdir name="129">
+      <string name="q" value="山上气压低，因此水的沸点比平地高得多。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="山顶上水的沸点低，因此煮饭会夹生。"/>
+    </imgdir>
+    <imgdir name="130">
+      <string name="q" value="“까투리”指的是成年的公鸡。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="까투리指的是雌雉鸡。雄雉鸡被称为장끼。"/>
+    </imgdir>
+    <imgdir name="131">
+      <string name="q" value="京釜高速公路是韩国最早修建的高速公路。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="韩国最早修建的高速公路是京仁高速公路。"/>
+    </imgdir>
+    <imgdir name="132">
+      <string name="q" value="中秋节与中元节、春节并称为韩国三大传统节日。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="中秋节的另一个名字是中元节。三大节日是端午、春节、中秋节。"/>
+    </imgdir>
+    <imgdir name="133">
+      <string name="q" value="在2002年第74届奥斯卡颁奖典礼上获得最佳女主角奖的是《红磨坊》的妮可·基德曼。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="第74届奥斯卡最佳女主角奖是《死囚之舞》的哈莉·贝瑞获得。"/>
+    </imgdir>
+    <imgdir name="134">
+      <string name="q" value="1876年出生于黄海道海州，以独立运动家身份走完一生的金九先生的号是“白衣”。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="金九先生的号是“白凡”。"/>
+    </imgdir>
+    <imgdir name="135">
+      <string name="q" value="韩国最东端的岛屿是独岛。独岛的行政区域属于江原道。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="独岛的行政管辖地属于庆尚北道。"/>
+    </imgdir>
+    <imgdir name="136">
+      <string name="q" value="韩国代表性动画之一《小恐龙多利》是金秀贞作家的作品"/>
+      <int name="a" value="1"/>
+      <string name="d" value="《小恐龙多利》的作者是金秀贞。"/>
+    </imgdir>
+    <imgdir name="137">
+      <string name="q" value="韩国首位诺贝尔奖得主是金大中前总统，获奖领域是经济学奖。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="金大中前总统获得的是诺贝尔和平奖。"/>
+    </imgdir>
+    <imgdir name="138">
+      <string name="q" value="生活在海里的虾与其他水产贝类不同，大脑长在尾巴上。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="虾的大脑长在头上。"/>
+    </imgdir>
+    <imgdir name="139">
+      <string name="q" value="红茶的种类中有“锡兰茶”。这里的锡兰是印度盛产红茶的一个村庄名。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="锡兰是斯里兰卡的地名"/>
+    </imgdir>
+    <imgdir name="140">
+      <string name="q" value="作为登上珠穆朗玛峰最高龄者的日本三浦雄一郎，据说靠吃寿司抵御严寒。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="据传他是靠吃泡菜汤抵御严寒的。"/>
+    </imgdir>
+    <imgdir name="141">
+      <string name="q" value="世界上最早的手机是三星制造的Anycall（埃尼科尔）。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="世界最早的手机是摩托罗拉制造的DynaTAC（戴纳泰克）"/>
+    </imgdir>
+    <imgdir name="142">
+      <string name="q" value="朝鲜时代的“长冰库”是保管官员使用的冰的仓库。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="长冰库是管理官员使用的冰的机构"/>
+    </imgdir>
+    <imgdir name="143">
+      <string name="q" value="朝鲜时代的“西冰库”是管理官员使用的冰的机构。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="西冰库是保管冰的仓库"/>
+    </imgdir>
+    <imgdir name="144">
+      <string name="q" value="太极旗的四卦[乾坤坎离]中，代表夏季的卦是[乾]。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="坤卦代表地、夏季、西、义。"/>
+    </imgdir>
+    <imgdir name="145">
+      <string name="q" value="夏季代表性的花有向日葵、木兰、牵牛花。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="木兰被称为春天的化身"/>
+    </imgdir>
+    <imgdir name="146">
+      <string name="q" value="河马和大象的汗液是红色的。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="只有河马的汗液是红色的。"/>
+    </imgdir>
+    <imgdir name="147">
+      <string name="q" value="河马的汗液是红色的。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因为河马的汗腺会分泌出带红色的粘稠分泌物。"/>
+    </imgdir>
+    <imgdir name="148">
+      <string name="q" value="汗液比眼泪更咸。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="眼泪更咸。汗液99%是水，眼泪的成分中98%是水。"/>
+    </imgdir>
+    <imgdir name="149">
+      <string name="q" value="被蚊子叮咬后感到瘙痒的原因是【念珠菌】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="被蚊子叮咬后感到瘙痒的原因是【组胺菌】。"/>
+    </imgdir>
+    <imgdir name="150">
+      <string name="q" value="用白子和黑子一决胜负的围棋在棋盘上进行。此时棋盘的交叉点数是361个。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="19 x 19 = 361。"/>
+    </imgdir>
+    <imgdir name="151">
+      <string name="q" value="大暑是小暑15天后至立秋前的节气。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="阳历7月23日左右开始大暑"/>
+    </imgdir>
+    <imgdir name="152">
+      <string name="q" value="立夏是太阳黄经达到45°的时候。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因进入夏季而称为立夏"/>
+    </imgdir>
+    <imgdir name="153">
+      <string name="q" value="韩国最早的公认游泳池是1936年7月开设的首尔运动场（现东大门运动场）游泳池。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="这里有50米竞赛用泳池和跳水用泳池。"/>
+    </imgdir>
+    <imgdir name="154">
+      <string name="q" value="高血压在冬季比夏季更容易发病。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="因寒冷天气导致血管收缩，压力升高。"/>
+    </imgdir>
+    <imgdir name="155">
+      <string name="q" value="美国代表性的股价指数是“道琼斯指数”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="道琼斯公司每天计算并公布4种股价平均值"/>
+    </imgdir>
+    <imgdir name="156">
+      <string name="q" value="英国因鸦片战争胜利而获得的香港，于1997年归还给中国。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="1997年7月1日，结束了155年的殖民统治，归还给中国。"/>
+    </imgdir>
+    <imgdir name="157">
+      <string name="q" value="夏季代表性的星座是南天银河中的天蝎座。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="是夏季南方天空的星座"/>
+    </imgdir>
+    <imgdir name="158">
+      <string name="q" value="冰淇淋最早在中国被制作出来。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="5世纪中国，冰品首次被制作出来作为皇帝的甜点。"/>
+    </imgdir>
+    <imgdir name="159">
+      <string name="q" value="韩国最早的汉文小说是金时习的《金鳌新话》。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="是15世纪创作的韩国最早的汉文小说。"/>
+    </imgdir>
+    <imgdir name="160">
+      <string name="q" value="儿童节最初制定时，日期是5月1日。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="儿童节最初创立时是5月1日。"/>
+    </imgdir>
+    <imgdir name="161">
+      <string name="q" value="印刷术发明后，最早被印刷出来的报纸是德国的“福卢克布拉特（Flugblatt）”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="德国报纸福卢克布拉特是最早的印刷报纸。"/>
+    </imgdir>
+    <imgdir name="162">
+      <string name="q" value="韩国最早的女性新闻记者是已故的“崔恩熙”女士。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="1922年入职朝鲜日报的已故崔恩熙女士是韩国最早的女性记者。"/>
+    </imgdir>
+    <imgdir name="163">
+      <string name="q" value="被视为世界级大师的梵高、高更等均为后印象派画家。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="梵高、高更都是代表性的后印象派画家。"/>
+    </imgdir>
+    <imgdir name="164">
+      <string name="q" value="考拉宝宝犯错时，考拉妈妈会打宝宝的屁股。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="考拉宝宝犯错时，妈妈会打它的屁股。"/>
+    </imgdir>
+    <imgdir name="165">
+      <string name="q" value="查看元素周期表会看到各种元素符号。其中锑的元素符号是“Sb”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="Sb是类金属，属于第5周期元素。答对的人真的非常厉害。^^;"/>
+    </imgdir>
+    <imgdir name="166">
+      <string name="q" value="德国魏格纳提出的大陆漂移说中，指代一个巨大大陆的词是“泛大陆（Pangaea）”。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="泛大陆指的是一个巨大的大陆。"/>
+    </imgdir>
+    <imgdir name="167">
+      <string name="q" value="世界上最早的计算机是美国宾夕法尼亚大学制造的埃尼阿克（Eniac）。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="埃尼阿克是1946年最早被制造出来的计算机。"/>
+    </imgdir>
+    <imgdir name="168">
+      <string name="q" value="도투락是纯韩语，意思是‘彩色发带’。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="도투락在纯韩语中是彩色发带的意思。"/>
+    </imgdir>
+    <imgdir name="169">
+      <string name="q" value="动画（Animation）一词的词源来自拉丁语中意为“活着”的Anima。"/>
+      <int name="a" value="1"/>
+      <string name="d" value="将一幅幅图画连续展示，让人产生移动的视觉效果。"/>
+    </imgdir>
+    <imgdir name="170">
+      <string name="q" value="韩国最早开设泳衣市场的品牌是海豚牌泳衣。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="1961年，韩国鲨鱼线（株）的前身百货社创立了【鲨鱼牌泳衣】品牌"/>
+    </imgdir>
+    <imgdir name="171">
+      <string name="q" value="日照时间长的春秋季，早睡晚起有益健康。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="晚睡早起更好"/>
+    </imgdir>
+    <imgdir name="172">
+      <string name="q" value="影响韩国夏季的气团是【长江气团】"/>
+      <int name="a" value="0"/>
+      <string name="d" value="影响夏季的气团是【北太平洋气团】"/>
+    </imgdir>
+    <imgdir name="173">
+      <string name="q" value="夏季易患的空调病的致病菌是【白喉杆菌】。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="引发空调病的病菌是【军团菌】"/>
+    </imgdir>
+    <imgdir name="174">
+      <string name="q" value="雌性蝉因拥有特殊的发音器官，能发出高分贝的声音。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="众所周知，雄性蝉因拥有特殊的发音器官，能发出高分贝的声音。"/>
+    </imgdir>
+    <imgdir name="175">
+      <string name="q" value="在韩国夏季形成梅雨锋的气团是鄂霍次克海气团和长江气团。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="形成梅雨锋的气团是鄂霍次克海气团和北太平洋气团。"/>
+    </imgdir>
+    <imgdir name="176">
+      <string name="q" value="属于夏季的节气是‘立夏、小满、白露、夏至、小暑、大暑’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="‘白露’是属于秋季的节气。"/>
+    </imgdir>
+    <imgdir name="177">
+      <string name="q" value="朝鲜的第6代王是‘太祖’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="朝鲜的第6代王是‘端宗’。1452 ~ 1455"/>
+    </imgdir>
+    <imgdir name="178">
+      <string name="q" value="我们使用的韩文（训民正音）被创制的时间是1446年。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="1446年是颁布的年份，创制的时间是1443年。"/>
+    </imgdir>
+    <imgdir name="179">
+      <string name="q" value="朝鲜王朝时期，韩国最早签订通商条约的国家是美国。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="最早的通商条约是江华岛条约，是被日本强迫签订的。"/>
+    </imgdir>
+    <imgdir name="180">
+      <string name="q" value="朝鲜时代风俗画大师檀园金弘道先生的著名作品有《五伦行实图》、《仁王霁色图》等。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="《仁王霁色图》是郑敾的作品。"/>
+    </imgdir>
+    <imgdir name="181">
+      <string name="q" value="朝鲜时代的第20代王是‘肃宗’。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="朝鲜时代第20代王是景宗。"/>
+    </imgdir>
+    <imgdir name="182">
+      <string name="q" value="世界七大奇迹之一的胡夫金字塔，侧面和底面均为正三角形。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="侧面是三角形，底面是四边形。"/>
+    </imgdir>
+    <imgdir name="183">
+      <string name="q" value="查看恐龙的名字会发现很多带有sauros（사우루스），这个词在拉丁语中是‘恐惧’、‘可怕’的意思。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="sauros在拉丁语中是大蜥蜴的意思。"/>
+    </imgdir>
+    <imgdir name="184">
+      <string name="q" value="讲述巨型白鲸和失去一条腿的亚哈的小说《白鲸记》，被视为法国小说的巅峰之作。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="《白鲸记》是美国作家赫尔曼·梅尔维尔的作品，被视为美国小说的巅峰之作。"/>
+    </imgdir>
+    <imgdir name="185">
+      <string name="q" value="韩国的父母节和美国的父母节日期相同。"/>
+      <int name="a" value="0"/>
+      <string name="d" value="母亲节是5月第二个周日，父亲节是6月第三个周日，韩国的父母节是5月8日。"/>
+    </imgdir>
+  </imgdir>
+</imgdir>

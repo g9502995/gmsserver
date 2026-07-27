@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir indent="2" media="NONE" name="01076094.img">
+  <imgdir name="walk1">
+    <imgdir name="0">
+      <canvas format="2" height="127" name="default1" scale="0" width="156">
+        <vector name="origin" x="90" y="84"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="123" name="default1" scale="0" width="162">
+        <vector name="origin" x="104" y="82"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="122" name="default1" scale="0" width="155">
+        <vector name="origin" x="90" y="78"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="3">
+      <canvas format="2" height="119" name="default1" scale="0" width="161">
+        <vector name="origin" x="100" y="79"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="walk2">
+    <imgdir name="0">
+      <canvas format="2" height="127" name="default1" scale="0" width="156">
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+        <vector name="origin" x="90" y="84"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="123" name="default1" scale="0" width="162">
+        <vector name="origin" x="104" y="82"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="122" name="default1" scale="0" width="155">
+        <vector name="origin" x="90" y="78"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="3">
+      <canvas format="2" height="119" name="default1" scale="0" width="161">
+        <vector name="origin" x="100" y="79"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stand1">
+    <imgdir name="0">
+      <canvas format="2" height="132" name="default1" scale="0" width="165">
+        <vector name="origin" x="98" y="90"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="117" name="default1" scale="0" width="155">
+        <vector name="origin" x="90" y="78"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="132" name="default1" scale="0" width="165">
+        <vector name="origin" x="100" y="90"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stand2">
+    <imgdir name="0">
+      <canvas format="2" height="132" name="default1" scale="0" width="165">
+        <vector name="origin" x="98" y="90"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="117" name="default1" scale="0" width="155">
+        <vector name="origin" x="90" y="78"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="132" name="default1" scale="0" width="165">
+        <vector name="origin" x="100" y="90"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="alert">
+    <imgdir name="0">
+      <canvas format="2" height="168" name="default1" scale="0" width="218">
+        <vector name="origin" x="106" y="122"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="170" name="default1" scale="0" width="247">
+        <vector name="origin" x="139" y="129"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="161" name="default1" scale="0" width="210">
+        <vector name="origin" x="104" y="117"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingO1">
+    <imgdir name="0">
+      <canvas format="2" height="123" name="default1" scale="0" width="193">
+        <vector name="origin" x="85" y="86"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="127" name="default1" scale="0" width="163">
+        <vector name="origin" x="66" y="77"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="160" name="default1" scale="0" width="189">
+        <vector name="origin" x="72" y="122"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingO2">
+    <imgdir name="0">
+      <canvas format="2" height="158" name="default1" scale="0" width="158">
+        <vector name="origin" x="66" y="122"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="160" name="default1" scale="0" width="140">
+        <vector name="origin" x="82" y="124"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="136" name="default1" scale="0" width="151">
+        <vector name="origin" x="91" y="98"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingO3">
+    <imgdir name="0">
+      <canvas format="2" height="116" name="default1" scale="0" width="173">
+        <vector name="origin" x="59" y="82"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="115" name="default1" scale="0" width="182">
+        <vector name="origin" x="123" y="81"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="134" name="default1" scale="0" width="194">
+        <vector name="origin" x="81" y="99"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingOF">
+    <imgdir name="0">
+      <canvas format="2" height="127" name="default1" scale="0" width="121">
+        <vector name="origin" x="65" y="87"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="120" name="default1" scale="0" width="130">
+        <vector name="origin" x="62" y="74"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="174" name="default1" scale="0" width="141">
+        <vector name="origin" x="77" y="129"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="3">
+      <canvas format="2" height="101" name="default1" scale="0" width="121">
+        <vector name="origin" x="73" y="76"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingT1">
+    <imgdir name="0">
+      <canvas format="2" height="122" name="default1" scale="0" width="178">
+        <vector name="origin" x="54" y="85"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="124" name="default1" scale="0" width="158">
+        <vector name="origin" x="71" y="124"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="188" name="default1" scale="0" width="173">
+        <vector name="origin" x="123" y="90"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingT2">
+    <imgdir name="0">
+      <canvas format="2" height="113" name="default1" scale="0" width="139">
+        <vector name="origin" x="72" y="70"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="237" name="default1" scale="0" width="194">
+        <vector name="origin" x="81" y="121"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="183" name="default1" scale="0" width="179">
+        <vector name="origin" x="117" y="92"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingT3">
+    <imgdir name="0">
+      <canvas format="2" height="99" name="default1" scale="0" width="122">
+        <vector name="origin" x="65" y="65"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="165" name="default1" scale="0" width="210">
+        <vector name="origin" x="94" y="134"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="189" name="default1" scale="0" width="177">
+        <vector name="origin" x="124" y="132"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingTF">
+    <imgdir name="0">
+      <canvas format="2" height="144" name="default1" scale="0" width="111">
+        <vector name="origin" x="58" y="98"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="162" name="default1" scale="0" width="158">
+        <vector name="origin" x="68" y="124"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="161" name="default1" scale="0" width="138">
+        <vector name="origin" x="77" y="124"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="3">
+      <canvas format="2" height="189" name="default1" scale="0" width="166">
+        <vector name="origin" x="118" y="88"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingP1">
+    <imgdir name="0">
+      <canvas format="2" height="126" name="default1" scale="0" width="178">
+        <vector name="origin" x="58" y="86"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="157" name="default1" scale="0" width="209">
+        <vector name="origin" x="92" y="119"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="190" name="default1" scale="0" width="173">
+        <vector name="origin" x="123" y="93"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingP2">
+    <imgdir name="0">
+      <canvas format="2" height="161" name="default1" scale="0" width="158">
+        <vector name="origin" x="66" y="125"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="157" name="default1" scale="0" width="150">
+        <vector name="origin" x="91" y="118"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="202" name="default1" scale="0" width="177">
+        <vector name="origin" x="117" y="111"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="swingPF">
+    <imgdir name="0">
+      <canvas format="2" height="125" name="default1" scale="0" width="186">
+        <vector name="origin" x="123" y="84"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="183" name="default1" scale="0" width="172">
+        <vector name="origin" x="112" y="93"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="123" name="default1" scale="0" width="187">
+        <vector name="origin" x="70" y="91"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="3">
+      <canvas format="2" height="177" name="default1" scale="0" width="173">
+        <vector name="origin" x="137" y="98"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stabO1">
+    <imgdir name="0">
+      <canvas format="2" height="114" name="default1" scale="0" width="130">
+        <vector name="origin" x="67" y="76"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="170" name="default1" scale="0" width="195">
+        <vector name="origin" x="133" y="134"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stabO2">
+    <imgdir name="0">
+      <canvas format="2" height="98" name="default1" scale="0" width="114">
+        <vector name="origin" x="58" y="61"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="103" name="default1" scale="0" width="195">
+        <vector name="origin" x="133" y="71"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stabOF">
+    <imgdir name="0">
+      <canvas format="2" height="127" name="default1" scale="0" width="151">
+        <vector name="origin" x="93" y="91"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="130" name="default1" scale="0" width="171">
+        <vector name="origin" x="87" y="86"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="144" name="default1" scale="0" width="155">
+        <vector name="origin" x="97" y="100"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stabT1">
+    <imgdir name="0">
+      <canvas format="2" height="127" name="default1" scale="0" width="151">
+        <vector name="origin" x="96" y="85"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="124" name="default1" scale="0" width="158">
+        <vector name="origin" x="91" y="81"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="111" name="default1" scale="0" width="187">
+        <vector name="origin" x="129" y="80"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stabT2">
+    <imgdir name="0">
+      <canvas format="2" height="130" name="default1" scale="0" width="149">
+        <vector name="origin" x="95" y="86"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="141" name="default1" scale="0" width="158">
+        <vector name="origin" x="95" y="84"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="118" name="default1" scale="0" width="192">
+        <vector name="origin" x="138" y="83"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="stabTF">
+    <imgdir name="0">
+      <canvas format="2" height="125" name="default1" scale="0" width="186">
+        <vector name="origin" x="123" y="84"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="183" name="default1" scale="0" width="172">
+        <vector name="origin" x="112" y="93"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="165" name="default1" scale="0" width="147">
+        <vector name="origin" x="90" y="85"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="3">
+      <canvas format="2" height="111" name="default1" scale="0" width="187">
+        <vector name="origin" x="129" y="80"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="shoot1">
+    <imgdir name="0">
+      <canvas format="2" height="86" name="default1" scale="0" width="151">
+        <vector name="origin" x="129" y="55"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="88" name="default1" scale="0" width="160">
+        <vector name="origin" x="139" y="62"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="97" name="default1" scale="0" width="159">
+        <vector name="origin" x="135" y="68"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="shoot2">
+    <imgdir name="0">
+      <canvas format="2" height="86" name="default1" scale="0" width="151">
+        <vector name="origin" x="127" y="56"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="94" name="default1" scale="0" width="250">
+        <vector name="origin" x="136" y="70"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="109" name="default1" scale="0" width="166">
+        <vector name="origin" x="137" y="79"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="3">
+      <canvas format="2" height="97" name="default1" scale="0" width="178">
+        <vector name="origin" x="133" y="69"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="4">
+      <canvas format="2" height="102" name="default1" scale="0" width="153">
+        <vector name="origin" x="130" y="63"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="shootF">
+    <imgdir name="0">
+      <canvas format="2" height="81" name="default1" scale="0" width="241">
+        <vector name="origin" x="131" y="57"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="85" name="default1" scale="0" width="168">
+        <vector name="origin" x="138" y="66"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="85" name="default1" scale="0" width="168">
+        <vector name="origin" x="138" y="66"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="proneStab">
+    <imgdir name="0">
+      <canvas format="2" height="129" name="default1" scale="0" width="140">
+        <vector name="origin" x="88" y="93"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="117" name="default1" scale="0" width="118">
+        <vector name="origin" x="77" y="79"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="prone">
+    <imgdir name="0">
+      <canvas format="2" height="129" name="default1" scale="0" width="140">
+        <vector name="origin" x="88" y="93"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="heal">
+    <imgdir name="0">
+      <canvas format="2" height="170" name="default1" scale="0" width="247">
+        <vector name="origin" x="139" y="129"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="160" name="default1" scale="0" width="140">
+        <vector name="origin" x="82" y="124"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="2">
+      <canvas format="2" height="158" name="default1" scale="0" width="158">
+        <vector name="origin" x="66" y="122"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="fly">
+    <imgdir name="0">
+      <canvas format="2" height="142" name="default1" scale="0" width="141">
+        <vector name="origin" x="73" y="97"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="135" name="default1" scale="0" width="115">
+        <vector name="origin" x="59" y="88"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="jump">
+    <imgdir name="0">
+      <canvas format="2" height="151" name="default1" scale="0" width="136">
+        <vector name="origin" x="68" y="105"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="sit">
+    <imgdir name="0">
+      <canvas format="2" height="123" name="default1" scale="0" width="118">
+        <vector name="origin" x="59" y="95"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="ladder">
+    <imgdir name="0">
+      <canvas format="2" height="144" name="default1" scale="0" width="117">
+        <vector name="origin" x="66" y="98"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="114" name="default1" scale="0" width="122">
+        <vector name="origin" x="54" y="81"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="rope">
+    <imgdir name="0">
+      <canvas format="2" height="126" name="default1" scale="0" width="122">
+        <vector name="origin" x="65" y="86"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+    <imgdir name="1">
+      <canvas format="2" height="111" name="default1" scale="0" width="117">
+        <vector name="origin" x="56" y="85"/>
+        <imgdir name="map">
+          <vector name="navel" x="0" y="0"/>
+        </imgdir>
+        <string name="z" value="characterStart"/>
+      </canvas>
+    </imgdir>
+  </imgdir>
+  <imgdir name="backDefault">
+    <canvas format="2" height="1" name="default1" scale="0" width="1">
+      <vector name="origin" x="15" y="25"/>
+      <imgdir name="map">
+        <vector name="brow" x="-17" y="-21"/>
+      </imgdir>
+      <string name="z" value="backCap"/>
+    </canvas>
+  </imgdir>
+  <imgdir name="default">
+    <canvas format="2" height="1" name="default" scale="0" width="1">
+      <vector name="origin" x="15" y="25"/>
+      <imgdir name="map">
+        <vector name="brow" x="-15" y="-18"/>
+      </imgdir>
+      <string name="z" value="cap"/>
+    </canvas>
+  </imgdir>
+  <imgdir name="info">
+    <canvas format="2" height="32" name="icon" scale="0" width="32">
+      <vector name="origin" x="0" y="31"/>
+    </canvas>
+    <canvas format="2" height="32" name="iconRaw" scale="0" width="32">
+      <vector name="origin" x="0" y="31"/>
+    </canvas>
+    <int name="cash" value="1"/>
+    <int name="reqLUK" value="0"/>
+    <int name="reqINT" value="0"/>
+    <int name="reqDEX" value="0"/>
+    <int name="reqSTR" value="0"/>
+    <int name="reqLevel" value="0"/>
+    <int name="reqJob" value="0"/>
+    <string name="vslot" value="CpH1H2H3H4H5H6HfHbHxHs"/>
+    <string name="islot" value="HrCp"/>
+  </imgdir>
+</imgdir>

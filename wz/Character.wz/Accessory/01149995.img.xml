@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01149995.img" indent="2" media="BASE64">
+  <imgdir name="info">
+    <canvas name="icon" format="2" scale="0" basedata="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAACnUlEQVR4Xq2WgdWrIAyFXcEVXIEVXKEruAIruAIrsAIruAIrsAIvF7g2pdbf+ppz7gElyUcitQ5DZ8tjyL9Wz3gzOB1asqdKmznVKZxQOFpri4bpkedl2YXrT+r9mMO78RyOBUJDCEWDsXmxcw2UEdeYH41YR/X0Yw7CP4JhWIRjjLFoMGsJQkKMuIZwrccjP+ZAvlMozJhacQ+mCOmhR34ajLw9683g9Gx1TYh2anBt73M88mOOS1AanH+lPvdXNkUPjTyAGKfozOu1n5pfH37fCNYHiC+HHZz8/DMwE1W5yaTgCOeLo1VrR1nH5v4brqBjqSZ5K3Nn0hZ1xXPagsjNOToZUXWB3zYFlvdQ9EtOSRJHmSeZZ4xS5SobCbhe5K0n9wL8fwHG7mdJuNmSOGdAMAfICFzav9V7ZTO+ge9X/QQ7tNlLK3cw9RCZ6D3WpxS8zNHqAu7zXTJVrZGkK1pMEEbXNoBrtPxRNpVQPc7B/Yp3cPKLVIozXNo7N1iUeVBwtL2uxyRxS4P3af82BMnu8fOR/5paLaBrg9K2AnxtvbTclU7dAQsQMgUsbZZDlCdRUlAaNvL63GOUGFT9/XMGWIKNyPO5orpPhrbTrz13Kzmug9065l58hkfV0lC1bjlfLlo968UAKtZeiQ2cAP9UMTbEg6bBdVG2E08+e2gF3IAlmHOBO0nYV00of16EEobYr8DBT3sQtNqhSPaffK6t5U9qJbS1lDGIR55LYJgO1nO9AX7iYN4D+7hLUJpuF8c+OaA9rPi0v0r1SWtEk+j0lGMRTvvXBcRnDunnhrFfi8EUNagVLaIHcrb8b0boPFRHq6vohfsA6HsENuiKHMNFMBYJRgC0b+CKWiyFXF+1mkJQLybrpeMIot7sH41geRKdtRDaAAAAAElFTkSuQmCC">
+      <vector name="origin" x="-2" y="30"/>
+      <string name="_hash" value="2f491932e03f313a1ba2c1666682c769ce403aff19ce8fc98350814cc82d06d0"/>
+    </canvas>
+    <canvas name="iconRaw" format="2" scale="0" basedata="iVBORw0KGgoAAAANSUhEUgAAABkAAAAdCAYAAABfeMd1AAACY0lEQVR4Xq2WgZWsIAxFbcEWbIEWbGFasAVasAVaoAVasAVaoAV+HvCYyOis+8/mnCwoybskqLPT1Gx7TfmvndodcGnJfvV0mK/eQQTgprW2+LS88rpt3XF952McNbyb3yD8ISCEUHwyNm92rUEy4hrzqxHrqIpx1CDoVA1uxhiLT2YvAUjGiGs4rvV4FUcN6J3OxZhayQihU3AEXMVpCHQ7hKB3u2oyWqIhtUXv8SqOGh8AGhb+ykftW1uih898ODAu0ZnztV9a3Jj+zAjRh8sXrUOSX/8LwqTqbjEpOIL4ErYq7Czr2MivQAowl10mb2XuTDqirmRNRxB3a45ORlRTQI9MQeT9jX7LKYlIlHmSecYou98FGnC9yddC7gXE/xaCXa2SfNgikjMEMYeoEZC08Kj3Ctg3yLNq3hCHVnlpR4fQX+Imeo/1JQUvc7SrQEa9D1NVGBHY0SaKYnQNhmu07VU2kFAVzu1ZJR2S/CYV4FkqLVqbcJR5UCC0rq7HJHlbA42yZ0OA7AqPrHxTaxUA7A1AO4r4uX3SNlc68BNExOGmQKRVcsB5EU8KQAP0fE4xSg6q+X4ugEigEfc8B+z6ztA6xrVzsqJxDXH7nEdnz6+qoKEa3Ta+qNpPkGLts9EgCaC7SgDnQ6AhdVHQUf3Gd0gTL4GcC8hJ8lgNAXykCaAwcm8hwS89AL7bqbjsK/lc28PHeCegtYU5yIfOBwSmA/Vcw/gzi/koPuZ9AGi6ZI6jEACjcIlpn//+b9A3YyCcZwTXfcY4rsVgiv8IoOndjY77ENP3KP4YoI2JT3zM1fYP0ohsUrYWMk8AAAAASUVORK5CYII=">
+      <vector name="origin" x="-4" y="30"/>
+      <string name="_hash" value="01cb46aadb8e8a5887fe41469a8cafedcc6d97c0aa6fdef77f9eabd78c5c7bde"/>
+    </canvas>
+    <string name="islot" value="Me"/>
+    <string name="vslot" value="Me"/>
+    <int name="incPAD" value="0"/>
+    <int name="incMAD" value="0"/>
+    <int name="tuc" value="0"/>
+    <int name="notSale" value="1"/>
+    <int name="cash" value="0"/>
+    <int name="medalTag" value="911"/>
+    <int name="tradeBlock" value="1"/>
+    <int name="only" value="0"/>
+    <int name="price" value="1"/>
+    <int name="reqDEX" value="0"/>
+    <int name="reqINT" value="0"/>
+    <int name="reqJob" value="0"/>
+    <int name="reqLevel" value="0"/>
+    <int name="reqLUK" value="0"/>
+    <int name="reqSTR" value="0"/>
+    <int name="timeLimited" value="1"/>
+    <int name="incDEX" value="0"/>
+    <int name="incINT" value="0"/>
+    <int name="incLUK" value="0"/>
+    <int name="incSTR" value="0"/>
+  </imgdir>
+</imgdir>

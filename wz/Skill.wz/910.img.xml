@@ -1,0 +1,3922 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="910.img">
+  <imgdir name="skill">
+    <imgdir name="9101000">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert4"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <vector name="lt" x="-400" y="-350"/>
+          <vector name="rb" x="400" y="250"/>
+          <int name="prop" value="100"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="77" name="0" width="76">
+          <vector name="origin" x="45" y="122"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="80" name="1" width="191">
+          <vector name="origin" x="103" y="124"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="111" name="2" width="274">
+          <vector name="origin" x="145" y="155"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="112" name="3" width="274">
+          <vector name="origin" x="145" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="132" name="4" width="276">
+          <vector name="origin" x="146" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="139" name="5" width="276">
+          <vector name="origin" x="146" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="139" name="6" width="276">
+          <vector name="origin" x="146" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="132" name="7" width="276">
+          <vector name="origin" x="146" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="132" name="8" width="276">
+          <vector name="origin" x="146" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="111" name="9" width="276">
+          <vector name="origin" x="146" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="111" name="10" width="274">
+          <vector name="origin" x="145" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+        <canvas height="110" name="11" width="274">
+          <vector name="origin" x="145" y="156"/>
+          <int name="delay" value="75"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="mob">
+        <canvas height="50" name="0" width="50">
+          <vector name="origin" x="25" y="70"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="50" name="1" width="50">
+          <vector name="origin" x="25" y="70"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="58" name="2" width="58">
+          <vector name="origin" x="29" y="74"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="70" name="3" width="69">
+          <vector name="origin" x="35" y="80"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="69" name="4" width="67">
+          <vector name="origin" x="34" y="81"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="66" name="5" width="61">
+          <vector name="origin" x="31" y="80"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <int name="pos" value="2"/>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="50" name="0" width="50">
+          <vector name="origin" x="30" y="120"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="50" name="1" width="50">
+          <vector name="origin" x="30" y="120"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="58" name="2" width="58">
+          <vector name="origin" x="34" y="124"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="70" name="3" width="69">
+          <vector name="origin" x="40" y="130"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="69" name="4" width="67">
+          <vector name="origin" x="39" y="131"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="66" name="5" width="61">
+          <vector name="origin" x="36" y="130"/>
+          <int name="delay" value="120"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9101001">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="speed" value="40"/>
+          <int name="jump" value="20"/>
+          <vector name="lt" x="-400" y="-350"/>
+          <vector name="rb" x="400" y="250"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="12" name="0" width="42">
+          <vector name="origin" x="23" y="12"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="12" name="1" width="40">
+          <vector name="origin" x="20" y="12"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="59" name="2" width="93">
+          <vector name="origin" x="68" y="59"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="59" name="3" width="92">
+          <vector name="origin" x="67" y="59"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="64" name="4" width="96">
+          <vector name="origin" x="59" y="64"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="60" name="5" width="106">
+          <vector name="origin" x="57" y="64"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="59" name="6" width="89">
+          <vector name="origin" x="35" y="64"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="57" name="7" width="88">
+          <vector name="origin" x="34" y="63"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="31" name="8" width="16">
+          <vector name="origin" x="-30" y="44"/>
+          <int name="delay" value="90"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="84" name="0" width="42">
+          <vector name="origin" x="24" y="84"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="84" name="1" width="40">
+          <vector name="origin" x="21" y="84"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="86" name="2" width="43">
+          <vector name="origin" x="21" y="86"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="86" name="3" width="43">
+          <vector name="origin" x="21" y="86"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="86" name="4" width="55">
+          <vector name="origin" x="21" y="86"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="81" name="5" width="66">
+          <vector name="origin" x="21" y="86"/>
+          <int name="delay" value="120"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9101002">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="x" value="50"/>
+          <vector name="lt" x="-400" y="-350"/>
+          <vector name="rb" x="400" y="250"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="92" name="0" width="74">
+          <vector name="origin" x="42" y="140"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="93" name="1" width="66">
+          <vector name="origin" x="37" y="140"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="93" name="2" width="57">
+          <vector name="origin" x="33" y="140"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="167" name="3" width="185">
+          <vector name="origin" x="103" y="190"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="200" name="4" width="222">
+          <vector name="origin" x="126" y="212"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="206" name="5" width="222">
+          <vector name="origin" x="135" y="214"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="212" name="6" width="241">
+          <vector name="origin" x="138" y="214"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="158" name="7" width="173">
+          <vector name="origin" x="97" y="181"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="203" name="8" width="206">
+          <vector name="origin" x="110" y="208"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="203" name="9" width="206">
+          <vector name="origin" x="110" y="208"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="203" name="10" width="206">
+          <vector name="origin" x="110" y="208"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="203" name="11" width="206">
+          <vector name="origin" x="110" y="208"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="203" name="12" width="206">
+          <vector name="origin" x="110" y="208"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="158" name="13" width="173">
+          <vector name="origin" x="97" y="181"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="156" name="14" width="173">
+          <vector name="origin" x="97" y="180"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="156" name="15" width="172">
+          <vector name="origin" x="96" y="180"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="154" name="16" width="171">
+          <vector name="origin" x="96" y="179"/>
+          <int name="delay" value="85"/>
+        </canvas>
+        <canvas height="152" name="17" width="167">
+          <vector name="origin" x="94" y="178"/>
+          <int name="delay" value="85"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="40" name="0" width="17">
+          <vector name="origin" x="12" y="115"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="40" name="1" width="23">
+          <vector name="origin" x="15" y="115"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="40" name="2" width="29">
+          <vector name="origin" x="18" y="115"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="40" name="3" width="35">
+          <vector name="origin" x="21" y="115"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <uol name="4" value="2"/>
+        <uol name="5" value="1"/>
+        <uol name="6" value="0"/>
+        <uol name="7" value="1"/>
+        <uol name="8" value="2"/>
+        <uol name="9" value="3"/>
+        <uol name="10" value="2"/>
+        <uol name="11" value="1"/>
+        <uol name="12" value="0"/>
+        <uol name="13" value="1"/>
+        <uol name="14" value="2"/>
+        <canvas height="40" name="15" width="35">
+          <vector name="origin" x="21" y="115"/>
+          <int name="delay" value="200"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9101003">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="20"/>
+          <int name="mad" value="20"/>
+          <int name="pdd" value="100"/>
+          <int name="mdd" value="100"/>
+          <int name="acc" value="100"/>
+          <int name="eva" value="100"/>
+          <vector name="lt" x="-400" y="-350"/>
+          <vector name="rb" x="400" y="250"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="21" name="0" width="48">
+          <vector name="origin" x="29" y="14"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="25" name="1" width="60">
+          <vector name="origin" x="35" y="18"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="32" name="2" width="66">
+          <vector name="origin" x="38" y="25"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="36" name="3" width="60">
+          <vector name="origin" x="35" y="29"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="336" name="4" width="77">
+          <vector name="origin" x="42" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="340" name="5" width="84">
+          <vector name="origin" x="43" y="328"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="6" width="80">
+          <vector name="origin" x="46" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="378" name="7" width="89">
+          <vector name="origin" x="42" y="366"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="364" name="8" width="71">
+          <vector name="origin" x="38" y="354"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="361" name="9" width="66">
+          <vector name="origin" x="38" y="349"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="10" width="64">
+          <vector name="origin" x="37" y="326"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="46" name="0" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="1" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="46" name="2" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="3" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="44" name="4" width="86">
+          <vector name="origin" x="45" y="129"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="79" name="5" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="83" name="6" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="50"/>
+        </canvas>
+        <canvas height="98" name="7" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="60"/>
+        </canvas>
+        <canvas height="98" name="8" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="90" name="9" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="78" name="10" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9101004">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="55" name="0" width="48">
+          <vector name="origin" x="29" y="67"/>
+          <int name="z" value="0"/>
+        </canvas>
+        <canvas height="43" name="1" width="61">
+          <vector name="origin" x="36" y="79"/>
+          <int name="z" value="0"/>
+        </canvas>
+        <canvas height="28" name="2" width="67">
+          <vector name="origin" x="38" y="95"/>
+          <int name="z" value="0"/>
+        </canvas>
+        <canvas height="27" name="3" width="64">
+          <vector name="origin" x="37" y="108"/>
+          <int name="z" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9101005">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <vector name="lt" x="-400" y="-350"/>
+          <vector name="rb" x="400" y="250"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="142" name="0" width="162">
+          <vector name="origin" x="87" y="120"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="153" name="1" width="165">
+          <vector name="origin" x="90" y="131"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="159" name="2" width="166">
+          <vector name="origin" x="83" y="140"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="181" name="3" width="180">
+          <vector name="origin" x="83" y="162"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="205" name="4" width="162">
+          <vector name="origin" x="74" y="186"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="216" name="5" width="159">
+          <vector name="origin" x="75" y="197"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="202" name="6" width="142">
+          <vector name="origin" x="70" y="188"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="210" name="7" width="162">
+          <vector name="origin" x="78" y="194"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="193" name="8" width="176">
+          <vector name="origin" x="78" y="193"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="145" name="9" width="165">
+          <vector name="origin" x="78" y="198"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="173" name="10" width="171">
+          <vector name="origin" x="77" y="202"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <int name="z" value="-1"/>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="142" name="0" width="162">
+          <vector name="origin" x="87" y="120"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="153" name="1" width="165">
+          <vector name="origin" x="90" y="131"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="159" name="2" width="166">
+          <vector name="origin" x="83" y="140"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="181" name="3" width="180">
+          <vector name="origin" x="83" y="162"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="205" name="4" width="162">
+          <vector name="origin" x="74" y="186"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="216" name="5" width="159">
+          <vector name="origin" x="75" y="197"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="202" name="6" width="142">
+          <vector name="origin" x="70" y="188"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="210" name="7" width="162">
+          <vector name="origin" x="78" y="194"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="193" name="8" width="176">
+          <vector name="origin" x="78" y="193"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="145" name="9" width="165">
+          <vector name="origin" x="78" y="198"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <canvas height="173" name="10" width="171">
+          <vector name="origin" x="77" y="202"/>
+          <int name="delay" value="95"/>
+        </canvas>
+        <int name="z" value="-1"/>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9101008">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="x" value="60"/>
+          <int name="y" value="60"/>
+          <int name="time" value="900"/>
+          <vector name="lt" x="-400" y="-350"/>
+          <vector name="rb" x="400" y="250"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="121" name="0" width="54">
+          <vector name="origin" x="32" y="119"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="142" name="1" width="54">
+          <vector name="origin" x="32" y="138"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="147" name="2" width="54">
+          <vector name="origin" x="32" y="147"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="147" name="3" width="54">
+          <vector name="origin" x="32" y="147"/>
+          <int name="delay" value="200"/>
+        </canvas>
+        <canvas height="100" name="4" width="54">
+          <vector name="origin" x="32" y="99"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="112" name="5" width="54">
+          <vector name="origin" x="32" y="111"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="133" name="6" width="54">
+          <vector name="origin" x="32" y="132"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="101" name="7" width="36">
+          <vector name="origin" x="23" y="115"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="87" name="8" width="35">
+          <vector name="origin" x="22" y="134"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="57" name="9" width="33">
+          <vector name="origin" x="21" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="45" name="10" width="30">
+          <vector name="origin" x="19" y="136"/>
+          <int name="delay" value="80"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="19" name="0" width="34">
+          <vector name="origin" x="19" y="18"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="59" name="1" width="44">
+          <vector name="origin" x="24" y="58"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="115" name="2" width="46">
+          <vector name="origin" x="26" y="113"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="101" name="3" width="36">
+          <vector name="origin" x="23" y="115"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="87" name="4" width="35">
+          <vector name="origin" x="22" y="134"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="57" name="5" width="33">
+          <vector name="origin" x="21" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="45" name="6" width="30">
+          <vector name="origin" x="19" y="136"/>
+          <int name="delay" value="80"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9102001">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="1"/>
+          <int name="mad" value="1"/>
+        </imgdir>
+        <imgdir name="2">
+          <string name="hs" value="h2"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="2"/>
+          <int name="mad" value="2"/>
+        </imgdir>
+        <imgdir name="3">
+          <string name="hs" value="h3"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="3"/>
+          <int name="mad" value="3"/>
+        </imgdir>
+        <imgdir name="4">
+          <string name="hs" value="h4"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="4"/>
+          <int name="mad" value="4"/>
+        </imgdir>
+        <imgdir name="5">
+          <string name="hs" value="h5"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="5"/>
+          <int name="mad" value="5"/>
+        </imgdir>
+        <imgdir name="6">
+          <string name="hs" value="h6"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="6"/>
+          <int name="mad" value="6"/>
+        </imgdir>
+        <imgdir name="7">
+          <string name="hs" value="h7"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="7"/>
+          <int name="mad" value="7"/>
+        </imgdir>
+        <imgdir name="8">
+          <string name="hs" value="h8"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="8"/>
+          <int name="mad" value="8"/>
+        </imgdir>
+        <imgdir name="9">
+          <string name="hs" value="h9"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="9"/>
+          <int name="mad" value="9"/>
+        </imgdir>
+        <imgdir name="10">
+          <string name="hs" value="h10"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="10"/>
+          <int name="mad" value="10"/>
+        </imgdir>
+        <imgdir name="11">
+          <string name="hs" value="h11"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="11"/>
+          <int name="mad" value="11"/>
+		  <int name="incSTR" value="11"/>
+        </imgdir>
+        <imgdir name="12">
+          <string name="hs" value="h12"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="12"/>
+          <int name="mad" value="12"/>
+        </imgdir>
+        <imgdir name="13">
+          <string name="hs" value="h13"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="13"/>
+          <int name="mad" value="13"/>
+        </imgdir>
+        <imgdir name="14">
+          <string name="hs" value="h14"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="14"/>
+          <int name="mad" value="14"/>
+        </imgdir>
+        <imgdir name="15">
+          <string name="hs" value="h15"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="15"/>
+          <int name="mad" value="15"/>
+        </imgdir>
+        <imgdir name="16">
+          <string name="hs" value="h16"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="16"/>
+          <int name="mad" value="16"/>
+        </imgdir>
+        <imgdir name="17">
+          <string name="hs" value="h17"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="17"/>
+          <int name="mad" value="17"/>
+        </imgdir>
+        <imgdir name="18">
+          <string name="hs" value="h18"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="18"/>
+          <int name="mad" value="18"/>
+        </imgdir>
+        <imgdir name="19">
+          <string name="hs" value="h19"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="19"/>
+          <int name="mad" value="19"/>
+        </imgdir>
+        <imgdir name="20">
+          <string name="hs" value="h20"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="20"/>
+          <int name="mad" value="20"/>
+        </imgdir>
+        <imgdir name="21">
+          <string name="hs" value="h21"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="21"/>
+          <int name="mad" value="21"/>
+        </imgdir>
+        <imgdir name="22">
+          <string name="hs" value="h22"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="22"/>
+          <int name="mad" value="22"/>
+        </imgdir>
+        <imgdir name="23">
+          <string name="hs" value="h23"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="23"/>
+          <int name="mad" value="23"/>
+        </imgdir>
+        <imgdir name="24">
+          <string name="hs" value="h24"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="24"/>
+          <int name="mad" value="24"/>
+        </imgdir>
+        <imgdir name="25">
+          <string name="hs" value="h25"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="25"/>
+          <int name="mad" value="25"/>
+        </imgdir>
+        <imgdir name="26">
+          <string name="hs" value="h26"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="26"/>
+          <int name="mad" value="26"/>
+        </imgdir>
+        <imgdir name="27">
+          <string name="hs" value="h27"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="27"/>
+          <int name="mad" value="27"/>
+        </imgdir>
+        <imgdir name="28">
+          <string name="hs" value="h28"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="28"/>
+          <int name="mad" value="28"/>
+        </imgdir>
+        <imgdir name="29">
+          <string name="hs" value="h29"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="29"/>
+          <int name="mad" value="29"/>
+        </imgdir>
+        <imgdir name="30">
+          <string name="hs" value="h30"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="30"/>
+          <int name="mad" value="30"/>
+        </imgdir>
+        <imgdir name="31">
+          <string name="hs" value="h31"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="31"/>
+          <int name="mad" value="31"/>
+        </imgdir>
+        <imgdir name="32">
+          <string name="hs" value="h32"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="32"/>
+          <int name="mad" value="32"/>
+        </imgdir>
+        <imgdir name="33">
+          <string name="hs" value="h33"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="33"/>
+          <int name="mad" value="33"/>
+        </imgdir>
+        <imgdir name="34">
+          <string name="hs" value="h34"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="34"/>
+          <int name="mad" value="34"/>
+        </imgdir>
+        <imgdir name="35">
+          <string name="hs" value="h35"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="35"/>
+          <int name="mad" value="35"/>
+        </imgdir>
+        <imgdir name="36">
+          <string name="hs" value="h36"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="36"/>
+          <int name="mad" value="36"/>
+        </imgdir>
+        <imgdir name="37">
+          <string name="hs" value="h37"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="37"/>
+          <int name="mad" value="37"/>
+        </imgdir>
+        <imgdir name="38">
+          <string name="hs" value="h38"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="38"/>
+          <int name="mad" value="38"/>
+        </imgdir>
+        <imgdir name="39">
+          <string name="hs" value="h39"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="39"/>
+          <int name="mad" value="39"/>
+        </imgdir>
+        <imgdir name="40">
+          <string name="hs" value="h40"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="40"/>
+          <int name="mad" value="40"/>
+        </imgdir>
+        <imgdir name="41">
+          <string name="hs" value="h41"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="41"/>
+          <int name="mad" value="41"/>
+        </imgdir>
+        <imgdir name="42">
+          <string name="hs" value="h42"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="42"/>
+          <int name="mad" value="42"/>
+        </imgdir>
+        <imgdir name="43">
+          <string name="hs" value="h43"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="43"/>
+          <int name="mad" value="43"/>
+        </imgdir>
+        <imgdir name="44">
+          <string name="hs" value="h44"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="44"/>
+          <int name="mad" value="44"/>
+        </imgdir>
+        <imgdir name="45">
+          <string name="hs" value="h45"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="45"/>
+          <int name="mad" value="45"/>
+        </imgdir>
+        <imgdir name="46">
+          <string name="hs" value="h46"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="46"/>
+          <int name="mad" value="46"/>
+        </imgdir>
+        <imgdir name="47">
+          <string name="hs" value="h47"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="47"/>
+          <int name="mad" value="47"/>
+        </imgdir>
+        <imgdir name="48">
+          <string name="hs" value="h48"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="48"/>
+          <int name="mad" value="48"/>
+        </imgdir>
+        <imgdir name="49">
+          <string name="hs" value="h49"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="49"/>
+          <int name="mad" value="49"/>
+        </imgdir>
+        <imgdir name="50">
+          <string name="hs" value="h50"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="50"/>
+          <int name="mad" value="50"/>
+        </imgdir>
+        <imgdir name="51">
+          <string name="hs" value="h51"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="51"/>
+          <int name="mad" value="51"/>
+        </imgdir>
+        <imgdir name="52">
+          <string name="hs" value="h52"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="52"/>
+          <int name="mad" value="52"/>
+        </imgdir>
+        <imgdir name="53">
+          <string name="hs" value="h53"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="53"/>
+          <int name="mad" value="53"/>
+        </imgdir>
+        <imgdir name="54">
+          <string name="hs" value="h54"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="54"/>
+          <int name="mad" value="54"/>
+        </imgdir>
+        <imgdir name="55">
+          <string name="hs" value="h55"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="55"/>
+          <int name="mad" value="55"/>
+        </imgdir>
+        <imgdir name="56">
+          <string name="hs" value="h56"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="56"/>
+          <int name="mad" value="56"/>
+        </imgdir>
+        <imgdir name="57">
+          <string name="hs" value="h57"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="57"/>
+          <int name="mad" value="57"/>
+        </imgdir>
+        <imgdir name="58">
+          <string name="hs" value="h58"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="58"/>
+          <int name="mad" value="58"/>
+        </imgdir>
+        <imgdir name="59">
+          <string name="hs" value="h59"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="59"/>
+          <int name="mad" value="59"/>
+        </imgdir>
+        <imgdir name="60">
+          <string name="hs" value="h60"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="60"/>
+          <int name="mad" value="60"/>
+        </imgdir>
+        <imgdir name="61">
+          <string name="hs" value="h61"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="61"/>
+          <int name="mad" value="61"/>
+        </imgdir>
+        <imgdir name="62">
+          <string name="hs" value="h62"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="62"/>
+          <int name="mad" value="62"/>
+        </imgdir>
+        <imgdir name="63">
+          <string name="hs" value="h63"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="63"/>
+          <int name="mad" value="63"/>
+        </imgdir>
+        <imgdir name="64">
+          <string name="hs" value="h64"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="64"/>
+          <int name="mad" value="64"/>
+        </imgdir>
+        <imgdir name="65">
+          <string name="hs" value="h65"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="65"/>
+          <int name="mad" value="65"/>
+        </imgdir>
+        <imgdir name="66">
+          <string name="hs" value="h66"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="66"/>
+          <int name="mad" value="66"/>
+        </imgdir>
+        <imgdir name="67">
+          <string name="hs" value="h67"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="67"/>
+          <int name="mad" value="67"/>
+        </imgdir>
+        <imgdir name="68">
+          <string name="hs" value="h68"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="68"/>
+          <int name="mad" value="68"/>
+        </imgdir>
+        <imgdir name="69">
+          <string name="hs" value="h69"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="69"/>
+          <int name="mad" value="69"/>
+        </imgdir>
+        <imgdir name="70">
+          <string name="hs" value="h70"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="70"/>
+          <int name="mad" value="70"/>
+        </imgdir>
+        <imgdir name="71">
+          <string name="hs" value="h71"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="71"/>
+          <int name="mad" value="71"/>
+        </imgdir>
+        <imgdir name="72">
+          <string name="hs" value="h72"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="72"/>
+          <int name="mad" value="72"/>
+        </imgdir>
+        <imgdir name="73">
+          <string name="hs" value="h73"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="73"/>
+          <int name="mad" value="73"/>
+        </imgdir>
+        <imgdir name="74">
+          <string name="hs" value="h74"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="74"/>
+          <int name="mad" value="74"/>
+        </imgdir>
+        <imgdir name="75">
+          <string name="hs" value="h75"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="75"/>
+          <int name="mad" value="75"/>
+        </imgdir>
+        <imgdir name="76">
+          <string name="hs" value="h76"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="76"/>
+          <int name="mad" value="76"/>
+        </imgdir>
+        <imgdir name="77">
+          <string name="hs" value="h77"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="77"/>
+          <int name="mad" value="77"/>
+        </imgdir>
+        <imgdir name="78">
+          <string name="hs" value="h78"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="78"/>
+          <int name="mad" value="78"/>
+        </imgdir>
+        <imgdir name="79">
+          <string name="hs" value="h79"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="79"/>
+          <int name="mad" value="79"/>
+        </imgdir>
+        <imgdir name="80">
+          <string name="hs" value="h80"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="80"/>
+          <int name="mad" value="80"/>
+        </imgdir>
+        <imgdir name="81">
+          <string name="hs" value="h81"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="81"/>
+          <int name="mad" value="81"/>
+        </imgdir>
+        <imgdir name="82">
+          <string name="hs" value="h82"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="82"/>
+          <int name="mad" value="82"/>
+        </imgdir>
+        <imgdir name="83">
+          <string name="hs" value="h83"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="83"/>
+          <int name="mad" value="83"/>
+        </imgdir>
+        <imgdir name="84">
+          <string name="hs" value="h84"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="84"/>
+          <int name="mad" value="84"/>
+        </imgdir>
+        <imgdir name="85">
+          <string name="hs" value="h85"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="85"/>
+          <int name="mad" value="85"/>
+        </imgdir>
+        <imgdir name="86">
+          <string name="hs" value="h86"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="86"/>
+          <int name="mad" value="86"/>
+        </imgdir>
+        <imgdir name="87">
+          <string name="hs" value="h87"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="87"/>
+          <int name="mad" value="87"/>
+        </imgdir>
+        <imgdir name="88">
+          <string name="hs" value="h88"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="88"/>
+          <int name="mad" value="88"/>
+        </imgdir>
+        <imgdir name="89">
+          <string name="hs" value="h89"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="89"/>
+          <int name="mad" value="89"/>
+        </imgdir>
+        <imgdir name="90">
+          <string name="hs" value="h90"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="90"/>
+          <int name="mad" value="90"/>
+        </imgdir>
+        <imgdir name="91">
+          <string name="hs" value="h91"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="91"/>
+          <int name="mad" value="91"/>
+        </imgdir>
+        <imgdir name="92">
+          <string name="hs" value="h92"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="92"/>
+          <int name="mad" value="92"/>
+        </imgdir>
+        <imgdir name="93">
+          <string name="hs" value="h93"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="93"/>
+          <int name="mad" value="93"/>
+        </imgdir>
+        <imgdir name="94">
+          <string name="hs" value="h94"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="94"/>
+          <int name="mad" value="94"/>
+        </imgdir>
+        <imgdir name="95">
+          <string name="hs" value="h95"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="95"/>
+          <int name="mad" value="95"/>
+        </imgdir>
+        <imgdir name="96">
+          <string name="hs" value="h96"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="96"/>
+          <int name="mad" value="96"/>
+        </imgdir>
+        <imgdir name="97">
+          <string name="hs" value="h97"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="97"/>
+          <int name="mad" value="97"/>
+        </imgdir>
+        <imgdir name="98">
+          <string name="hs" value="h98"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="98"/>
+          <int name="mad" value="98"/>
+        </imgdir>
+        <imgdir name="99">
+          <string name="hs" value="h99"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="99"/>
+          <int name="mad" value="99"/>
+        </imgdir>
+        <imgdir name="100">
+          <string name="hs" value="h100"/>
+          <int name="time" value="900"/>
+          <int name="pad" value="100"/>
+          <int name="mad" value="100"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="21" name="0" width="48">
+          <vector name="origin" x="29" y="14"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="25" name="1" width="60">
+          <vector name="origin" x="35" y="18"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="32" name="2" width="66">
+          <vector name="origin" x="38" y="25"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="36" name="3" width="60">
+          <vector name="origin" x="35" y="29"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="336" name="4" width="77">
+          <vector name="origin" x="42" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="340" name="5" width="84">
+          <vector name="origin" x="43" y="328"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="6" width="80">
+          <vector name="origin" x="46" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="378" name="7" width="89">
+          <vector name="origin" x="42" y="366"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="364" name="8" width="71">
+          <vector name="origin" x="38" y="354"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="361" name="9" width="66">
+          <vector name="origin" x="38" y="349"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="10" width="64">
+          <vector name="origin" x="37" y="326"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="46" name="0" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="1" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="46" name="2" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="3" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="44" name="4" width="86">
+          <vector name="origin" x="45" y="129"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="79" name="5" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="83" name="6" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="50"/>
+        </canvas>
+        <canvas height="98" name="7" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="60"/>
+        </canvas>
+        <canvas height="98" name="8" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="90" name="9" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="78" name="10" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9102002">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="1"/>
+        </imgdir>
+        <imgdir name="2">
+          <string name="hs" value="h2"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="2"/>
+        </imgdir>
+        <imgdir name="3">
+          <string name="hs" value="h3"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="3"/>
+        </imgdir>
+        <imgdir name="4">
+          <string name="hs" value="h4"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="4"/>
+        </imgdir>
+        <imgdir name="5">
+          <string name="hs" value="h5"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="5"/>
+        </imgdir>
+        <imgdir name="6">
+          <string name="hs" value="h6"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="6"/>
+        </imgdir>
+        <imgdir name="7">
+          <string name="hs" value="h7"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="7"/>
+        </imgdir>
+        <imgdir name="8">
+          <string name="hs" value="h8"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="8"/>
+        </imgdir>
+        <imgdir name="9">
+          <string name="hs" value="h9"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="9"/>
+        </imgdir>
+        <imgdir name="10">
+          <string name="hs" value="h10"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="10"/>
+        </imgdir>
+        <imgdir name="11">
+          <string name="hs" value="h11"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="11"/>
+        </imgdir>
+        <imgdir name="12">
+          <string name="hs" value="h12"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="12"/>
+        </imgdir>
+        <imgdir name="13">
+          <string name="hs" value="h13"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="13"/>
+        </imgdir>
+        <imgdir name="14">
+          <string name="hs" value="h14"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="14"/>
+        </imgdir>
+        <imgdir name="15">
+          <string name="hs" value="h15"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="15"/>
+        </imgdir>
+        <imgdir name="16">
+          <string name="hs" value="h16"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="16"/>
+        </imgdir>
+        <imgdir name="17">
+          <string name="hs" value="h17"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="17"/>
+        </imgdir>
+        <imgdir name="18">
+          <string name="hs" value="h18"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="18"/>
+        </imgdir>
+        <imgdir name="19">
+          <string name="hs" value="h19"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="19"/>
+        </imgdir>
+        <imgdir name="20">
+          <string name="hs" value="h20"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="20"/>
+        </imgdir>
+        <imgdir name="21">
+          <string name="hs" value="h21"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="21"/>
+        </imgdir>
+        <imgdir name="22">
+          <string name="hs" value="h22"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="22"/>
+        </imgdir>
+        <imgdir name="23">
+          <string name="hs" value="h23"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="23"/>
+        </imgdir>
+        <imgdir name="24">
+          <string name="hs" value="h24"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="24"/>
+        </imgdir>
+        <imgdir name="25">
+          <string name="hs" value="h25"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="25"/>
+        </imgdir>
+        <imgdir name="26">
+          <string name="hs" value="h26"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="26"/>
+        </imgdir>
+        <imgdir name="27">
+          <string name="hs" value="h27"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="27"/>
+        </imgdir>
+        <imgdir name="28">
+          <string name="hs" value="h28"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="28"/>
+        </imgdir>
+        <imgdir name="29">
+          <string name="hs" value="h29"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="29"/>
+        </imgdir>
+        <imgdir name="30">
+          <string name="hs" value="h30"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="30"/>
+        </imgdir>
+        <imgdir name="31">
+          <string name="hs" value="h31"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="31"/>
+        </imgdir>
+        <imgdir name="32">
+          <string name="hs" value="h32"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="32"/>
+        </imgdir>
+        <imgdir name="33">
+          <string name="hs" value="h33"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="33"/>
+        </imgdir>
+        <imgdir name="34">
+          <string name="hs" value="h34"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="34"/>
+        </imgdir>
+        <imgdir name="35">
+          <string name="hs" value="h35"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="35"/>
+        </imgdir>
+        <imgdir name="36">
+          <string name="hs" value="h36"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="36"/>
+        </imgdir>
+        <imgdir name="37">
+          <string name="hs" value="h37"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="37"/>
+        </imgdir>
+        <imgdir name="38">
+          <string name="hs" value="h38"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="38"/>
+        </imgdir>
+        <imgdir name="39">
+          <string name="hs" value="h39"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="39"/>
+        </imgdir>
+        <imgdir name="40">
+          <string name="hs" value="h40"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="40"/>
+        </imgdir>
+        <imgdir name="41">
+          <string name="hs" value="h41"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="41"/>
+        </imgdir>
+        <imgdir name="42">
+          <string name="hs" value="h42"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="42"/>
+        </imgdir>
+        <imgdir name="43">
+          <string name="hs" value="h43"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="43"/>
+        </imgdir>
+        <imgdir name="44">
+          <string name="hs" value="h44"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="44"/>
+        </imgdir>
+        <imgdir name="45">
+          <string name="hs" value="h45"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="45"/>
+        </imgdir>
+        <imgdir name="46">
+          <string name="hs" value="h46"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="46"/>
+        </imgdir>
+        <imgdir name="47">
+          <string name="hs" value="h47"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="47"/>
+        </imgdir>
+        <imgdir name="48">
+          <string name="hs" value="h48"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="48"/>
+        </imgdir>
+        <imgdir name="49">
+          <string name="hs" value="h49"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="49"/>
+        </imgdir>
+        <imgdir name="50">
+          <string name="hs" value="h50"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="50"/>
+        </imgdir>
+        <imgdir name="51">
+          <string name="hs" value="h51"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="51"/>
+        </imgdir>
+        <imgdir name="52">
+          <string name="hs" value="h52"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="52"/>
+        </imgdir>
+        <imgdir name="53">
+          <string name="hs" value="h53"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="53"/>
+        </imgdir>
+        <imgdir name="54">
+          <string name="hs" value="h54"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="54"/>
+        </imgdir>
+        <imgdir name="55">
+          <string name="hs" value="h55"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="55"/>
+        </imgdir>
+        <imgdir name="56">
+          <string name="hs" value="h56"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="56"/>
+        </imgdir>
+        <imgdir name="57">
+          <string name="hs" value="h57"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="57"/>
+        </imgdir>
+        <imgdir name="58">
+          <string name="hs" value="h58"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="58"/>
+        </imgdir>
+        <imgdir name="59">
+          <string name="hs" value="h59"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="59"/>
+        </imgdir>
+        <imgdir name="60">
+          <string name="hs" value="h60"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="60"/>
+        </imgdir>
+        <imgdir name="61">
+          <string name="hs" value="h61"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="61"/>
+        </imgdir>
+        <imgdir name="62">
+          <string name="hs" value="h62"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="62"/>
+        </imgdir>
+        <imgdir name="63">
+          <string name="hs" value="h63"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="63"/>
+        </imgdir>
+        <imgdir name="64">
+          <string name="hs" value="h64"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="64"/>
+        </imgdir>
+        <imgdir name="65">
+          <string name="hs" value="h65"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="65"/>
+        </imgdir>
+        <imgdir name="66">
+          <string name="hs" value="h66"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="66"/>
+        </imgdir>
+        <imgdir name="67">
+          <string name="hs" value="h67"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="67"/>
+        </imgdir>
+        <imgdir name="68">
+          <string name="hs" value="h68"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="68"/>
+        </imgdir>
+        <imgdir name="69">
+          <string name="hs" value="h69"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="69"/>
+        </imgdir>
+        <imgdir name="70">
+          <string name="hs" value="h70"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="70"/>
+        </imgdir>
+        <imgdir name="71">
+          <string name="hs" value="h71"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="71"/>
+        </imgdir>
+        <imgdir name="72">
+          <string name="hs" value="h72"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="72"/>
+        </imgdir>
+        <imgdir name="73">
+          <string name="hs" value="h73"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="73"/>
+        </imgdir>
+        <imgdir name="74">
+          <string name="hs" value="h74"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="74"/>
+        </imgdir>
+        <imgdir name="75">
+          <string name="hs" value="h75"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="75"/>
+        </imgdir>
+        <imgdir name="76">
+          <string name="hs" value="h76"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="76"/>
+        </imgdir>
+        <imgdir name="77">
+          <string name="hs" value="h77"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="77"/>
+        </imgdir>
+        <imgdir name="78">
+          <string name="hs" value="h78"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="78"/>
+        </imgdir>
+        <imgdir name="79">
+          <string name="hs" value="h79"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="79"/>
+        </imgdir>
+        <imgdir name="80">
+          <string name="hs" value="h80"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="80"/>
+        </imgdir>
+        <imgdir name="81">
+          <string name="hs" value="h81"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="81"/>
+        </imgdir>
+        <imgdir name="82">
+          <string name="hs" value="h82"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="82"/>
+        </imgdir>
+        <imgdir name="83">
+          <string name="hs" value="h83"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="83"/>
+        </imgdir>
+        <imgdir name="84">
+          <string name="hs" value="h84"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="84"/>
+        </imgdir>
+        <imgdir name="85">
+          <string name="hs" value="h85"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="85"/>
+        </imgdir>
+        <imgdir name="86">
+          <string name="hs" value="h86"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="86"/>
+        </imgdir>
+        <imgdir name="87">
+          <string name="hs" value="h87"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="87"/>
+        </imgdir>
+        <imgdir name="88">
+          <string name="hs" value="h88"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="88"/>
+        </imgdir>
+        <imgdir name="89">
+          <string name="hs" value="h89"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="89"/>
+        </imgdir>
+        <imgdir name="90">
+          <string name="hs" value="h90"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="90"/>
+        </imgdir>
+        <imgdir name="91">
+          <string name="hs" value="h91"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="91"/>
+        </imgdir>
+        <imgdir name="92">
+          <string name="hs" value="h92"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="92"/>
+        </imgdir>
+        <imgdir name="93">
+          <string name="hs" value="h93"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="93"/>
+        </imgdir>
+        <imgdir name="94">
+          <string name="hs" value="h94"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="94"/>
+        </imgdir>
+        <imgdir name="95">
+          <string name="hs" value="h95"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="95"/>
+        </imgdir>
+        <imgdir name="96">
+          <string name="hs" value="h96"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="96"/>
+        </imgdir>
+        <imgdir name="97">
+          <string name="hs" value="h97"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="97"/>
+        </imgdir>
+        <imgdir name="98">
+          <string name="hs" value="h98"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="98"/>
+        </imgdir>
+        <imgdir name="99">
+          <string name="hs" value="h99"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="99"/>
+        </imgdir>
+        <imgdir name="100">
+          <string name="hs" value="h100"/>
+          <int name="time" value="900"/>
+          <int name="pdd" value="100"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="21" name="0" width="48">
+          <vector name="origin" x="29" y="14"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="25" name="1" width="60">
+          <vector name="origin" x="35" y="18"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="32" name="2" width="66">
+          <vector name="origin" x="38" y="25"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="36" name="3" width="60">
+          <vector name="origin" x="35" y="29"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="336" name="4" width="77">
+          <vector name="origin" x="42" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="340" name="5" width="84">
+          <vector name="origin" x="43" y="328"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="6" width="80">
+          <vector name="origin" x="46" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="378" name="7" width="89">
+          <vector name="origin" x="42" y="366"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="364" name="8" width="71">
+          <vector name="origin" x="38" y="354"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="361" name="9" width="66">
+          <vector name="origin" x="38" y="349"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="10" width="64">
+          <vector name="origin" x="37" y="326"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="46" name="0" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="1" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="46" name="2" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="3" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="44" name="4" width="86">
+          <vector name="origin" x="45" y="129"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="79" name="5" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="83" name="6" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="50"/>
+        </canvas>
+        <canvas height="98" name="7" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="60"/>
+        </canvas>
+        <canvas height="98" name="8" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="90" name="9" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="78" name="10" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9102003">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="1"/>
+        </imgdir>
+        <imgdir name="2">
+          <string name="hs" value="h2"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="2"/>
+        </imgdir>
+        <imgdir name="3">
+          <string name="hs" value="h3"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="3"/>
+        </imgdir>
+        <imgdir name="4">
+          <string name="hs" value="h4"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="4"/>
+        </imgdir>
+        <imgdir name="5">
+          <string name="hs" value="h5"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="5"/>
+        </imgdir>
+        <imgdir name="6">
+          <string name="hs" value="h6"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="6"/>
+        </imgdir>
+        <imgdir name="7">
+          <string name="hs" value="h7"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="7"/>
+        </imgdir>
+        <imgdir name="8">
+          <string name="hs" value="h8"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="8"/>
+        </imgdir>
+        <imgdir name="9">
+          <string name="hs" value="h9"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="9"/>
+        </imgdir>
+        <imgdir name="10">
+          <string name="hs" value="h10"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="10"/>
+        </imgdir>
+        <imgdir name="11">
+          <string name="hs" value="h11"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="11"/>
+        </imgdir>
+        <imgdir name="12">
+          <string name="hs" value="h12"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="12"/>
+        </imgdir>
+        <imgdir name="13">
+          <string name="hs" value="h13"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="13"/>
+        </imgdir>
+        <imgdir name="14">
+          <string name="hs" value="h14"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="14"/>
+        </imgdir>
+        <imgdir name="15">
+          <string name="hs" value="h15"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="15"/>
+        </imgdir>
+        <imgdir name="16">
+          <string name="hs" value="h16"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="16"/>
+        </imgdir>
+        <imgdir name="17">
+          <string name="hs" value="h17"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="17"/>
+        </imgdir>
+        <imgdir name="18">
+          <string name="hs" value="h18"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="18"/>
+        </imgdir>
+        <imgdir name="19">
+          <string name="hs" value="h19"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="19"/>
+        </imgdir>
+        <imgdir name="20">
+          <string name="hs" value="h20"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="20"/>
+        </imgdir>
+        <imgdir name="21">
+          <string name="hs" value="h21"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="21"/>
+        </imgdir>
+        <imgdir name="22">
+          <string name="hs" value="h22"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="22"/>
+        </imgdir>
+        <imgdir name="23">
+          <string name="hs" value="h23"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="23"/>
+        </imgdir>
+        <imgdir name="24">
+          <string name="hs" value="h24"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="24"/>
+        </imgdir>
+        <imgdir name="25">
+          <string name="hs" value="h25"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="25"/>
+        </imgdir>
+        <imgdir name="26">
+          <string name="hs" value="h26"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="26"/>
+        </imgdir>
+        <imgdir name="27">
+          <string name="hs" value="h27"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="27"/>
+        </imgdir>
+        <imgdir name="28">
+          <string name="hs" value="h28"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="28"/>
+        </imgdir>
+        <imgdir name="29">
+          <string name="hs" value="h29"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="29"/>
+        </imgdir>
+        <imgdir name="30">
+          <string name="hs" value="h30"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="30"/>
+        </imgdir>
+        <imgdir name="31">
+          <string name="hs" value="h31"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="31"/>
+        </imgdir>
+        <imgdir name="32">
+          <string name="hs" value="h32"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="32"/>
+        </imgdir>
+        <imgdir name="33">
+          <string name="hs" value="h33"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="33"/>
+        </imgdir>
+        <imgdir name="34">
+          <string name="hs" value="h34"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="34"/>
+        </imgdir>
+        <imgdir name="35">
+          <string name="hs" value="h35"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="35"/>
+        </imgdir>
+        <imgdir name="36">
+          <string name="hs" value="h36"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="36"/>
+        </imgdir>
+        <imgdir name="37">
+          <string name="hs" value="h37"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="37"/>
+        </imgdir>
+        <imgdir name="38">
+          <string name="hs" value="h38"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="38"/>
+        </imgdir>
+        <imgdir name="39">
+          <string name="hs" value="h39"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="39"/>
+        </imgdir>
+        <imgdir name="40">
+          <string name="hs" value="h40"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="40"/>
+        </imgdir>
+        <imgdir name="41">
+          <string name="hs" value="h41"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="41"/>
+        </imgdir>
+        <imgdir name="42">
+          <string name="hs" value="h42"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="42"/>
+        </imgdir>
+        <imgdir name="43">
+          <string name="hs" value="h43"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="43"/>
+        </imgdir>
+        <imgdir name="44">
+          <string name="hs" value="h44"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="44"/>
+        </imgdir>
+        <imgdir name="45">
+          <string name="hs" value="h45"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="45"/>
+        </imgdir>
+        <imgdir name="46">
+          <string name="hs" value="h46"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="46"/>
+        </imgdir>
+        <imgdir name="47">
+          <string name="hs" value="h47"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="47"/>
+        </imgdir>
+        <imgdir name="48">
+          <string name="hs" value="h48"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="48"/>
+        </imgdir>
+        <imgdir name="49">
+          <string name="hs" value="h49"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="49"/>
+        </imgdir>
+        <imgdir name="50">
+          <string name="hs" value="h50"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="50"/>
+        </imgdir>
+        <imgdir name="51">
+          <string name="hs" value="h51"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="51"/>
+        </imgdir>
+        <imgdir name="52">
+          <string name="hs" value="h52"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="52"/>
+        </imgdir>
+        <imgdir name="53">
+          <string name="hs" value="h53"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="53"/>
+        </imgdir>
+        <imgdir name="54">
+          <string name="hs" value="h54"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="54"/>
+        </imgdir>
+        <imgdir name="55">
+          <string name="hs" value="h55"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="55"/>
+        </imgdir>
+        <imgdir name="56">
+          <string name="hs" value="h56"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="56"/>
+        </imgdir>
+        <imgdir name="57">
+          <string name="hs" value="h57"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="57"/>
+        </imgdir>
+        <imgdir name="58">
+          <string name="hs" value="h58"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="58"/>
+        </imgdir>
+        <imgdir name="59">
+          <string name="hs" value="h59"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="59"/>
+        </imgdir>
+        <imgdir name="60">
+          <string name="hs" value="h60"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="60"/>
+        </imgdir>
+        <imgdir name="61">
+          <string name="hs" value="h61"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="61"/>
+        </imgdir>
+        <imgdir name="62">
+          <string name="hs" value="h62"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="62"/>
+        </imgdir>
+        <imgdir name="63">
+          <string name="hs" value="h63"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="63"/>
+        </imgdir>
+        <imgdir name="64">
+          <string name="hs" value="h64"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="64"/>
+        </imgdir>
+        <imgdir name="65">
+          <string name="hs" value="h65"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="65"/>
+        </imgdir>
+        <imgdir name="66">
+          <string name="hs" value="h66"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="66"/>
+        </imgdir>
+        <imgdir name="67">
+          <string name="hs" value="h67"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="67"/>
+        </imgdir>
+        <imgdir name="68">
+          <string name="hs" value="h68"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="68"/>
+        </imgdir>
+        <imgdir name="69">
+          <string name="hs" value="h69"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="69"/>
+        </imgdir>
+        <imgdir name="70">
+          <string name="hs" value="h70"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="70"/>
+        </imgdir>
+        <imgdir name="71">
+          <string name="hs" value="h71"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="71"/>
+        </imgdir>
+        <imgdir name="72">
+          <string name="hs" value="h72"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="72"/>
+        </imgdir>
+        <imgdir name="73">
+          <string name="hs" value="h73"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="73"/>
+        </imgdir>
+        <imgdir name="74">
+          <string name="hs" value="h74"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="74"/>
+        </imgdir>
+        <imgdir name="75">
+          <string name="hs" value="h75"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="75"/>
+        </imgdir>
+        <imgdir name="76">
+          <string name="hs" value="h76"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="76"/>
+        </imgdir>
+        <imgdir name="77">
+          <string name="hs" value="h77"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="77"/>
+        </imgdir>
+        <imgdir name="78">
+          <string name="hs" value="h78"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="78"/>
+        </imgdir>
+        <imgdir name="79">
+          <string name="hs" value="h79"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="79"/>
+        </imgdir>
+        <imgdir name="80">
+          <string name="hs" value="h80"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="80"/>
+        </imgdir>
+        <imgdir name="81">
+          <string name="hs" value="h81"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="81"/>
+        </imgdir>
+        <imgdir name="82">
+          <string name="hs" value="h82"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="82"/>
+        </imgdir>
+        <imgdir name="83">
+          <string name="hs" value="h83"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="83"/>
+        </imgdir>
+        <imgdir name="84">
+          <string name="hs" value="h84"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="84"/>
+        </imgdir>
+        <imgdir name="85">
+          <string name="hs" value="h85"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="85"/>
+        </imgdir>
+        <imgdir name="86">
+          <string name="hs" value="h86"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="86"/>
+        </imgdir>
+        <imgdir name="87">
+          <string name="hs" value="h87"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="87"/>
+        </imgdir>
+        <imgdir name="88">
+          <string name="hs" value="h88"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="88"/>
+        </imgdir>
+        <imgdir name="89">
+          <string name="hs" value="h89"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="89"/>
+        </imgdir>
+        <imgdir name="90">
+          <string name="hs" value="h90"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="90"/>
+        </imgdir>
+        <imgdir name="91">
+          <string name="hs" value="h91"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="91"/>
+        </imgdir>
+        <imgdir name="92">
+          <string name="hs" value="h92"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="92"/>
+        </imgdir>
+        <imgdir name="93">
+          <string name="hs" value="h93"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="93"/>
+        </imgdir>
+        <imgdir name="94">
+          <string name="hs" value="h94"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="94"/>
+        </imgdir>
+        <imgdir name="95">
+          <string name="hs" value="h95"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="95"/>
+        </imgdir>
+        <imgdir name="96">
+          <string name="hs" value="h96"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="96"/>
+        </imgdir>
+        <imgdir name="97">
+          <string name="hs" value="h97"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="97"/>
+        </imgdir>
+        <imgdir name="98">
+          <string name="hs" value="h98"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="98"/>
+        </imgdir>
+        <imgdir name="99">
+          <string name="hs" value="h99"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="99"/>
+        </imgdir>
+        <imgdir name="100">
+          <string name="hs" value="h100"/>
+          <int name="time" value="900"/>
+          <int name="mdd" value="100"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="21" name="0" width="48">
+          <vector name="origin" x="29" y="14"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="25" name="1" width="60">
+          <vector name="origin" x="35" y="18"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="32" name="2" width="66">
+          <vector name="origin" x="38" y="25"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="36" name="3" width="60">
+          <vector name="origin" x="35" y="29"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="336" name="4" width="77">
+          <vector name="origin" x="42" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="340" name="5" width="84">
+          <vector name="origin" x="43" y="328"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="6" width="80">
+          <vector name="origin" x="46" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="378" name="7" width="89">
+          <vector name="origin" x="42" y="366"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="364" name="8" width="71">
+          <vector name="origin" x="38" y="354"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="361" name="9" width="66">
+          <vector name="origin" x="38" y="349"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="10" width="64">
+          <vector name="origin" x="37" y="326"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="46" name="0" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="1" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="46" name="2" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="3" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="44" name="4" width="86">
+          <vector name="origin" x="45" y="129"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="79" name="5" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="83" name="6" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="50"/>
+        </canvas>
+        <canvas height="98" name="7" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="60"/>
+        </canvas>
+        <canvas height="98" name="8" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="90" name="9" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="78" name="10" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9102004">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="1"/>
+        </imgdir>
+        <imgdir name="2">
+          <string name="hs" value="h2"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="2"/>
+        </imgdir>
+        <imgdir name="3">
+          <string name="hs" value="h3"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="3"/>
+        </imgdir>
+        <imgdir name="4">
+          <string name="hs" value="h4"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="4"/>
+        </imgdir>
+        <imgdir name="5">
+          <string name="hs" value="h5"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="5"/>
+        </imgdir>
+        <imgdir name="6">
+          <string name="hs" value="h6"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="6"/>
+        </imgdir>
+        <imgdir name="7">
+          <string name="hs" value="h7"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="7"/>
+        </imgdir>
+        <imgdir name="8">
+          <string name="hs" value="h8"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="8"/>
+        </imgdir>
+        <imgdir name="9">
+          <string name="hs" value="h9"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="9"/>
+        </imgdir>
+        <imgdir name="10">
+          <string name="hs" value="h10"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="10"/>
+        </imgdir>
+        <imgdir name="11">
+          <string name="hs" value="h11"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="11"/>
+        </imgdir>
+        <imgdir name="12">
+          <string name="hs" value="h12"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="12"/>
+        </imgdir>
+        <imgdir name="13">
+          <string name="hs" value="h13"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="13"/>
+        </imgdir>
+        <imgdir name="14">
+          <string name="hs" value="h14"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="14"/>
+        </imgdir>
+        <imgdir name="15">
+          <string name="hs" value="h15"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="15"/>
+        </imgdir>
+        <imgdir name="16">
+          <string name="hs" value="h16"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="16"/>
+        </imgdir>
+        <imgdir name="17">
+          <string name="hs" value="h17"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="17"/>
+        </imgdir>
+        <imgdir name="18">
+          <string name="hs" value="h18"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="18"/>
+        </imgdir>
+        <imgdir name="19">
+          <string name="hs" value="h19"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="19"/>
+        </imgdir>
+        <imgdir name="20">
+          <string name="hs" value="h20"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="20"/>
+        </imgdir>
+        <imgdir name="21">
+          <string name="hs" value="h21"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="21"/>
+        </imgdir>
+        <imgdir name="22">
+          <string name="hs" value="h22"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="22"/>
+        </imgdir>
+        <imgdir name="23">
+          <string name="hs" value="h23"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="23"/>
+        </imgdir>
+        <imgdir name="24">
+          <string name="hs" value="h24"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="24"/>
+        </imgdir>
+        <imgdir name="25">
+          <string name="hs" value="h25"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="25"/>
+        </imgdir>
+        <imgdir name="26">
+          <string name="hs" value="h26"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="26"/>
+        </imgdir>
+        <imgdir name="27">
+          <string name="hs" value="h27"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="27"/>
+        </imgdir>
+        <imgdir name="28">
+          <string name="hs" value="h28"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="28"/>
+        </imgdir>
+        <imgdir name="29">
+          <string name="hs" value="h29"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="29"/>
+        </imgdir>
+        <imgdir name="30">
+          <string name="hs" value="h30"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="30"/>
+        </imgdir>
+        <imgdir name="31">
+          <string name="hs" value="h31"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="31"/>
+        </imgdir>
+        <imgdir name="32">
+          <string name="hs" value="h32"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="32"/>
+        </imgdir>
+        <imgdir name="33">
+          <string name="hs" value="h33"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="33"/>
+        </imgdir>
+        <imgdir name="34">
+          <string name="hs" value="h34"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="34"/>
+        </imgdir>
+        <imgdir name="35">
+          <string name="hs" value="h35"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="35"/>
+        </imgdir>
+        <imgdir name="36">
+          <string name="hs" value="h36"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="36"/>
+        </imgdir>
+        <imgdir name="37">
+          <string name="hs" value="h37"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="37"/>
+        </imgdir>
+        <imgdir name="38">
+          <string name="hs" value="h38"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="38"/>
+        </imgdir>
+        <imgdir name="39">
+          <string name="hs" value="h39"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="39"/>
+        </imgdir>
+        <imgdir name="40">
+          <string name="hs" value="h40"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="40"/>
+        </imgdir>
+        <imgdir name="41">
+          <string name="hs" value="h41"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="41"/>
+        </imgdir>
+        <imgdir name="42">
+          <string name="hs" value="h42"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="42"/>
+        </imgdir>
+        <imgdir name="43">
+          <string name="hs" value="h43"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="43"/>
+        </imgdir>
+        <imgdir name="44">
+          <string name="hs" value="h44"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="44"/>
+        </imgdir>
+        <imgdir name="45">
+          <string name="hs" value="h45"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="45"/>
+        </imgdir>
+        <imgdir name="46">
+          <string name="hs" value="h46"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="46"/>
+        </imgdir>
+        <imgdir name="47">
+          <string name="hs" value="h47"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="47"/>
+        </imgdir>
+        <imgdir name="48">
+          <string name="hs" value="h48"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="48"/>
+        </imgdir>
+        <imgdir name="49">
+          <string name="hs" value="h49"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="49"/>
+        </imgdir>
+        <imgdir name="50">
+          <string name="hs" value="h50"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="50"/>
+        </imgdir>
+        <imgdir name="51">
+          <string name="hs" value="h51"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="51"/>
+        </imgdir>
+        <imgdir name="52">
+          <string name="hs" value="h52"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="52"/>
+        </imgdir>
+        <imgdir name="53">
+          <string name="hs" value="h53"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="53"/>
+        </imgdir>
+        <imgdir name="54">
+          <string name="hs" value="h54"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="54"/>
+        </imgdir>
+        <imgdir name="55">
+          <string name="hs" value="h55"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="55"/>
+        </imgdir>
+        <imgdir name="56">
+          <string name="hs" value="h56"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="56"/>
+        </imgdir>
+        <imgdir name="57">
+          <string name="hs" value="h57"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="57"/>
+        </imgdir>
+        <imgdir name="58">
+          <string name="hs" value="h58"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="58"/>
+        </imgdir>
+        <imgdir name="59">
+          <string name="hs" value="h59"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="59"/>
+        </imgdir>
+        <imgdir name="60">
+          <string name="hs" value="h60"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="60"/>
+        </imgdir>
+        <imgdir name="61">
+          <string name="hs" value="h61"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="61"/>
+        </imgdir>
+        <imgdir name="62">
+          <string name="hs" value="h62"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="62"/>
+        </imgdir>
+        <imgdir name="63">
+          <string name="hs" value="h63"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="63"/>
+        </imgdir>
+        <imgdir name="64">
+          <string name="hs" value="h64"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="64"/>
+        </imgdir>
+        <imgdir name="65">
+          <string name="hs" value="h65"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="65"/>
+        </imgdir>
+        <imgdir name="66">
+          <string name="hs" value="h66"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="66"/>
+        </imgdir>
+        <imgdir name="67">
+          <string name="hs" value="h67"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="67"/>
+        </imgdir>
+        <imgdir name="68">
+          <string name="hs" value="h68"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="68"/>
+        </imgdir>
+        <imgdir name="69">
+          <string name="hs" value="h69"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="69"/>
+        </imgdir>
+        <imgdir name="70">
+          <string name="hs" value="h70"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="70"/>
+        </imgdir>
+        <imgdir name="71">
+          <string name="hs" value="h71"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="71"/>
+        </imgdir>
+        <imgdir name="72">
+          <string name="hs" value="h72"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="72"/>
+        </imgdir>
+        <imgdir name="73">
+          <string name="hs" value="h73"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="73"/>
+        </imgdir>
+        <imgdir name="74">
+          <string name="hs" value="h74"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="74"/>
+        </imgdir>
+        <imgdir name="75">
+          <string name="hs" value="h75"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="75"/>
+        </imgdir>
+        <imgdir name="76">
+          <string name="hs" value="h76"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="76"/>
+        </imgdir>
+        <imgdir name="77">
+          <string name="hs" value="h77"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="77"/>
+        </imgdir>
+        <imgdir name="78">
+          <string name="hs" value="h78"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="78"/>
+        </imgdir>
+        <imgdir name="79">
+          <string name="hs" value="h79"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="79"/>
+        </imgdir>
+        <imgdir name="80">
+          <string name="hs" value="h80"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="80"/>
+        </imgdir>
+        <imgdir name="81">
+          <string name="hs" value="h81"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="81"/>
+        </imgdir>
+        <imgdir name="82">
+          <string name="hs" value="h82"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="82"/>
+        </imgdir>
+        <imgdir name="83">
+          <string name="hs" value="h83"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="83"/>
+        </imgdir>
+        <imgdir name="84">
+          <string name="hs" value="h84"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="84"/>
+        </imgdir>
+        <imgdir name="85">
+          <string name="hs" value="h85"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="85"/>
+        </imgdir>
+        <imgdir name="86">
+          <string name="hs" value="h86"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="86"/>
+        </imgdir>
+        <imgdir name="87">
+          <string name="hs" value="h87"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="87"/>
+        </imgdir>
+        <imgdir name="88">
+          <string name="hs" value="h88"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="88"/>
+        </imgdir>
+        <imgdir name="89">
+          <string name="hs" value="h89"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="89"/>
+        </imgdir>
+        <imgdir name="90">
+          <string name="hs" value="h90"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="90"/>
+        </imgdir>
+        <imgdir name="91">
+          <string name="hs" value="h91"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="91"/>
+        </imgdir>
+        <imgdir name="92">
+          <string name="hs" value="h92"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="92"/>
+        </imgdir>
+        <imgdir name="93">
+          <string name="hs" value="h93"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="93"/>
+        </imgdir>
+        <imgdir name="94">
+          <string name="hs" value="h94"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="94"/>
+        </imgdir>
+        <imgdir name="95">
+          <string name="hs" value="h95"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="95"/>
+        </imgdir>
+        <imgdir name="96">
+          <string name="hs" value="h96"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="96"/>
+        </imgdir>
+        <imgdir name="97">
+          <string name="hs" value="h97"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="97"/>
+        </imgdir>
+        <imgdir name="98">
+          <string name="hs" value="h98"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="98"/>
+        </imgdir>
+        <imgdir name="99">
+          <string name="hs" value="h99"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="99"/>
+        </imgdir>
+        <imgdir name="100">
+          <string name="hs" value="h100"/>
+          <int name="time" value="900"/>
+          <int name="acc" value="100"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="21" name="0" width="48">
+          <vector name="origin" x="29" y="14"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="25" name="1" width="60">
+          <vector name="origin" x="35" y="18"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="32" name="2" width="66">
+          <vector name="origin" x="38" y="25"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="36" name="3" width="60">
+          <vector name="origin" x="35" y="29"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="336" name="4" width="77">
+          <vector name="origin" x="42" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="340" name="5" width="84">
+          <vector name="origin" x="43" y="328"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="6" width="80">
+          <vector name="origin" x="46" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="378" name="7" width="89">
+          <vector name="origin" x="42" y="366"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="364" name="8" width="71">
+          <vector name="origin" x="38" y="354"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="361" name="9" width="66">
+          <vector name="origin" x="38" y="349"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="10" width="64">
+          <vector name="origin" x="37" y="326"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="46" name="0" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="1" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="46" name="2" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="3" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="44" name="4" width="86">
+          <vector name="origin" x="45" y="129"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="79" name="5" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="83" name="6" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="50"/>
+        </canvas>
+        <canvas height="98" name="7" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="60"/>
+        </canvas>
+        <canvas height="98" name="8" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="90" name="9" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="78" name="10" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+    <imgdir name="9102005">
+      <canvas height="32" name="icon" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconMouseOver" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <canvas height="32" name="iconDisabled" width="32">
+        <vector name="origin" x="0" y="32"/>
+        <int name="z" value="0"/>
+      </canvas>
+      <imgdir name="action">
+        <string name="0" value="alert2"/>
+      </imgdir>
+      <imgdir name="level">
+        <imgdir name="1">
+          <string name="hs" value="h1"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="1"/>
+        </imgdir>
+        <imgdir name="2">
+          <string name="hs" value="h2"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="2"/>
+        </imgdir>
+        <imgdir name="3">
+          <string name="hs" value="h3"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="3"/>
+        </imgdir>
+        <imgdir name="4">
+          <string name="hs" value="h4"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="4"/>
+        </imgdir>
+        <imgdir name="5">
+          <string name="hs" value="h5"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="5"/>
+        </imgdir>
+        <imgdir name="6">
+          <string name="hs" value="h6"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="6"/>
+        </imgdir>
+        <imgdir name="7">
+          <string name="hs" value="h7"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="7"/>
+        </imgdir>
+        <imgdir name="8">
+          <string name="hs" value="h8"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="8"/>
+        </imgdir>
+        <imgdir name="9">
+          <string name="hs" value="h9"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="9"/>
+        </imgdir>
+        <imgdir name="10">
+          <string name="hs" value="h10"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="10"/>
+        </imgdir>
+        <imgdir name="11">
+          <string name="hs" value="h11"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="11"/>
+        </imgdir>
+        <imgdir name="12">
+          <string name="hs" value="h12"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="12"/>
+        </imgdir>
+        <imgdir name="13">
+          <string name="hs" value="h13"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="13"/>
+        </imgdir>
+        <imgdir name="14">
+          <string name="hs" value="h14"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="14"/>
+        </imgdir>
+        <imgdir name="15">
+          <string name="hs" value="h15"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="15"/>
+        </imgdir>
+        <imgdir name="16">
+          <string name="hs" value="h16"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="16"/>
+        </imgdir>
+        <imgdir name="17">
+          <string name="hs" value="h17"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="17"/>
+        </imgdir>
+        <imgdir name="18">
+          <string name="hs" value="h18"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="18"/>
+        </imgdir>
+        <imgdir name="19">
+          <string name="hs" value="h19"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="19"/>
+        </imgdir>
+        <imgdir name="20">
+          <string name="hs" value="h20"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="20"/>
+        </imgdir>
+        <imgdir name="21">
+          <string name="hs" value="h21"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="21"/>
+        </imgdir>
+        <imgdir name="22">
+          <string name="hs" value="h22"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="22"/>
+        </imgdir>
+        <imgdir name="23">
+          <string name="hs" value="h23"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="23"/>
+        </imgdir>
+        <imgdir name="24">
+          <string name="hs" value="h24"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="24"/>
+        </imgdir>
+        <imgdir name="25">
+          <string name="hs" value="h25"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="25"/>
+        </imgdir>
+        <imgdir name="26">
+          <string name="hs" value="h26"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="26"/>
+        </imgdir>
+        <imgdir name="27">
+          <string name="hs" value="h27"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="27"/>
+        </imgdir>
+        <imgdir name="28">
+          <string name="hs" value="h28"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="28"/>
+        </imgdir>
+        <imgdir name="29">
+          <string name="hs" value="h29"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="29"/>
+        </imgdir>
+        <imgdir name="30">
+          <string name="hs" value="h30"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="30"/>
+        </imgdir>
+        <imgdir name="31">
+          <string name="hs" value="h31"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="31"/>
+        </imgdir>
+        <imgdir name="32">
+          <string name="hs" value="h32"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="32"/>
+        </imgdir>
+        <imgdir name="33">
+          <string name="hs" value="h33"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="33"/>
+        </imgdir>
+        <imgdir name="34">
+          <string name="hs" value="h34"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="34"/>
+        </imgdir>
+        <imgdir name="35">
+          <string name="hs" value="h35"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="35"/>
+        </imgdir>
+        <imgdir name="36">
+          <string name="hs" value="h36"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="36"/>
+        </imgdir>
+        <imgdir name="37">
+          <string name="hs" value="h37"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="37"/>
+        </imgdir>
+        <imgdir name="38">
+          <string name="hs" value="h38"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="38"/>
+        </imgdir>
+        <imgdir name="39">
+          <string name="hs" value="h39"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="39"/>
+        </imgdir>
+        <imgdir name="40">
+          <string name="hs" value="h40"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="40"/>
+        </imgdir>
+        <imgdir name="41">
+          <string name="hs" value="h41"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="41"/>
+        </imgdir>
+        <imgdir name="42">
+          <string name="hs" value="h42"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="42"/>
+        </imgdir>
+        <imgdir name="43">
+          <string name="hs" value="h43"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="43"/>
+        </imgdir>
+        <imgdir name="44">
+          <string name="hs" value="h44"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="44"/>
+        </imgdir>
+        <imgdir name="45">
+          <string name="hs" value="h45"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="45"/>
+        </imgdir>
+        <imgdir name="46">
+          <string name="hs" value="h46"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="46"/>
+        </imgdir>
+        <imgdir name="47">
+          <string name="hs" value="h47"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="47"/>
+        </imgdir>
+        <imgdir name="48">
+          <string name="hs" value="h48"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="48"/>
+        </imgdir>
+        <imgdir name="49">
+          <string name="hs" value="h49"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="49"/>
+        </imgdir>
+        <imgdir name="50">
+          <string name="hs" value="h50"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="50"/>
+        </imgdir>
+        <imgdir name="51">
+          <string name="hs" value="h51"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="51"/>
+        </imgdir>
+        <imgdir name="52">
+          <string name="hs" value="h52"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="52"/>
+        </imgdir>
+        <imgdir name="53">
+          <string name="hs" value="h53"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="53"/>
+        </imgdir>
+        <imgdir name="54">
+          <string name="hs" value="h54"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="54"/>
+        </imgdir>
+        <imgdir name="55">
+          <string name="hs" value="h55"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="55"/>
+        </imgdir>
+        <imgdir name="56">
+          <string name="hs" value="h56"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="56"/>
+        </imgdir>
+        <imgdir name="57">
+          <string name="hs" value="h57"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="57"/>
+        </imgdir>
+        <imgdir name="58">
+          <string name="hs" value="h58"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="58"/>
+        </imgdir>
+        <imgdir name="59">
+          <string name="hs" value="h59"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="59"/>
+        </imgdir>
+        <imgdir name="60">
+          <string name="hs" value="h60"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="60"/>
+        </imgdir>
+        <imgdir name="61">
+          <string name="hs" value="h61"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="61"/>
+        </imgdir>
+        <imgdir name="62">
+          <string name="hs" value="h62"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="62"/>
+        </imgdir>
+        <imgdir name="63">
+          <string name="hs" value="h63"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="63"/>
+        </imgdir>
+        <imgdir name="64">
+          <string name="hs" value="h64"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="64"/>
+        </imgdir>
+        <imgdir name="65">
+          <string name="hs" value="h65"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="65"/>
+        </imgdir>
+        <imgdir name="66">
+          <string name="hs" value="h66"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="66"/>
+        </imgdir>
+        <imgdir name="67">
+          <string name="hs" value="h67"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="67"/>
+        </imgdir>
+        <imgdir name="68">
+          <string name="hs" value="h68"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="68"/>
+        </imgdir>
+        <imgdir name="69">
+          <string name="hs" value="h69"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="69"/>
+        </imgdir>
+        <imgdir name="70">
+          <string name="hs" value="h70"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="70"/>
+        </imgdir>
+        <imgdir name="71">
+          <string name="hs" value="h71"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="71"/>
+        </imgdir>
+        <imgdir name="72">
+          <string name="hs" value="h72"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="72"/>
+        </imgdir>
+        <imgdir name="73">
+          <string name="hs" value="h73"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="73"/>
+        </imgdir>
+        <imgdir name="74">
+          <string name="hs" value="h74"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="74"/>
+        </imgdir>
+        <imgdir name="75">
+          <string name="hs" value="h75"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="75"/>
+        </imgdir>
+        <imgdir name="76">
+          <string name="hs" value="h76"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="76"/>
+        </imgdir>
+        <imgdir name="77">
+          <string name="hs" value="h77"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="77"/>
+        </imgdir>
+        <imgdir name="78">
+          <string name="hs" value="h78"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="78"/>
+        </imgdir>
+        <imgdir name="79">
+          <string name="hs" value="h79"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="79"/>
+        </imgdir>
+        <imgdir name="80">
+          <string name="hs" value="h80"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="80"/>
+        </imgdir>
+        <imgdir name="81">
+          <string name="hs" value="h81"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="81"/>
+        </imgdir>
+        <imgdir name="82">
+          <string name="hs" value="h82"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="82"/>
+        </imgdir>
+        <imgdir name="83">
+          <string name="hs" value="h83"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="83"/>
+        </imgdir>
+        <imgdir name="84">
+          <string name="hs" value="h84"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="84"/>
+        </imgdir>
+        <imgdir name="85">
+          <string name="hs" value="h85"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="85"/>
+        </imgdir>
+        <imgdir name="86">
+          <string name="hs" value="h86"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="86"/>
+        </imgdir>
+        <imgdir name="87">
+          <string name="hs" value="h87"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="87"/>
+        </imgdir>
+        <imgdir name="88">
+          <string name="hs" value="h88"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="88"/>
+        </imgdir>
+        <imgdir name="89">
+          <string name="hs" value="h89"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="89"/>
+        </imgdir>
+        <imgdir name="90">
+          <string name="hs" value="h90"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="90"/>
+        </imgdir>
+        <imgdir name="91">
+          <string name="hs" value="h91"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="91"/>
+        </imgdir>
+        <imgdir name="92">
+          <string name="hs" value="h92"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="92"/>
+        </imgdir>
+        <imgdir name="93">
+          <string name="hs" value="h93"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="93"/>
+        </imgdir>
+        <imgdir name="94">
+          <string name="hs" value="h94"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="94"/>
+        </imgdir>
+        <imgdir name="95">
+          <string name="hs" value="h95"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="95"/>
+        </imgdir>
+        <imgdir name="96">
+          <string name="hs" value="h96"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="96"/>
+        </imgdir>
+        <imgdir name="97">
+          <string name="hs" value="h97"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="97"/>
+        </imgdir>
+        <imgdir name="98">
+          <string name="hs" value="h98"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="98"/>
+        </imgdir>
+        <imgdir name="99">
+          <string name="hs" value="h99"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="99"/>
+        </imgdir>
+        <imgdir name="100">
+          <string name="hs" value="h100"/>
+          <int name="time" value="900"/>
+          <int name="eva" value="100"/>
+        </imgdir>
+      </imgdir>
+      <imgdir name="effect">
+        <canvas height="21" name="0" width="48">
+          <vector name="origin" x="29" y="14"/>
+          <int name="delay" value="90"/>
+        </canvas>
+        <canvas height="25" name="1" width="60">
+          <vector name="origin" x="35" y="18"/>
+          <int name="delay" value="100"/>
+        </canvas>
+        <canvas height="32" name="2" width="66">
+          <vector name="origin" x="38" y="25"/>
+          <int name="delay" value="110"/>
+        </canvas>
+        <canvas height="36" name="3" width="60">
+          <vector name="origin" x="35" y="29"/>
+          <int name="delay" value="120"/>
+        </canvas>
+        <canvas height="336" name="4" width="77">
+          <vector name="origin" x="42" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="340" name="5" width="84">
+          <vector name="origin" x="43" y="328"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="6" width="80">
+          <vector name="origin" x="46" y="326"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="378" name="7" width="89">
+          <vector name="origin" x="42" y="366"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="364" name="8" width="71">
+          <vector name="origin" x="38" y="354"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="361" name="9" width="66">
+          <vector name="origin" x="38" y="349"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="336" name="10" width="64">
+          <vector name="origin" x="37" y="326"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+      <imgdir name="affected">
+        <canvas height="46" name="0" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="1" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="46" name="2" width="86">
+          <vector name="origin" x="45" y="130"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="41" name="3" width="90">
+          <vector name="origin" x="47" y="125"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="44" name="4" width="86">
+          <vector name="origin" x="45" y="129"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="79" name="5" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="83" name="6" width="90">
+          <vector name="origin" x="47" y="123"/>
+          <int name="delay" value="50"/>
+        </canvas>
+        <canvas height="98" name="7" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="60"/>
+        </canvas>
+        <canvas height="98" name="8" width="86">
+          <vector name="origin" x="45" y="127"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="90" name="9" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="80"/>
+        </canvas>
+        <canvas height="78" name="10" width="90">
+          <vector name="origin" x="47" y="121"/>
+          <int name="delay" value="300"/>
+          <int name="a0" value="255"/>
+          <int name="a1" value="0"/>
+        </canvas>
+      </imgdir>
+    </imgdir>
+  </imgdir>
+  <imgdir name="info">
+    <canvas height="30" name="icon" width="26">
+      <vector name="origin" x="-4" y="30"/>
+    </canvas>
+  </imgdir>
+</imgdir>
