@@ -72,15 +72,19 @@ public class ServerApplication {
         String dbName = dbSplit[dbSplit.length - 1];
         String dbPrefix = urlPrefix.substring(0, urlPrefix.length() - dbName.length());
         try (Connection connection = getConnection(driver, dbPrefix + "mysql", username, password)) {
-            PreparedStatement preparedStatement = connection.prepareStatement("SHOW DATABASES LIKE '" + dbName + "'");
-            ResultSet resultSet = preparedStatement.executeQuery();
-            if (resultSet.next()) {
-                return;
+            createDatabaseIfNotExists(connection, dbName);
+            createDatabaseIfNotExists(connection, "mxd_log");
+        }
+    }
+
+    private static void createDatabaseIfNotExists(Connection connection, String dbName) throws Exception {
+        try (PreparedStatement preparedStatement = connection.prepareStatement("SHOW DATABASES LIKE '" + dbName + "'");
+             ResultSet resultSet = preparedStatement.executeQuery()) {
+            if (!resultSet.next()) {
+                try (PreparedStatement createStmt = connection.prepareStatement("CREATE DATABASE `" + dbName + "` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci")) {
+                    createStmt.executeUpdate();
+                }
             }
-            resultSet.close();
-            preparedStatement = connection.prepareStatement("CREATE DATABASE " + dbName + " DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci");
-            preparedStatement.executeUpdate();
-            preparedStatement.close();
         }
     }
 
