@@ -24,6 +24,8 @@ CREATE TABLE IF NOT EXISTS `inventoryequipment`
     `itemlevel`            INT(11)          NOT NULL DEFAULT '1',
     `itemexp`              INT(11) UNSIGNED NOT NULL DEFAULT '0',
     `ringid`               INT(11)          NOT NULL DEFAULT '-1',
+    `customupgradecount`   INT(11)          NOT NULL DEFAULT '0',
+    `skill`                TINYINT(4)       NOT NULL DEFAULT '0',
     PRIMARY KEY (`inventoryequipmentid`),
     KEY `INVENTORYITEMID` (`inventoryitemid`)
 ) ENGINE = InnoDB
