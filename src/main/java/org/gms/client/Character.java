@@ -7174,8 +7174,8 @@ public class Character extends AbstractCharacterObject {
         chr.setMonsterBook(new MonsterBook(charactersDO.getId()));
         chr.setVanquisherStage(charactersDO.getVanquisherStage());
         chr.setAriantPoints(charactersDO.getAriantPoints());
-		chr.setDamage(charactersDO.getDamage());
-		chr.setUpLevelAddAttr(charactersDO.getUpLevelAddAttr());
+		chr.setDamage(charactersDO.getDamage() == null ? 0 : charactersDO.getDamage());
+		chr.setUpLevelAddAttr(charactersDO.getUpLevelAddAttr() == null ? 0 : charactersDO.getUpLevelAddAttr());
         chr.setDojoPoints(charactersDO.getDojoPoints());
         chr.setDojoStage(charactersDO.getLastDojoStage());
         chr.setDataString(charactersDO.getDataString());
