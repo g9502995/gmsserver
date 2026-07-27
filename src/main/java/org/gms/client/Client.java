@@ -64,7 +64,7 @@ import org.gms.scripting.quest.QuestScriptManager;
 import org.gms.server.MapleLeafLogger;
 import org.gms.server.ThreadManager;
 import org.gms.server.TimerManager;
-import org.gms.server.offlinecombat.OfflineCombatManager;
+import org.gms.server.offlinefishing.OfflineFishingManager;
 import org.gms.server.life.Monster;
 import org.gms.server.maps.FieldLimit;
 import org.gms.server.maps.MapleMap;
@@ -307,6 +307,16 @@ public class Client extends ChannelInboundHandlerAdapter {
 
     public String getRemoteAddress() {
         return remoteAddress;
+    }
+
+    /**
+     * True only while an actual network socket is attached and open. A resident offline character
+     * (e.g. offline fishing - see OfflineFishingManager) stays "logged in" but has no live socket,
+     * so this is false for it - used to keep such characters from being handed monster control
+     * they can never actually exercise (see Monster#getNextControllerCandidate).
+     */
+    public boolean isConnected() {
+        return ioChannel != null && ioChannel.isActive();
     }
 
     public boolean isInTransition() {
@@ -1007,12 +1017,12 @@ public class Client extends ChannelInboundHandlerAdapter {
 
     private void disconnectInternal(boolean shutdown, boolean cashshop) {//once per Client instance
         if (player != null && player.isLoggedIn() && player.getClient() != null) {
-            if (!shutdown && !cashshop && OfflineCombatManager.getInstance().tryStart(this, player)) {
-                // Handed off to offline combat: keep the character fully resident (map/world/channel
-                // storage, party/guild/buddy all still see it as online) so an OfflineCombatAgent can
-                // keep fighting in its place. Only this socket + the account's DB login flag are
-                // released, so the same account can log back in and reclaim the character
-                // (see PlayerLoggedinHandler, which stops the agent before Character#newClient runs).
+            if (!shutdown && !cashshop && OfflineFishingManager.getInstance().tryStart(this, player)) {
+                // Handed off to offline fishing: keep the character fully resident (map/world/channel
+                // storage, party/guild/buddy all still see it as online) so its agent can keep acting
+                // in its place. Only this socket + the account's DB login flag are released, so the
+                // same account can log back in and reclaim the character (see PlayerLoggedinHandler,
+                // which stops the agent before Character#newClient runs).
                 player.closePlayerInteractions();
                 player.closePartySearchInteractions();
                 player.updateOnlineTime();
@@ -1119,13 +1129,14 @@ public class Client extends ChannelInboundHandlerAdapter {
     }
 
     /**
-     * Called by OfflineCombatManager when a resident offline-combat character needs to be fully
-     * retired (death, map change, manual GM stop, server shutdown) - i.e. every stop reason except
-     * the owner logging back in, which instead goes through the normal reattachment path. Reruns
-     * the exact same teardown a normal disconnect would have done; this is safe to call because
-     * offline-combat handoff deliberately left player/isLoggedIn/getClient() untouched.
+     * Called by an offline-mode manager (e.g. OfflineFishingManager) when a resident, clientless
+     * character needs to be fully retired (death, map change, manual stop, server shutdown) - i.e.
+     * every stop reason except the owner logging back in, which instead goes through the normal
+     * reattachment path. Reruns the exact same teardown a normal disconnect would have done; this
+     * is safe to call because the offline handoff deliberately left player/isLoggedIn/getClient()
+     * untouched.
      */
-    public void finalizeOfflineCombat(boolean shutdown) {
+    public void finalizeOfflineSession(boolean shutdown) {
         disconnectInternal(shutdown, false);
     }
 

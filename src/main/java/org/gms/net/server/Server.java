@@ -1629,7 +1629,7 @@ public class Server {
             return;//already shutdown
         }
 
-        org.gms.server.offlinecombat.OfflineCombatManager.getInstance().shutdown();
+        org.gms.server.offlinefishing.OfflineFishingManager.getInstance().shutdown();
 
         for (World w : getWorlds()) {
             w.shutdown();

@@ -63,7 +63,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.gms.scripting.event.EventInstanceManager;
 import org.gms.server.life.MobSkill;
-import org.gms.server.offlinecombat.OfflineCombatManager;
+import org.gms.server.offlinefishing.OfflineFishingManager;
 import org.gms.service.NoteService;
 import org.gms.util.DatabaseConnection;
 import org.gms.util.PacketCreator;
@@ -222,9 +222,10 @@ public final class PlayerLoggedinHandler extends AbstractPacketHandler {
             }
 
             if (!newcomer) {
-                // Stop any offline-combat agent (and release the AI's grip on the character) before
-                // re-attaching this fresh Client, so the two can never tick/act on it at once.
-                OfflineCombatManager.getInstance().reclaimForLogin(player.getId());
+                // Stop any offline-fishing agent (and release its grip on the character) before
+                // re-attaching this fresh Client, so nothing can tick/act on it at the same time as
+                // the returning player.
+                OfflineFishingManager.getInstance().reclaimForLogin(player.getId());
 
                 c.setLanguage(player.getClient().getLanguage());
                 c.setCharacterSlots((byte) player.getClient().getCharacterSlots());
