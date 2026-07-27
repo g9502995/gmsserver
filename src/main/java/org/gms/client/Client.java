@@ -211,6 +211,10 @@ public class Client extends ChannelInboundHandlerAdapter {
             return;
         }
 
+        if (packet.available() < 2) {
+            return;
+        }
+
         short opcode = packet.readShort();
         final PacketHandler handler = packetProcessor.getHandler(opcode);
 
