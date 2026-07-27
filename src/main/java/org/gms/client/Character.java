@@ -7569,8 +7569,15 @@ public class Character extends AbstractCharacterObject {
             long localStartTime = mbsv.getLeft();
             int localDuration = mbsvh.effect.alchemistModifyVal(this, mbsvh.effect.getBuffLocalDuration(), false);
             int remainingTime = (int) (localStartTime + localDuration - Server.getInstance().getCurrentTime());
-            Packet buff = PacketCreator.giveBuff((isSkill ? sourceId : -sourceId), remainingTime, mbsvh.effect.getStatups());
-            sendPacket(buff);
+            if (remainingTime > 0) {
+                Packet buff;
+                if (mbsvh.effect.isDash() || mbsvh.effect.isInfusion()) {
+                    buff = PacketCreator.givePirateBuff(mbsvh.effect.getStatups(), (isSkill ? sourceId : -sourceId), remainingTime / 1000);
+                } else {
+                    buff = PacketCreator.giveBuff((isSkill ? sourceId : -sourceId), remainingTime, mbsvh.effect.getStatups());
+                }
+                sendPacket(buff);
+            }
         }
 
     }
