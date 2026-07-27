@@ -212,6 +212,11 @@ public class Client extends ChannelInboundHandlerAdapter {
         }
 
         if (packet.available() < 2) {
+            if (packet.available() > 0) {
+                log.warn("收到长度不足的残缺封包 (长度: {} 字节), 账号: {}, 已安全拦截忽略。", packet.available(), getAccountName());
+            } else if (GameConfig.getServerBoolean("use_debug_show_rcvd_packet")) {
+                log.info("收到 0 字节空白封包 (Heartbeat/Keep-alive), 账号: {}, 已安全拦截忽略。", getAccountName());
+            }
             return;
         }
 
