@@ -64,6 +64,7 @@ import org.gms.scripting.quest.QuestScriptManager;
 import org.gms.server.MapleLeafLogger;
 import org.gms.server.ThreadManager;
 import org.gms.server.TimerManager;
+import org.gms.server.offlinecombat.OfflineCombatManager;
 import org.gms.server.life.Monster;
 import org.gms.server.maps.FieldLimit;
 import org.gms.server.maps.MapleMap;
@@ -1006,6 +1007,23 @@ public class Client extends ChannelInboundHandlerAdapter {
 
     private void disconnectInternal(boolean shutdown, boolean cashshop) {//once per Client instance
         if (player != null && player.isLoggedIn() && player.getClient() != null) {
+            if (!shutdown && !cashshop && OfflineCombatManager.getInstance().tryStart(this, player)) {
+                // Handed off to offline combat: keep the character fully resident (map/world/channel
+                // storage, party/guild/buddy all still see it as online) so an OfflineCombatAgent can
+                // keep fighting in its place. Only this socket + the account's DB login flag are
+                // released, so the same account can log back in and reclaim the character
+                // (see PlayerLoggedinHandler, which stops the agent before Character#newClient runs).
+                player.closePlayerInteractions();
+                player.closePartySearchInteractions();
+                player.updateOnlineTime();
+                player.saveCooldowns();
+                player.saveCharToDB(true);
+                updateLoginState(Client.LOGIN_NOTLOGGEDIN);
+                Server.getInstance().unregisterLoginState(this);
+                SessionCoordinator.getInstance().closeSession(this, false);
+                return;
+            }
+
             final int messengerid = player.getMessenger() == null ? 0 : player.getMessenger().getId();
             //final int fid = player.getFamilyId();
             final BuddyList bl = player.getBuddylist();
@@ -1098,6 +1116,17 @@ public class Client extends ChannelInboundHandlerAdapter {
 
             engines = null; // thanks Tochi for pointing out a NPE here
         }
+    }
+
+    /**
+     * Called by OfflineCombatManager when a resident offline-combat character needs to be fully
+     * retired (death, map change, manual GM stop, server shutdown) - i.e. every stop reason except
+     * the owner logging back in, which instead goes through the normal reattachment path. Reruns
+     * the exact same teardown a normal disconnect would have done; this is safe to call because
+     * offline-combat handoff deliberately left player/isLoggedIn/getClient() untouched.
+     */
+    public void finalizeOfflineCombat(boolean shutdown) {
+        disconnectInternal(shutdown, false);
     }
 
     private void clear() {

@@ -1628,6 +1628,9 @@ public class Server {
         if (getWorlds() == null) {
             return;//already shutdown
         }
+
+        org.gms.server.offlinecombat.OfflineCombatManager.getInstance().shutdown();
+
         for (World w : getWorlds()) {
             w.shutdown();
         }
