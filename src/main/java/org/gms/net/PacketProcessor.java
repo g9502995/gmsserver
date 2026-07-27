@@ -25,6 +25,7 @@ import org.gms.net.netty.LoginServer;
 import org.gms.net.opcodes.RecvOpcode;
 import org.gms.net.server.channel.handlers.*;
 import org.gms.net.server.handlers.CustomPacketHandler;
+import org.gms.net.server.handlers.ClientErrorHandler;
 import org.gms.net.server.handlers.KeepAliveHandler;
 import org.gms.net.server.handlers.LoginRequiringNoOpHandler;
 import org.gms.net.server.handlers.login.AcceptToSHandler;
@@ -129,6 +130,7 @@ public final class PacketProcessor {
     private void registerCommonHandlers() {
         registerHandler(RecvOpcode.PONG, new KeepAliveHandler());
         registerHandler(RecvOpcode.CUSTOM_PACKET, new CustomPacketHandler());
+        registerHandler(RecvOpcode.CLIENT_ERROR, new ClientErrorHandler());
     }
 
     private void registerLoginHandlers() {
