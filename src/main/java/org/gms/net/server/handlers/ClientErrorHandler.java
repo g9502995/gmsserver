@@ -18,7 +18,7 @@ public class ClientErrorHandler implements PacketHandler {
                 String hex = HexTool.toHexString(data);
                 String text = HexTool.toStringFromCharset(data);
                 log.error("[Client Error / Error 38] 收到客户端报错数据包！账号: {} (ID: {}), 角色: {}, Hex: {}, 文本: {}",
-                        c.getAccountName(), c.getAccountId(),
+                        c.getAccountName(), c.getAccID(),
                         (c.getPlayer() != null ? c.getPlayer().getName() : "未选角"),
                         hex, text);
             } catch (Exception e) {
