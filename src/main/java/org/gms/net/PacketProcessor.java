@@ -130,7 +130,11 @@ public final class PacketProcessor {
     private void registerCommonHandlers() {
         registerHandler(RecvOpcode.PONG, new KeepAliveHandler());
         registerHandler(RecvOpcode.CUSTOM_PACKET, new CustomPacketHandler());
-        registerHandler(RecvOpcode.CLIENT_ERROR, new ClientErrorHandler());
+        ClientErrorHandler clientErrorHandler = new ClientErrorHandler();
+        registerHandler(RecvOpcode.CLIENT_ERROR, clientErrorHandler);
+        registerHandler(RecvOpcode.CRASH_INFO, clientErrorHandler);
+        registerHandler(RecvOpcode.PLAYER_DC, clientErrorHandler);
+        registerHandler(RecvOpcode.CLIENT_START_ERROR, clientErrorHandler);
     }
 
     private void registerLoginHandlers() {

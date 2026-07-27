@@ -37,6 +37,7 @@ public enum RecvOpcode {
     PLAYER_DC(0x0C), // 玩家断开连接
     VIEW_ALL_CHAR(0x0D), // 查看所有角色
     PICK_ALL_CHAR(0x0E), // 选择所有角色
+    CRASH_INFO(0x0F), // 客户端 Error 38 报错崩溃报告
     NAME_TRANSFER(0x10), // 名称转移
     WORLD_TRANSFER(0x12), // 世界转移
     CHAR_SELECT(0x13), // 角色选择
